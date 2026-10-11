@@ -1,5 +1,3 @@
-﻿canal_lista,tvg_id,canal_catalogo,sitio,nombre_guia,idioma,formato,url_fuente
-,AlJazeera.qa,Al Jazeera English,aljazeera.com,English,en,XML,https://worker-9dd4.onrender.com/guide.xml
-,AlJazeera.qa,Al Jazeera English,aljazeera.com,English,en,GZIP,https://worker-9dd4.onrender.com/guide.xml.gz
-,ANT1Europe.gr,ANT1 Europe,antennaeurope.gr,SD,el,XML,https://worker-9dd4.onrender.com/guide.xml
-,ANT1Europe.gr,ANT1 Europe,antennaeurope.gr,SD,el,GZIP,https://worker-9dd4.onrender.com/guide.xml.gz
+﻿url,formato,estado,canales_encontrados,programas_nuevos,error
+https://worker-9dd4.onrender.com/guide.xml,XML,XMLTV válido,0,0,
+https://worker-9dd4.onrender.com/guide.xml.gz,GZIP,XMLTV válido,0,0,

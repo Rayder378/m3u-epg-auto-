@@ -1,5771 +1,5130 @@
 [
   {
     "canal_lista": "+Perfil",
-    "tvg_id": "PlusPerfil.ar",
+    "tvg_id": "MasPerfil.ar",
     "tvg_name": "+Perfil",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "13T (720p)",
     "tvg_id": "13T.cl@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "24/7 Canal de Noticias",
-    "tvg_id": "247CanaldeNoticias.ar",
+    "tvg_id": "24/7CanaldeNoticias.ar",
     "tvg_name": "24/7 Canal de Noticias",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 1,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "30A Golf Kingdom",
-    "tvg_id": "30AGolfKingdom.us",
+    "tvg_id": "30AGolfKingdom.us@SD",
     "tvg_name": "30A Golf Kingdom",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "5tv",
     "tvg_id": "5tv.ar@SD",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "5TV | AR",
     "tvg_id": "249",
     "tvg_name": "5TV",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "5TV Corrientes (480p)",
     "tvg_id": "5tv.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "5TV Corrientes  AR | 5TV Corrientes",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "A&E (1080i)",
     "tvg_id": "AandE.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "A&E (1080p)",
     "tvg_id": "AandE.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "A24",
-    "tvg_id": "A24.ar",
+    "tvg_id": "A24.ar@SD",
     "tvg_name": "A24",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 4,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "A24",
-    "tvg_id": "A24.ar",
+    "tvg_id": "A24.ar@SD",
     "tvg_name": "A24",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 4,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "A24 (720p)",
     "tvg_id": "A24.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 4,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "A24 (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "ABTV Bariloche",
-    "tvg_id": "ABTVBariloche.ar",
+    "tvg_id": "ABTVBariloche.ar@SD",
     "tvg_name": "ABTV Bariloche",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "ACC Digital Network",
-    "tvg_id": "ACCDigitalNetwork.us",
+    "tvg_id": "ACCDigitalNetwork.us@SD",
     "tvg_name": "ACC Digital Network",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 4,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "ACC Network (sólo escritorio)",
     "tvg_id": "ACCNetwork.us@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Acequia TV (720p) (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Adrenalina Pura TV (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Adrenalina Pura TV (720p)",
     "tvg_id": "AdrenalinaPuraTV.us@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Adult Swim",
     "tvg_id": "Adult Swim.ar",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Adult Swim Latin America (1080p) [Geo-blocked]",
     "tvg_id": "AdultSwimLatinAmerica.us@Panregional",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Agrotendencia TV (1080p)",
     "tvg_id": "AgrotendenciaTV.cr",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 2,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Aire de Santa Fe",
-    "tvg_id": "AiredeSantaFe.ar",
+    "tvg_id": "AiredeSantaFe.ar@SD",
     "tvg_name": "Aire de Santa Fe",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Aire de Santa Fe",
-    "tvg_id": "AiredeSantaFe.ar",
+    "tvg_id": "AiredeSantaFe.ar@SD",
     "tvg_name": "Aire de Santa Fe",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Aire de Santa Fe | AR",
     "tvg_id": "252",
     "tvg_name": "Aire de Santa Fe",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "AL Jazeera Arabic Live  AR:AL Jazeera Arabic Live",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "AL Jazeera Mubashe  AR:AL Jazeera Mubashe",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "AlternaTV (720p)",
     "tvg_id": "AlternaTV.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "América Tucumán (720p) (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "America TV (720p)",
     "tvg_id": "AmericaTV.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "América TV (720p)",
     "tvg_id": "AmericaTV.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 2,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "America TV (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Animal Planet",
     "tvg_id": "AnimalPlanet.ar",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Anime Zone TV",
     "tvg_id": "AnimeZoneTV.do",
     "tvg_name": "Anime Zone TV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "AnimeStation ✪ | AR",
     "tvg_id": "1081",
     "tvg_name": "AnimeStation",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "AR | Net TV  Net TV",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Argentina 12 (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Argentinisima Satelital",
-    "tvg_id": "ArgentinisimaSatelital.ar",
+    "tvg_id": "ArgentinisimaSatelital.ar@SD",
     "tvg_name": "Argentinisima Satelital",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 2,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Argentinisima Satelital | AR",
     "tvg_id": "253",
     "tvg_name": "Argentinisima Satelital",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "AS3 Sport TV",
-    "tvg_id": "AS3SportTV.ve",
+    "tvg_id": "AS3SportTV.ve@SD",
     "tvg_name": "AS3 Sport TV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Aurora Media Films (720p)",
     "tvg_id": "AuroraMediaFilms.gt@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "AVI Rewind (1080p)",
     "tvg_id": "AVIRewind.us@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "AXN",
     "tvg_id": "AXN.ar",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "AXN Latin America (1080p)",
     "tvg_id": "AXNLatinAmerica.us@CentralAmerica",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "AXN Latin America Andes (1080p)",
     "tvg_id": "AXNLatinAmerica.us@Andes",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "AyM Sports",
-    "tvg_id": "AyMSports.mx",
+    "tvg_id": "AyMSports.mx@SD",
     "tvg_name": "AyM Sports",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 3,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Az Corazon (720p)",
     "tvg_id": "Az Corazón.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Azahares Radiovisual Multimedia (720p)",
     "tvg_id": "AzaharesRadiovisualMultimedia.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Azteca Deportes Network",
-    "tvg_id": "AztecaDeportesNetwork.mx",
+    "tvg_id": "AztecaDeportesNetwork.mx@SD",
     "tvg_name": "Azteca Deportes Network",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Azteca Noticias (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Baby First",
     "tvg_id": "BabyFirst.us",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 4,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "BabyTV",
-    "tvg_id": "BabyTV.uk",
+    "tvg_id": "BabyTV.ar",
     "tvg_name": "BabyTV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 35,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Barricada TV",
     "tvg_id": "BarricadaTV.ar",
     "tvg_name": "Barricada TV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Barricada TV (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "BBC Drama (1080p)",
     "tvg_id": "BBCDrama.uk@Spain",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Beats Radio (480p)",
     "tvg_id": "BeatsRadio.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "beIN SPORTS XTRA",
-    "tvg_id": "beINSPORTSXTRA.us",
+    "tvg_id": "beINSPORTSXTRA.us@SD",
     "tvg_name": "beIN SPORTS XTRA",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 10,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "BEK Sports West",
     "tvg_id": "BEKSports.us@West",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Bellator MMA",
-    "tvg_id": "BellatorMMA.us",
+    "tvg_id": "BellatorMMA.us@SD",
     "tvg_name": "Bellator MMA",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 3,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Bob Esponja Pantalones Cuadrados",
-    "tvg_id": "BobEsponjaPantalonesCuadrados.us",
+    "tvg_id": "BobEsponjaPantalonesCuadrados.us@LatAm",
     "tvg_name": "Bob Esponja Pantalones Cuadrados",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Boreal (720p)",
     "tvg_id": "Boreal.do@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Bragado TV",
-    "tvg_id": "BragadoTV.ar",
+    "tvg_id": "BragadoTV.ar@SD",
     "tvg_name": "Bragado TV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "BVC",
-    "tvg_id": "BVC.ar",
+    "tvg_id": "BVC.ar@SD",
     "tvg_name": "BVC",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "C5N (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "C5N (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Cable Imagen Armstrong (540p)",
     "tvg_id": "CableImagenArmstrong.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Cadena 103",
     "tvg_id": "224",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Cadena 103 (720p)",
     "tvg_id": "Cadena103TV.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Cadena 3 Argentina (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Cadena103.TV",
-    "tvg_id": "Cadena103TV.ar",
+    "tvg_id": "Cadena103TV.ar@SD",
     "tvg_name": "Cadena103.TV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Campeones (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 10 Cordoba (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 10 de Junín (720p) [Not 24/7]",
     "tvg_id": "Canal10deJunin.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 10 Tucumán (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 12 Trenque Lauquen (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 12 Venado Tuerto (1080i)",
     "tvg_id": "Canal12VenadoTuerto.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 13 Jujuy (720p)",
     "tvg_id": "Canal13Jujuy.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 13 La Rioja",
-    "tvg_id": "Canal13LaRioja.ar",
+    "tvg_id": "Canal13LaRioja.ar@SD",
     "tvg_name": "Canal 13 La Rioja",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 13 La Rioja (480p)",
     "tvg_id": "Canal13LaRioja.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 13 San Juan (1080p) (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 2 de Ushuaia (1080p)",
     "tvg_id": "Canal2deUshuaia.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 2 Gualeguay",
-    "tvg_id": "Canal2Gualeguay.ar",
+    "tvg_id": "Canal2Gualeguay.ar@SD",
     "tvg_name": "Canal 2 Gualeguay",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 2 Mar del Plata (720p)",
     "tvg_id": "Canal2MardelPlata.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 2 Misiones",
-    "tvg_id": "Canal2Misiones.ar",
+    "tvg_id": "Canal2Misiones.ar@SD",
     "tvg_name": "Canal 2 Misiones",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 2 Misiones | AR",
     "tvg_id": "1182",
     "tvg_name": "Canal 2 Misiones",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 21 Misiones",
     "tvg_id": "1057",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 21 TV (1080p)",
     "tvg_id": "Canal21TV.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 22 (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 26",
     "tvg_id": "Canal26.ar@SD",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 26 (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 3 Formosa",
-    "tvg_id": "Canal3Formosa.ar",
+    "tvg_id": "Canal3Formosa.ar@SD",
     "tvg_name": "Canal 3 Formosa",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 3 Formosa | AR",
     "tvg_id": "1347",
     "tvg_name": "Canal 3 Formosa",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 3 La Pampa",
-    "tvg_id": "Canal3LaPampa.ar",
+    "tvg_id": "Canal3LaPampa.ar@SD",
     "tvg_name": "Canal 3 La Pampa",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 3 La Pampa | AR",
     "tvg_id": "776",
     "tvg_name": "Canal 3 La Pampa",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 3 Las Heras (720p)",
     "tvg_id": "Canal3LasHeras.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 3 Las Heras | AR",
     "tvg_id": "231",
     "tvg_name": "Canal 3 Las Heras",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 3 Pinamar",
-    "tvg_id": "Canal3Pinamar.ar",
+    "tvg_id": "Canal3Pinamar.ar@SD",
     "tvg_name": "Canal 3 Pinamar",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 3 Pinamar",
-    "tvg_id": "Canal3Pinamar.ar",
+    "tvg_id": "Canal3Pinamar.ar@SD",
     "tvg_name": "Canal 3 Pinamar",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 3 Salta",
     "tvg_id": "1794",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 3 Tacural",
-    "tvg_id": "Canal3Tacural.ar",
+    "tvg_id": "Canal3Tacural.ar@SD",
     "tvg_name": "Canal 3 Tacural",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 34 San Juan",
-    "tvg_id": "Canal34SanJuan.ar",
+    "tvg_id": "1346",
     "tvg_name": "Canal 34 San Juan",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 34 San Juan | AR",
     "tvg_id": "1346",
     "tvg_name": "Canal 34 San Juan",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 4 Esquel",
-    "tvg_id": "Canal4Esquel.ar",
+    "tvg_id": "Canal4Esquel.ar@SD",
     "tvg_name": "Canal 4 Esquel",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 4 Esquel | AR",
     "tvg_id": "780",
     "tvg_name": "Canal 4 Esquel",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 4 Jujuy",
-    "tvg_id": "Canal4Jujuy.ar",
+    "tvg_id": "Canal4Jujuy.ar@SD",
     "tvg_name": "Canal 4 Jujuy",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 4 Jujuy | AR",
     "tvg_id": "258",
     "tvg_name": "Canal 4 Jujuy",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 4 Posadas",
-    "tvg_id": "Canal4Posadas.ar",
+    "tvg_id": "Canal4Posadas.ar@SD",
     "tvg_name": "Canal 4 Posadas",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 4 Posadas | AR",
     "tvg_id": "259",
     "tvg_name": "Canal 4 Posadas",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 4 San Juan",
-    "tvg_id": "Canal4SanJuan.ar",
+    "tvg_id": "Canal4SanJuan.ar@SD",
     "tvg_name": "Canal 4 San Juan",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 4 San Juan | AR",
     "tvg_id": "260",
     "tvg_name": "Canal 4 San Juan",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 4 Teleaire",
-    "tvg_id": "Canal4Teleaire.ar",
+    "tvg_id": "Canal4Teleaire.ar@SD",
     "tvg_name": "Canal 4 Teleaire",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 4 Villa Dolores",
-    "tvg_id": "Canal4VillaDolores.ar",
+    "tvg_id": "Canal4VillaDolores.ar@SD",
     "tvg_name": "Canal 4 Villa Dolores",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 5 Pico Truncado",
     "tvg_id": "Canal5PicoTruncado.ar",
     "tvg_name": "Canal 5 Pico Truncado",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 5 Pico Truncado | AR",
     "tvg_id": "778",
     "tvg_name": "Canal 5 Pico Truncado",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 5 Santa Fe (240p)",
     "tvg_id": "Canal5SantaFe.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 5 Santa Fe | AR",
     "tvg_id": "773",
     "tvg_name": "Canal 5 Santa Fe",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 5 Tucuman | AR",
     "tvg_id": "1138",
     "tvg_name": "Canal 5 Tucuman",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 5 TV Chepes",
-    "tvg_id": "Canal5TVChepes.ar",
+    "tvg_id": "Canal5TVChepes.ar@SD",
     "tvg_name": "Canal 5 TV Chepes",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 5 TV Tandil",
-    "tvg_id": "Canal5TVTandil.ar",
+    "tvg_id": "1709",
     "tvg_name": "Canal 5 TV Tandil",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 50 Morteros",
-    "tvg_id": "Canal50Morteros.ar",
+    "tvg_id": "Canal50Morteros.ar@SD",
     "tvg_name": "Canal 50 Morteros",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 50 Morteros | AR",
     "tvg_id": "232",
     "tvg_name": "Canal 50 Morteros",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 6 Entre Rios (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 6 Posadas",
-    "tvg_id": "Canal6Posadas.ar",
+    "tvg_id": "Canal6Posadas.ar@SD",
     "tvg_name": "Canal 6 Posadas",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 6 Posadas | AR",
     "tvg_id": "262",
     "tvg_name": "Canal 6 Posadas",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 6 Viento Recio",
-    "tvg_id": "Canal6VientoRecio.ar",
+    "tvg_id": "Canal6VientoRecio.ar@SD",
     "tvg_name": "Canal 6 Viento Recio",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 7 Chubut (720p) (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 7 Jujuy",
-    "tvg_id": "Canal7Jujuy.ar",
+    "tvg_id": "Canal7Jujuy.ar@SD",
     "tvg_name": "Canal 7 Jujuy",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 1,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 7 Jujuy | AR",
     "tvg_id": "264",
     "tvg_name": "Canal 7 Jujuy",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 7 Salta (1080p)",
     "tvg_id": "Canal7Salta.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 7 Salta (720p)",
     "tvg_id": "Canal7Salta.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 7 Santiago del Estero",
     "tvg_id": "1350",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 7 TV (720p)",
     "tvg_id": "Canal7TV.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 79 La Costa (240p)",
     "tvg_id": "Canal79LaCosta.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 79 Mar del Plata",
-    "tvg_id": "Canal79MardelPlata.ar",
+    "tvg_id": "Canal79MardelPlata.ar@SD",
     "tvg_name": "Canal 79 Mar del Plata",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 79 Mar del Plata | AR",
     "tvg_id": "272",
     "tvg_name": "Canal 79 Mar del Plata",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 79 Puan (240p)",
     "tvg_id": "Canal79Puan.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 79 Santa Clara del Mar (240p)",
     "tvg_id": "Canal79SantaClaradelMar.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 79 Villa Maza",
-    "tvg_id": "Canal79VillaMaza.ar",
+    "tvg_id": "Canal79VillaMaza.ar@SD",
     "tvg_name": "Canal 79 Villa Maza",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 8 Mar del Plata",
-    "tvg_id": "Canal8MardelPlata.ar",
+    "tvg_id": "Canal 8 Mar del Plata.ar",
     "tvg_name": "Canal 8 Mar del Plata",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 8 San Juan (720p)",
     "tvg_id": "Canal8SanJuan.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 8 San Juan (720p) (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 9 Link",
-    "tvg_id": "Canal9Link.ar",
+    "tvg_id": "Canal9Link.ar@SD",
     "tvg_name": "Canal 9 Link",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 9 Resistencia (720p)",
     "tvg_id": "Canal9Resistencia.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 9 Televida",
-    "tvg_id": "Canal9Televida.ar",
+    "tvg_id": "CANAL 9 TELEVIDA.ar",
     "tvg_name": "Canal 9 Televida",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 907 FM Comunicar",
     "tvg_id": "273",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 99 Miramar",
-    "tvg_id": "Canal99Miramar.ar",
+    "tvg_id": "Canal99Miramar.ar@SD",
     "tvg_name": "Canal 99 Miramar",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal Cine Dios",
-    "tvg_id": "CanalCineDios.co",
+    "tvg_id": "CanalCineDios.co@SD",
     "tvg_name": "Canal Cine Dios",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal CNR (480p) (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal Coop",
     "tvg_id": "CanalCoop.ar",
     "tvg_name": "Canal Coop",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal de la Ciudad (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal E (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal Luz (1080p) [Not 24/7]",
     "tvg_id": "CANAL LUZ.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal Luz (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal Orbe 21",
-    "tvg_id": "CanalOrbe21.ar",
+    "tvg_id": "Canal21.ar",
     "tvg_name": "Canal Orbe 21",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 1,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal Pulpo TV",
-    "tvg_id": "CanalPulpoTV.ar",
+    "tvg_id": "CanalPulpoTV.ar@SD",
     "tvg_name": "Canal Pulpo TV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal Rural (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal TDC",
-    "tvg_id": "CanalTDC.ar",
+    "tvg_id": "CanalTDC.ar@SD",
     "tvg_name": "Canal TDC",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal Universidad",
-    "tvg_id": "CanalUniversidad.ar",
+    "tvg_id": "CanalUniversidad.ar@SD",
     "tvg_name": "Canal Universidad",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Caras TV",
-    "tvg_id": "CarasTV.ar",
+    "tvg_id": "CarasTV.ar@SD",
     "tvg_name": "Caras TV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Caras TV",
-    "tvg_id": "CarasTV.ar",
+    "tvg_id": "CarasTV.ar@SD",
     "tvg_name": "Caras TV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Caras TV | AR",
     "tvg_id": "1603",
     "tvg_name": "Caras TV",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Caso Cerrado (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Catamarca TV",
-    "tvg_id": "CatamarcaTV.ar",
+    "tvg_id": "CatamarcaTV.ar@SD",
     "tvg_name": "Catamarca TV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Catamarca TV | AR",
     "tvg_id": "203",
     "tvg_name": "Catamarca TV",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "CBS Sports Golazo Network",
     "tvg_id": "CBSSportsGolazoNetwork.us@SD",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "CBS Sports HQ",
-    "tvg_id": "CBSSportsHQ.us",
+    "tvg_id": "CBSSportsHQ.us@SD",
     "tvg_name": "CBS Sports HQ",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 6,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "CDN Deportes",
-    "tvg_id": "CDNDeportes.do",
+    "tvg_id": "CDNDeportes.do@SD",
     "tvg_name": "CDN Deportes",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 1,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Celta TV",
-    "tvg_id": "CeltaTV.ar",
+    "tvg_id": "CeltaTV.ar@SD",
     "tvg_name": "Celta TV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Celta TV | AR",
     "tvg_id": "815",
     "tvg_name": "Celta TV",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "CGTN Español (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Chaco TV",
-    "tvg_id": "ChacoTV.ar",
+    "tvg_id": "ChacoTV.ar@SD",
     "tvg_name": "Chaco TV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Chaco TV | AR",
     "tvg_id": "279",
     "tvg_name": "Chaco TV",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Chamame TV",
-    "tvg_id": "ChamameTV.ar",
+    "tvg_id": "ChamameTV.ar@SD",
     "tvg_name": "Chamame TV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Cine Adrenalina",
-    "tvg_id": "CineAdrenalina.us",
+    "tvg_id": "CineAdrenalina.us@SD",
     "tvg_name": "Cine Adrenalina",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 2,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Cine Amor",
-    "tvg_id": "CineAmor.us",
+    "tvg_id": "CineAmor.us@SD",
     "tvg_name": "Cine Amor",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 1,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Cine Familiar (1080p)",
     "tvg_id": "CineFamiliar.us@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Cine Friki (1080p)",
     "tvg_id": "CineFriki.es@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Cine Hispano (1080p)",
     "tvg_id": "CineHispano.us@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Cine Mexicano (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Cine Premiere",
-    "tvg_id": "CinePremiere.us",
+    "tvg_id": "CinePremiere.us@SD",
     "tvg_name": "Cine Premiere",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 2,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Cine Premium (1080p)",
     "tvg_id": "CinePremium.us@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Cine Sony (720p)",
     "tvg_id": "CineSony.us@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Cine Terror",
-    "tvg_id": "CineTerror.us",
+    "tvg_id": "CineTerror.us@LatAm",
     "tvg_name": "Cine Terror",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 8,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Cine Western (1080p)",
     "tvg_id": "CineWestern.es@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Cinecanal",
-    "tvg_id": "Cinecanal.us",
+    "tvg_id": "Cinecanal.ar",
     "tvg_name": "Cinecanal",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 8,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Cinecanal Pacific (1080p)",
     "tvg_id": "Cinecanal.us@Pacific",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "CineLatino (720p)",
     "tvg_id": "Cinelatino.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Ciudad Magazine",
     "tvg_id": "CiudadMagazine.ar",
     "tvg_name": "Ciudad Magazine",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 3,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Ciudad Magazine (1080p)",
     "tvg_id": "CiudadMagazine.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 3,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Ciudad Magica (720p)",
     "tvg_id": "CiudadMagica.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Ciudad Magica TV",
     "tvg_id": "1132",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Ciudad TV Resistencia",
-    "tvg_id": "CiudadTVResistencia.ar",
+    "tvg_id": "CiudadTVResistencia.ar@SD",
     "tvg_name": "Ciudad TV Resistencia",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Ciudad TV Resistencia | AR",
     "tvg_id": "1353",
     "tvg_name": "Ciudad TV Resistencia",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Claro Cinema (1080p)",
     "tvg_id": "ClaroCinema.mx@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Claro Sports",
-    "tvg_id": "ClaroSports.mx",
+    "tvg_id": "ClaroSports.mx@SD",
     "tvg_name": "Claro Sports",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 1,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "CNN en Español (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Colimdo TV",
-    "tvg_id": "ColimdoTV.do",
+    "tvg_id": "ColimdoTV.do@SD",
     "tvg_name": "Colimdo TV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Comarca TV (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Comedy Central HD",
     "tvg_id": "ComedyCentral.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Correa Radiovision",
-    "tvg_id": "CorreaRadiovision.ar",
+    "tvg_id": "CorreaRadiovision.ar@SD",
     "tvg_name": "Correa Radiovision",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Corrientes TV",
-    "tvg_id": "CorrientesTV.ar",
+    "tvg_id": "CorrientesTV.ar@SD",
     "tvg_name": "Corrientes TV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Corrientes TV",
-    "tvg_id": "CorrientesTV.ar",
+    "tvg_id": "CorrientesTV.ar@SD",
     "tvg_name": "Corrientes TV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Cosmos Tv",
     "tvg_id": "CosmosTv.ar@HD",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Cosmos Tv SD",
     "tvg_id": "CosmosTv.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Cosmos Tv (720p)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Cosmos TV | AR",
     "tvg_id": "1143",
     "tvg_name": "Cosmos TV",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Cricket Gold",
-    "tvg_id": "CricketGold.au",
+    "tvg_id": "CricketGold.au@SD",
     "tvg_name": "Cricket Gold",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 9,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Crimen e Investigación (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Crónica TV (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Crossing TV",
     "tvg_id": "CrossingCanalIPTV.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "CRTV (Chile)",
     "tvg_id": "TVChile.cr",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Cumbia Mix (720p)",
     "tvg_id": "CumbiaMix.ar@HD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Danilo Montero (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Daria",
-    "tvg_id": "Daria.us",
+    "tvg_id": "Daria.us@LatAm",
     "tvg_name": "Daria",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "DAZN 1",
-    "tvg_id": "DAZN1.uk",
+    "tvg_id": "DAZN1.Spain",
     "tvg_name": "DAZN 1",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 10,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "DAZN F1",
-    "tvg_id": "DAZNF1.uk",
+    "tvg_id": "DAZNF1.Spain",
     "tvg_name": "DAZN F1",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "De Pelicula",
     "tvg_id": "De Película.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "De Película Latin America (1080p)",
     "tvg_id": "DePeliculaLatinAmerica.mx@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "De Película Plus (1080p)",
     "tvg_id": "DePeliculaPlus.mx@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "De Película US (720p)",
     "tvg_id": "DePeliculaUS.us@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "DeporTV",
     "tvg_id": "DeporTV.ar",
     "tvg_name": "DeporTV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 1,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Diario El Litoral (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Diputados TV (1080p) (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Discovery Science",
     "tvg_id": "DISCOVERY SCIENCE.ar",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Discovery Turbo",
     "tvg_id": "DiscoveryTurbo.ar",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Discovery World HD",
     "tvg_id": "DISCOVERY WORLD.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Disney Channel Latin America (1080p)",
     "tvg_id": "DisneyChannelLatinAmerica.ar@Panregional",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Disney Channel Latin America (1080p)",
     "tvg_id": "DisneyChannelLatinAmerica.ar@Panregional",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Disney Channel Latin America (720p)",
     "tvg_id": "DisneyChannelLatinAmerica.ar@Panregional",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Disney Channel Latin America Center (1080p)",
     "tvg_id": "DisneyChannelLatinAmerica.ar@Center",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Disney Channel Latin America Mexico (720p)",
     "tvg_id": "DisneyChannelLatinAmerica.ar@Mexico",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Disney Channel Latin America North (576p)",
     "tvg_id": "DisneyChannelLatinAmerica.ar@North",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Disney Channel Latin America Panregional HD (1080p)",
     "tvg_id": "DisneyChannelLatinAmerica.ar@PanregionalHD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Disney Jr.",
     "tvg_id": "DISNEY JR.ar",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Disney Jr. Latin America (1080p)",
     "tvg_id": "DisneyJrLatinAmerica.ar@North",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Disney Jr. Latin America (576p)",
     "tvg_id": "DisneyJrLatinAmerica.ar@Panregional",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Disney Jr. Latin America South",
     "tvg_id": "DisneyJrLatinAmerica.ar@South",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Disney Jr. Latin America South (1080p)",
     "tvg_id": "DisneyJrLatinAmerica.ar@South",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Disney Jr. Latin America South HD (1080p)",
     "tvg_id": "DisneyJrLatinAmerica.ar@SouthHD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Disney Jr. Latin America South HD (1080p)",
     "tvg_id": "DisneyJrLatinAmerica.ar@SouthHD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Distrito Comedia (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "DraftKings Network",
-    "tvg_id": "DraftKingsNetwork.us",
+    "tvg_id": "DraftKingsNetwork.us@SD",
     "tvg_name": "DraftKings Network",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 2,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "DSports",
     "tvg_id": "DSports.us@Panregional",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "DSports (1080p)",
     "tvg_id": "DSports.us@Panregional",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "DSports (720p) 1",
     "tvg_id": "DSports.us@Panregional",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "DSports (720p) 2",
     "tvg_id": "DSports.us@Panregional",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "DSports +",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "DSports 2",
-    "tvg_id": "DSports2.us",
+    "tvg_id": "DSports2.us@Panregional",
     "tvg_name": "DSports 2",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "DSports 2",
-    "tvg_id": "DSports2.us",
+    "tvg_id": "DSports2.us@Panregional",
     "tvg_name": "DSports 2",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "DW Español (1080p)",
     "tvg_id": "DW ESPAÑOL.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "DW Español (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "E! Latin America (1080p)",
     "tvg_id": "ELatinAmerica.us@South",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Eco TV",
     "tvg_id": "EcoTV.ar@SD",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Eco TV | AR",
     "tvg_id": "303",
     "tvg_name": "Eco TV",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "El 10 TV Salta",
     "tvg_id": "281",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "El Chavo del 8 (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "El Comisario (España)",
     "tvg_id": "ElComisario.us@Spain",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "El Destape (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "El Doce (1080p) (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "El encantador de perros (España)",
     "tvg_id": "Elencantadordeperros.us@Spain",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "El Garage TV",
-    "tvg_id": "GarageTV.es",
+    "tvg_id": "ElGarageTv.ar",
     "tvg_name": "Garage TV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 1,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "El Gourmet (1080p)",
     "tvg_id": "ElGourmet.ar@Panregional",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "El Gourmet (1080p)",
     "tvg_id": "ElGourmet.ar@Panregional",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "El Gourmet South (1080p)",
     "tvg_id": "ElGourmet.ar@South",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "El Litoral (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "El Nueve (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "El Ocho (1080p) (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "El Once (1080p) (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "El Siete Mendoza (720p) (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "El Trece",
-    "tvg_id": "ElTrece.ar",
+    "tvg_id": "ElTrece.ar@SD",
     "tvg_name": "El Trece",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 2,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "El Trece (1080p)",
     "tvg_id": "ELTrece.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "El Trece (480p)",
     "tvg_id": "ElTrece.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "El Trece | AR",
     "tvg_id": "1358",
     "tvg_name": "El Trece",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "El Trece Internacional Latin America (1080p)",
     "tvg_id": "ElTreceInternacionalLatinAmerica.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "El Tres TV",
     "tvg_id": "ElTresTV.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Encuentro",
-    "tvg_id": "Encuentro.ar",
+    "tvg_id": "Encuentro.ar@SD",
     "tvg_name": "Encuentro",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 2,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Encuentro",
-    "tvg_id": "Encuentro.ar",
+    "tvg_id": "Encuentro.ar@SD",
     "tvg_name": "Encuentro",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 2,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Encuentro (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "ESPN",
     "tvg_id": "ESPN.ar",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "ESPN (Colombia)",
     "tvg_id": "ESPN.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "ESPN 2 HD",
     "tvg_id": "ESPN2.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "ESPN 2",
     "tvg_id": "ESPN2.ar",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "ESPN 3 HD",
     "tvg_id": "ESPN3.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "ESPN 3",
     "tvg_id": "ESPN3.ar",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "ESPN 4",
     "tvg_id": "ESPN4.ar",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "ESPN 4 HD",
     "tvg_id": "ESPN4.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "ESPN 4 HD",
     "tvg_id": "ESPN4.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "ESPN 5 HD",
     "tvg_id": "ESPN5LatinAmerica.us",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "ESPN 5",
     "tvg_id": "ESPN5LatinAmerica.us",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "ESPN 6 HD",
     "tvg_id": "ESPN 6 HD.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "ESPN 6",
     "tvg_id": "ESPN 6 HD.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "ESPN 7 HD",
     "tvg_id": "ESPN7LatinAmerica.us",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "ESPN 7",
     "tvg_id": "ESPN7LatinAmerica.us",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "ESPN Premium",
     "tvg_id": "ESPNPremium.ar",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 1,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "ESPN8: The Ocho",
-    "tvg_id": "ESPN8TheOcho.us",
+    "tvg_id": "ESPN8TheOcho.us@ESPN8TheOchoHD",
     "tvg_name": "ESPN8: The Ocho",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 1,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "ESPNU HD",
     "tvg_id": "ESPNU.us@HD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "euronews en español (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Europa Europa (1080p)",
     "tvg_id": "EuropaEuropa.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Europa Europa (1080p)",
     "tvg_id": "EuropaEuropa.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Europa Europa (1080p)",
     "tvg_id": "EuropaEuropa.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "EWTN el Canal Católico (720p)",
     "tvg_id": "EWTNEspanaLatinAmerica.us",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "FIFA+ Hispanic America (720p)",
     "tvg_id": "FIFAPlus.uk@HispanicAmerica",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "FIFA+ Women",
-    "tvg_id": "FIFAPlusWomen.uk",
+    "tvg_id": "FIFAPlusWomen.uk@English",
     "tvg_name": "FIFA+ Women",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Film & Arts (1080p) 2",
     "tvg_id": "filmAndarts.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "FITE 24/7",
-    "tvg_id": "FITE247.us",
+    "tvg_id": "FITE247.us@SD",
     "tvg_name": "FITE 24/7",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "FloHockey",
-    "tvg_id": "FloHockey.us",
+    "tvg_id": "FloHockey.us@HD",
     "tvg_name": "FloHockey",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "FloRacing",
-    "tvg_id": "FloRacing.us",
+    "tvg_id": "FloRacing.us@HD",
     "tvg_name": "FloRacing",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "FM Universo",
     "tvg_id": "1460",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "FM Vale 97.5 (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "FM Vida (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Folcloreando TV",
-    "tvg_id": "FolcloreandoTV.ar",
+    "tvg_id": "FolcloreandoTV.ar@SD",
     "tvg_name": "Folcloreando TV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Fox Deportes",
-    "tvg_id": "FoxDeportes.us",
+    "tvg_id": "FoxDeportes.us@SD",
     "tvg_name": "Fox Deportes",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 4,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Fox Sports 1",
     "tvg_id": "FoxSports1.us@HD",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Fox Sports 1 (Argentina)",
     "tvg_id": "FoxSports.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 1,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Fox Sports 2 (Argentina)",
     "tvg_id": "FoxSports2.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 1,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Fox Sports 3 (Argentina)",
     "tvg_id": "FoxSports3.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "France 24 Español (1080p)",
     "tvg_id": "France24Espanol.fr",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "France 24 Español (1080p) (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "FTF Sports",
-    "tvg_id": "FTFSports.us",
+    "tvg_id": "FTFSports.us@SD",
     "tvg_name": "FTF Sports",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 10,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "FTV (Bolivia)",
     "tvg_id": "FTV.bo@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Fubo Sports Network",
-    "tvg_id": "FuboSportsNetwork.us",
+    "tvg_id": "FuboSportsNetwork.us@SD",
     "tvg_name": "Fubo Sports Network",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 4,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "FUEL TV",
-    "tvg_id": "FUELTV.pt",
+    "tvg_id": "FUELTV.pt@EMEA",
     "tvg_name": "FUEL TV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 27,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "FUTV",
-    "tvg_id": "FUTV.cr",
+    "tvg_id": "FUTV.cr@SD",
     "tvg_name": "FUTV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 1,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "FX Latin America South (720p)",
     "tvg_id": "FXLatinAmerica.us@South",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Game+",
-    "tvg_id": "GamePlus.ca",
+    "tvg_id": "GamePlus.ca@SD",
     "tvg_name": "Game+",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Garage TV",
-    "tvg_id": "GarageTV.es",
+    "tvg_id": "282",
     "tvg_name": "Garage TV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 1,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "ge Fast",
-    "tvg_id": "geFast.br",
+    "tvg_id": "geFast.br@SD",
     "tvg_name": "ge Fast",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Glory Kickboxing Poland",
     "tvg_id": "GloryKickboxing.us@Poland",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Golazo Network",
-    "tvg_id": "GolazoNetwork.us",
+    "tvg_id": "GolazoNetwork.us@SD",
     "tvg_name": "Golazo Network",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Golden (1080p)",
     "tvg_id": "Golden.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "HBO Xtreme HD",
     "tvg_id": "HBOXtreme.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Hipódromo de Palermo (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "History Channel",
-    "tvg_id": "History.hu",
+    "tvg_id": "HISTORY CHANNEL.ar",
     "tvg_name": "History",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "iCarly",
     "tvg_id": "iCarly.us@LatAm",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Ingenio FM",
-    "tvg_id": "IngenioFM.ar",
+    "tvg_id": "1360",
     "tvg_name": "Ingenio FM",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Inminente TV",
     "tvg_id": "1462",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Interior Futbolero TV (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "International House of Prayer (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Itel TV Canal 2",
-    "tvg_id": "ItelTVCanal2.ar",
+    "tvg_id": "ItelTVCanal2.ar@SD",
     "tvg_name": "Itel TV Canal 2",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "ITV Deportes",
-    "tvg_id": "ITVDeportes.mx",
+    "tvg_id": "ITVDeportes.mx@SD",
     "tvg_name": "ITV Deportes",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 9,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Kanal D Drama (1080p)",
     "tvg_id": "KanalDDrama.tr",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 3,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Kenan & Kel",
-    "tvg_id": "KenanKel.us",
+    "tvg_id": "KenanKel.us@LatAm",
     "tvg_name": "Kenan & Kel",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 2,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Kpop Mix (720p)",
     "tvg_id": "KpopMix.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "L1 Max",
-    "tvg_id": "L1Max.pe",
+    "tvg_id": "L1Max.pe@SD",
     "tvg_name": "L1 Max",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "La 100",
-    "tvg_id": "La100.ar",
+    "tvg_id": "La100.ar@SD",
     "tvg_name": "La 100",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "La 100 | AR",
     "tvg_id": "1470",
     "tvg_name": "La 100",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "La Biblia en vivo (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "La Nación+ (720p) (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "La Vitrola Tv HD TV5",
     "tvg_id": "1790",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Lacrosse TV",
-    "tvg_id": "LacrosseTV.us",
+    "tvg_id": "LacrosseTV.us@SD",
     "tvg_name": "Lacrosse TV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "LAMIL35 TV",
-    "tvg_id": "LAMIL35TV.ar",
+    "tvg_id": "LAMIL35TV.ar@SD",
     "tvg_name": "LAMIL35 TV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Lapacho TV Canal 11",
-    "tvg_id": "LapachoTVCanal11.ar",
+    "tvg_id": "1295",
     "tvg_name": "Lapacho TV Canal 11",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Las Estrellas",
-    "tvg_id": "LasEstrellas.mx",
+    "tvg_id": "LasEstrellas.ar",
     "tvg_name": "Las Estrellas",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 3,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Las Tortugas Ninja",
-    "tvg_id": "LasTortugasNinja.us",
+    "tvg_id": "LasTortugasNinja.us@LatAm",
     "tvg_name": "Las Tortugas Ninja",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 1,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Latina Clasicos (1080p)",
     "tvg_id": "LatinaClasicos.pe@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Latina Noticias (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Ley de Atracción y Abundancia (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Lifetime",
     "tvg_id": "Lifetime.ar",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Link TV",
     "tvg_id": "212",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Litus TV",
-    "tvg_id": "LitusTV.ar",
+    "tvg_id": "LitusTV.ar@SD",
     "tvg_name": "Litus TV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "LN+ (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "LN+",
-    "tvg_id": "LaNacionPlus.ar",
+    "tvg_id": "LN+.ar",
     "tvg_name": "La Nacion +",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 4,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Los archivos del FBI (España)",
     "tvg_id": "LosarchivosdelFBI.us@Spain",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Lotería de Santa Fe (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
+  },
+  {
+    "canal_lista": "LTO Television",
+    "tvg_id": "1086",
+    "tvg_name": "LTO Television",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "LTO Television",
     "tvg_id": "LTOTelevision.ar",
     "tvg_name": "LTO Television",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
-  },
-  {
-    "canal_lista": "LTO Television",
-    "tvg_id": "LTOTelevision.ar",
-    "tvg_name": "LTO Television",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Lumpen TV",
     "tvg_id": "CanalShowsport.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Mas FM",
-    "tvg_id": "MasFM.ar",
+    "tvg_id": "MasFM.ar@SD",
     "tvg_name": "Mas FM",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Mas FM | AR",
     "tvg_id": "1130",
     "tvg_name": "Mas FM",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "MCI Television (1080p)",
     "tvg_id": "MCITelevision.co@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Mega 98.3 (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Mega Cine TV (1080p)",
     "tvg_id": "MegaCineTV.do@HD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Mercurio Noticias",
-    "tvg_id": "MercurioNoticias.ar",
+    "tvg_id": "MercurioNoticias.ar@SD",
     "tvg_name": "Mercurio Noticias",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Meridiano TV",
-    "tvg_id": "MeridianoTV.ve",
+    "tvg_id": "MeridianoTV.ve@SD",
     "tvg_name": "Meridiano TV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 1,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Metro TV",
     "tvg_id": "MetroTV.ar@SD",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Misiones Cuatro",
-    "tvg_id": "MisionesCuatro.ar",
+    "tvg_id": "MisionesCuatro.ar@SD",
     "tvg_name": "Misiones Cuatro",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Misiones Cuatro | AR",
     "tvg_id": "1362",
     "tvg_name": "Misiones Cuatro",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "MLB",
-    "tvg_id": "MLB.us",
+    "tvg_id": "MLB.us@SD",
     "tvg_name": "MLB",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 2,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "MLB Strike Zone",
-    "tvg_id": "MLBStrikeZone.us",
+    "tvg_id": "MLBStrikeZone.us@SD",
     "tvg_name": "MLB Strike Zone",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 1,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Monte Grande",
     "tvg_id": "1620",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "MTV HD",
     "tvg_id": "MTV.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Multimedios (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "MultiPremier (1080p)",
     "tvg_id": "MultiPremier.mx@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Mundo de la Musica TV ✪ | CL",
     "tvg_id": "771",
     "tvg_name": "Mundo de la Musica TV",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Music TOP",
     "tvg_id": "Musictop.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "MyTime Movie Network (España) (1080p)",
     "tvg_id": "MyTimeMovieNetwork.es@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "MyTime Movie Network (México) (720p)",
     "tvg_id": "MyTimeMovieNetwork.mx@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "N Sports",
     "tvg_id": "NSports.br@SD",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "N+ Univision (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Naruto en espanol",
-    "tvg_id": "Narutoenespanol.us",
+    "tvg_id": "Narutoenespanol.us@SD",
     "tvg_name": "Naruto en espanol",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Nat Geo HD",
     "tvg_id": "NAT GEO.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "NBA TV",
-    "tvg_id": "NBATV.us",
+    "tvg_id": "NBATV.ar",
     "tvg_name": "NBA TV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 11,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "NBC Sports NOW",
-    "tvg_id": "NBCSportsNOW.us",
+    "tvg_id": "NBCSportsNOW.us@SD",
     "tvg_name": "NBC Sports NOW",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 4,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Neo Net Music",
     "tvg_id": "1558",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Neo TV",
     "tvg_id": "NeoTV.ar@SD",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Neo TV ✪ | AR",
     "tvg_id": "1006",
     "tvg_name": "Neo TV",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Neox TV",
-    "tvg_id": "NeoxTV.ar",
+    "tvg_id": "NeoxTV.ar@SD",
     "tvg_name": "Neox TV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Net TV",
     "tvg_id": "NETTV.ar@SD",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Net TV",
     "tvg_id": "NETTV.ar@SD",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Net TV",
     "tvg_id": "NetTV.ar",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "NET TV (720p)",
     "tvg_id": "NETTV.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "NET TV (720p)",
     "tvg_id": "NETTV.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Net TV | AR",
     "tvg_id": "285",
     "tvg_name": "Net TV",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Next HD (480p)",
     "tvg_id": "NextHD.py@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "NFL Channel",
-    "tvg_id": "NFLChannel.us",
+    "tvg_id": "NFLChannel.us@SD",
     "tvg_name": "NFL Channel",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 6,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "NG Federal",
-    "tvg_id": "NGFederal.ar",
+    "tvg_id": "NGFederal.ar@SD",
     "tvg_name": "NG Federal",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "NG Federal (720p)",
     "tvg_id": "NGFederal.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "NHL Network",
-    "tvg_id": "NHLNetwork.us",
+    "tvg_id": "NHLNetwork.us@SD",
     "tvg_name": "NHL Network",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 5,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "NHRA TV",
-    "tvg_id": "NHRATV.us",
+    "tvg_id": "NHRATV.us@SD",
     "tvg_name": "NHRA TV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 11,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Nickelodeon HD",
     "tvg_id": "NICKELODEON.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Nickelodeon Teen",
     "tvg_id": "NickelodeonTeen.us@LatAm",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "NMás (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Noticias Caracol (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Noticias Telemundo (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Nuevo Tiempo (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "OKfm 105.7",
     "tvg_id": "1458",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "One Piece",
-    "tvg_id": "OnePiece.us",
+    "tvg_id": "OnePiece.us@LatAm",
     "tvg_name": "One Piece",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 2,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "One Piece (España)",
     "tvg_id": "OnePiece.us@Spain",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Ovacion TV",
-    "tvg_id": "OvacionTV.pe",
+    "tvg_id": "OvacionTV.pe@SD",
     "tvg_name": "Ovacion TV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Overtime",
-    "tvg_id": "Overtime.us",
+    "tvg_id": "Overtime.us@SD",
     "tvg_name": "Overtime",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 3,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Pac-12 Insider",
-    "tvg_id": "Pac12Insider.us",
+    "tvg_id": "Pac12Insider.us@SD",
     "tvg_name": "Pac-12 Insider",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 10,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Pakapaka (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "PANC TV",
-    "tvg_id": "PancTV.ar",
+    "tvg_id": "PancTV.ar@SD",
     "tvg_name": "Panc TV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Pasiones HD",
     "tvg_id": "Pasiones.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "PBR RidePass",
-    "tvg_id": "PBRRidePass.us",
+    "tvg_id": "PBRRidePass.us@SD",
     "tvg_name": "PBR RidePass",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 3,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "PFL MMA",
-    "tvg_id": "PFLMMA.us",
+    "tvg_id": "PFLMMA.us@SD",
     "tvg_name": "PFL MMA",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 13,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "PGA Tour",
-    "tvg_id": "PGATour.us",
+    "tvg_id": "PGATour.us@SD",
     "tvg_name": "PGA Tour",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 13,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Platzi TV (1080p)",
     "tvg_id": "PlatziTV.es",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Plim Plim",
-    "tvg_id": "PlimPlim.ar",
+    "tvg_id": "Plim Plim.ar",
     "tvg_name": "Plim Plim",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Plim Plim",
-    "tvg_id": "PlimPlim.ar",
+    "tvg_id": "Plim Plim.ar",
     "tvg_name": "Plim Plim",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Plim Plim (1080p)",
     "tvg_id": "Plim Plim.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Pluto TV A La Mexicana",
-    "tvg_id": "PlutoTVALaMexicana.us",
+    "tvg_id": "PlutoTVALaMexicana.us@LatAm",
     "tvg_name": "Pluto TV A La Mexicana",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 4,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Pluto TV Anime",
-    "tvg_id": "PlutoTVAnime.us",
+    "tvg_id": "PlutoTVAnime.us@LatAm",
     "tvg_name": "Pluto TV Anime",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 13,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Pluto TV Cine Acción",
-    "tvg_id": "PlutoTVCineAccion.us",
+    "tvg_id": "PlutoTVCineAccion.us@LatAm",
     "tvg_name": "Pluto TV Cine Accion",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 5,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Pluto TV Cine Clásico",
-    "tvg_id": "PlutoTVCineClasico.us",
+    "tvg_id": "PlutoTVCineClasico.us@LatAm",
     "tvg_name": "Pluto TV Cine Clasico",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 4,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Pluto TV Cine Comedia",
     "tvg_id": "PlutoTVCineComedia.us@LatAm",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Pluto TV Cine Crimen",
-    "tvg_id": "PlutoTVCineCrimen.us",
+    "tvg_id": "PlutoTVCineCrimen.us@LatAm",
     "tvg_name": "Pluto TV Cine Crimen",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 4,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Pluto TV Cine Drama",
-    "tvg_id": "PlutoTVCineDrama.us",
+    "tvg_id": "PlutoTVCineDrama.us@LatAm",
     "tvg_name": "Pluto TV Cine Drama",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 6,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Pluto TV Cine Estelar",
-    "tvg_id": "PlutoTVCineEstelar.us",
+    "tvg_id": "PlutoTVCineEstelar.us@LatAm",
     "tvg_name": "Pluto TV Cine Estelar",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 5,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Pluto TV Cine Familia",
-    "tvg_id": "PlutoTVCineFamilia.us",
+    "tvg_id": "PlutoTVCineFamilia.us@LatAm",
     "tvg_name": "Pluto TV Cine Familia",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 6,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Pluto TV Cine Inspirador",
-    "tvg_id": "PlutoTVCineInspirador.us",
+    "tvg_id": "PlutoTVCineInspirador.us@LatAm",
     "tvg_name": "Pluto TV Cine Inspirador",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 4,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Pluto TV Cine Romance",
-    "tvg_id": "PlutoTVCineRomance.us",
+    "tvg_id": "PlutoTVCineRomance.us@LatAm",
     "tvg_name": "Pluto TV Cine Romance",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 6,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Pluto TV Cine Suspenso",
-    "tvg_id": "PlutoTVCineSuspenso.us",
+    "tvg_id": "PlutoTVCineSuspenso.us@LatAm",
     "tvg_name": "Pluto TV Cine Suspenso",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 4,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Pluto TV Estrellas de Acción",
-    "tvg_id": "PlutoTVEstrellasdeAccion.us",
+    "tvg_id": "PlutoTVEstrellasdeAccion.us@SD",
     "tvg_name": "Pluto TV Estrellas de Accion",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Pluto TV Nuestro Cine",
-    "tvg_id": "PlutoTVNuestroCine.us",
+    "tvg_id": "PlutoTVNuestroCine.us@LatAm",
     "tvg_name": "Pluto TV Nuestro Cine",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 4,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Pluto TV Sci-Fi",
     "tvg_id": "PlutoTVSciFi.us@LatAm",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Pluto TV Series",
     "tvg_id": "PlutoTVSeries.us@LatAm",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "PokerGo",
-    "tvg_id": "PokerGo.us",
+    "tvg_id": "PokerGo.us@US",
     "tvg_name": "PokerGo",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 12,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Pop Radio 101.5 (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Popcorn Central (1080p)",
     "tvg_id": "PopcornCentral.mx@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Power",
     "tvg_id": "243",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Power Max Radio TV (720p)",
     "tvg_id": "PowerMaxRadioTV.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Power Max TV",
     "tvg_id": "1382",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "PowerHD",
-    "tvg_id": "PowerHD.ar",
+    "tvg_id": "PowerHD.ar@SD",
     "tvg_name": "PowerHD",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "PRIDEtv Latam | CL",
     "tvg_id": "1692",
     "tvg_name": "PRIDEtv Latam",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Producciones Emanuel (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "PX Sports",
-    "tvg_id": "PXSports.mx",
+    "tvg_id": "PX Sports.ar",
     "tvg_name": "PX Sports",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 3,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Quantica TV",
-    "tvg_id": "QuanticaTV.ar",
+    "tvg_id": "QuanticaTV.ar@SD",
     "tvg_name": "Quantica TV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Quiero Música TV (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Racer Select",
-    "tvg_id": "RacerSelect.us",
+    "tvg_id": "RacerSelect.us@SD",
     "tvg_name": "Racer Select",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 5,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Radio 10 (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Radio Conexion Web TV (720p)",
     "tvg_id": "RadioConexionWebTV.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Radio La Red AM 910 (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Radio Mitre (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Radio One 103.7 (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Radio Realpolitik (720p)",
     "tvg_id": "RadioRealpolitik.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Radio Rivadavia AM 630 (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Radio Sublime Gracia TV (720p)",
     "tvg_id": "RadioSublimeGraciaTV.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Radio TV Neuquen",
-    "tvg_id": "RadioTVNeuquen.ar",
+    "tvg_id": "RadioTVNeuquen.ar@SD",
     "tvg_name": "Radio TV Neuquen",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Radio TV Neuquen | AR",
     "tvg_id": "287",
     "tvg_name": "Radio TV Neuquen",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Radio UP (1080p)",
     "tvg_id": "RadioUP.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Radio Yguazu TV (480p)",
     "tvg_id": "RadioYguazuTV.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Radiocanal (1080p)",
     "tvg_id": "Radiocanal.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Radiocanal San Francisco",
     "tvg_id": "210",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Rakuten TV Action Movies (1080p)",
     "tvg_id": "RakutenTVActionMovies.es@Spain",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Rakuten TV Comedy Movies (1080p)",
     "tvg_id": "RakutenTVComedyMovies.es@Spain",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Rakuten TV Drama Movies (1080p)",
     "tvg_id": "RakutenTVDramaMovies.es@Spain",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Rakuten TV Family Movies (1080p)",
     "tvg_id": "RakutenTVFamilyMovies.es@Spain",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Rakuten TV Top Movies (1080p)",
     "tvg_id": "RakutenTVTopMovies.es@Spain",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Rally TV",
-    "tvg_id": "RallyTV.us",
+    "tvg_id": "RallyTV.us@SD",
     "tvg_name": "Rally TV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "RCN Más (1080p)",
     "tvg_id": "RCNMas.co",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 7,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Recuerdos Retro Radio TV | CL",
     "tvg_id": "521",
     "tvg_name": "Recuerdos Retro Radio TV",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Red Bull TV ES",
     "tvg_id": "RedBullTV.at@ES",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Retro Plus TV ✪ | CL",
     "tvg_id": "4",
     "tvg_name": "Retro Plus TV",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Retro Plus TV Señal 2 | CL",
     "tvg_id": "5",
     "tvg_name": "Retro Plus TV Señal 2",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Retro Plus TV Señal 3 | CL",
     "tvg_id": "465",
     "tvg_name": "Retro Plus TV Señal 3",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Retroclub",
-    "tvg_id": "Retroclub.ar",
+    "tvg_id": "1719",
     "tvg_name": "Retroclub",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Retroclub (720p)",
     "tvg_id": "Retroclub.ar@HD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Rewind ✪ | CL",
     "tvg_id": "156",
     "tvg_name": "Rewind",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Rick and Morty LA (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Right Now TV",
-    "tvg_id": "RightNowTV.us",
+    "tvg_id": "RightNowTV.us@SD",
     "tvg_name": "Right Now TV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Romance Channel (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "RTN (Argentina) (720p)",
     "tvg_id": "RTN.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "RTS",
-    "tvg_id": "RTS.ec",
+    "tvg_id": "RTS.ar",
     "tvg_name": "RTS",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 3,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "RTVE Noticias (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Runtime Español (720p)",
     "tvg_id": "RuntimeEspanol.us@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "San Pedro TV (1080p)",
     "tvg_id": "SanPedroTV.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Santa Fe Canal (720p)",
     "tvg_id": "SantaFeCanal.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "SBT (Brasil)",
     "tvg_id": "SBT BRASIL.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Senal U",
-    "tvg_id": "SenalU.ar",
+    "tvg_id": "SenalU.ar@SD",
     "tvg_name": "Senal U",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Señal Urbana",
     "tvg_id": "SenalUrbana.ar",
     "tvg_name": "Senal Urbana",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Senillosa TV",
-    "tvg_id": "SenillosaTV.ar",
+    "tvg_id": "SenillosaTV.ar@SD",
     "tvg_name": "Senillosa TV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Sicardi TV",
-    "tvg_id": "SicardiTV.ar",
+    "tvg_id": "SicardiTV.ar@SD",
     "tvg_name": "Sicardi TV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Sicardi TV | AR",
     "tvg_id": "288",
     "tvg_name": "Sicardi TV",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Sky Racing 1",
-    "tvg_id": "SkyRacing1.au",
+    "tvg_id": "SkyRacing1.au@SD",
     "tvg_name": "Sky Racing 1",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 1,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Sky Racing 2",
-    "tvg_id": "SkyRacing2.au",
+    "tvg_id": "SkyRacing2.au@SD",
     "tvg_name": "Sky Racing 2",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 2,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Sky Sports Cricket HD",
     "tvg_id": "SkySportsCricket.uk@HD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Sky Sports Football",
     "tvg_id": "SkySportsFootball.ie@SD",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Slopes TV",
-    "tvg_id": "SlopesTV.us",
+    "tvg_id": "SlopesTV.us@SD",
     "tvg_name": "Slopes TV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 10,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Soakstream Español (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Somos La Pampa",
-    "tvg_id": "SomosLaPampa.ar",
+    "tvg_id": "1072",
     "tvg_name": "Somos La Pampa",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Somos La Pampa | AR",
     "tvg_id": "1072",
     "tvg_name": "Somos La Pampa",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Sony Channel (1080p)",
     "tvg_id": "SonyChannel.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Sony Movies Latin America (1080p)",
     "tvg_id": "SonyMoviesLatinAmerica.us@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Space HD",
     "tvg_id": "Space.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 9,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "SportsGrid",
-    "tvg_id": "SportsGrid.us",
+    "tvg_id": "SportsGrid.us@SD",
     "tvg_name": "SportsGrid",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 12,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "SporTV",
-    "tvg_id": "SporTV.br",
+    "tvg_id": "SporTV.br@SD",
     "tvg_name": "SporTV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 2,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "SporTV 3",
-    "tvg_id": "SporTV3.br",
+    "tvg_id": "SporTV3.br@SD",
     "tvg_name": "SporTV 3",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 2,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Sqala TV",
-    "tvg_id": "SqalaTV.pe",
+    "tvg_id": "SqalaTV.pe@SD",
     "tvg_name": "Sqala TV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Stadium",
     "tvg_id": "Stadium.us@SD",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Star Channel (Chile) (720p)",
     "tvg_id": "StarChannel.cl@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Star Channel (Colombia) (1080p)",
     "tvg_id": "StarChannel.co@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Strongman",
-    "tvg_id": "Strongman.us",
+    "tvg_id": "Strongman.us@Germany",
     "tvg_name": "Strongman",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Strongman Champions League",
-    "tvg_id": "StrongmanChampionsLeague.uk",
+    "tvg_id": "StrongmanChampionsLeague.uk@SD",
     "tvg_name": "Strongman Champions League",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 10,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Sublime Gracia TV",
     "tvg_id": "1003",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "SUMtv Latino (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Suspenso Channel (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Suyai TV | CL",
     "tvg_id": "1288",
     "tvg_name": "Suyai TV",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Swerve Combat",
-    "tvg_id": "SwerveCombat.us",
+    "tvg_id": "SwerveCombat.us@SD",
     "tvg_name": "Swerve Combat",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Swerve Sports",
-    "tvg_id": "SwerveSports.us",
+    "tvg_id": "SwerveSports.us@SD",
     "tvg_name": "Swerve Sports",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 6,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "T5 Satelital",
-    "tvg_id": "T5Satelital.ar",
+    "tvg_id": "T5Satelital.ar@SD",
     "tvg_name": "T5 Satelital",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "T5 Satelital | AR",
     "tvg_id": "244",
     "tvg_name": "T5 Satelital",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "talkSPORT",
-    "tvg_id": "talkSPORT.uk",
+    "tvg_id": "talkSPORT.uk@SD",
     "tvg_name": "talkSPORT",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 2,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "TDC TV Santa Fe",
     "tvg_id": "289",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "TELE 6 (720p)",
     "tvg_id": "TELE6.bo@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Tele Posadas HD",
     "tvg_id": "1800",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Tele Posadas (720p)",
     "tvg_id": "TelePosadas.ar@HD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Telecreativa",
     "tvg_id": "Telecreativa.ar",
     "tvg_name": "Telecreativa",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Teledeporte",
-    "tvg_id": "Teledeporte.es",
+    "tvg_id": "Teledeporte.es@SD",
     "tvg_name": "Teledeporte",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 4,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Telediario TV (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Telefe",
-    "tvg_id": "Telefe.ar",
+    "tvg_id": "Telefe.ar@SD",
     "tvg_name": "Telefe",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 2,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Telefe (720p) (sólo escritorio)",
     "tvg_id": "Telefe.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Telefe Buenos Aires (1080p)",
     "tvg_id": "TelefeBuenosAires.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Telefe Córdoba (1080p) (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Telefe Internacional (1080p)",
     "tvg_id": "TelefeInternacional.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Telefe Internacional (720p)",
     "tvg_id": "TelefeInternacional.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 5,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Telefe Noticias (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Telefe Rosario (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Telefe Salta (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Telefe Salta",
-    "tvg_id": "TelefeSalta.ar",
+    "tvg_id": "TelefeSalta.ar@SD",
     "tvg_name": "Telefe Salta",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
+  },
+  {
+    "canal_lista": "TeleJunin",
+    "tvg_id": "1368",
+    "tvg_name": "TeleJunin",
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "TeleJunin",
     "tvg_id": "TeleJunin.ar",
     "tvg_name": "TeleJunin",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
-  },
-  {
-    "canal_lista": "TeleJunin",
-    "tvg_id": "TeleJunin.ar",
-    "tvg_name": "TeleJunin",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Telemax",
     "tvg_id": "Telemax.ar@SD",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Telemax | AR",
     "tvg_id": "292",
     "tvg_name": "Telemax",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Telemix",
     "tvg_id": "TeleMix.ar",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Telemundo Internacional (1080p)",
     "tvg_id": "TelemundoInternacional.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Telemundo Series (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "TeleSUR (1080p)",
     "tvg_id": "teleSUR.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "TeleSUR (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Teletrece (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Televisión Pública (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Televisora Regional Unimar (410p)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Tennis Channel 2",
-    "tvg_id": "TennisChannel2.us",
+    "tvg_id": "TennisChannel2.us@SD",
     "tvg_name": "Tennis Channel 2",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Tevex (720p)",
     "tvg_id": "Tevex.cl",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "The Cabbin FM",
-    "tvg_id": "TheCabbinFM.ar",
+    "tvg_id": "TheCabbinFM.ar@SD",
     "tvg_name": "The Cabbin FM",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "The Musical World (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Tierramia TV",
     "tvg_id": "TierraMiaTV.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Tigo Sports (El Salvador)",
     "tvg_id": "TigoSports.sv@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "TLC",
     "tvg_id": "TLC.ar",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Tlnovelas",
     "tvg_id": "TLNovelas.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Tlnovelas Mexico (1080p)",
     "tvg_id": "TlnovelasMexico.mx@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "TN",
     "tvg_id": "TN.ar",
     "tvg_name": "TN",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 3,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "TN Todo Noticias (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "TNT Novelas HD",
     "tvg_id": "TNT NOVELAS.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "TNT Novelas (1080p)",
     "tvg_id": "TNT NOVELAS.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "TNT Sports",
     "tvg_id": "TNTSports.ar",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 1,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "TNT Sports Premium",
     "tvg_id": "TNT SPORTS PREMIUM.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Todo Novelas (1080p)",
     "tvg_id": "TodoNovelas.es@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Tour Spot TV",
-    "tvg_id": "TourSpotTV.do",
+    "tvg_id": "TourSpotTV.do@HD",
     "tvg_name": "Tour Spot TV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Tribu TV",
     "tvg_id": "777",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "TSN The Ocho",
-    "tvg_id": "TSNTheOcho.ca",
+    "tvg_id": "TSNTheOcho.ca@SD",
     "tvg_name": "TSN The Ocho",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 2,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Turf Movil",
-    "tvg_id": "TurfMovil.cl",
+    "tvg_id": "TurfMovil.cl@SD",
     "tvg_name": "Turf Movil",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "TV Canal 72",
-    "tvg_id": "TVCanal72.ar",
+    "tvg_id": "TVCanal72.ar@SD",
     "tvg_name": "TV Canal 72",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "TV Cuatro 4.3",
-    "tvg_id": "TVCuatro43.mx",
+    "tvg_id": "TVCuatro43.mx@SD",
     "tvg_name": "TV Cuatro 4.3",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "TV La Verdad (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "TV Mana",
     "tvg_id": "297",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "TV Mana Argentina (576p)",
     "tvg_id": "TVManaArgentina.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "TV Pública",
-    "tvg_id": "TelevisionPublica.ar",
+    "tvg_id": "TVPublica.ar",
     "tvg_name": "Television Publica",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 3,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "TV Publica Fueguina (1080p)",
     "tvg_id": "TVPublicaFueguina.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "TV Solidaria",
-    "tvg_id": "TVSolidaria.ar",
+    "tvg_id": "TVSolidaria.ar@SD",
     "tvg_name": "TV Solidaria",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "TV Solidaria | AR",
     "tvg_id": "1370",
     "tvg_name": "TV Solidaria",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "TV Universidad",
     "tvg_id": "TVUniversidad.ar@SD",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "TVE Star HD (1080p)",
     "tvg_id": "TVEStar.es@HD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "TVS Bowling Network",
-    "tvg_id": "TVSBowlingNetwork.us",
+    "tvg_id": "TVSBowlingNetwork.us@SD",
     "tvg_name": "TVS Bowling Network",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "TVS Boxing",
-    "tvg_id": "TVSBoxing.us",
+    "tvg_id": "TVSBoxing.us@SD",
     "tvg_name": "TVS Boxing",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 1,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "TVS Classic Sports",
-    "tvg_id": "TVSClassicSports.us",
+    "tvg_id": "TVSClassicSports.us@SD",
     "tvg_name": "TVS Classic Sports",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 1,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "TVS Sports",
-    "tvg_id": "TVSSports.us",
+    "tvg_id": "TVSSports.us@SD",
     "tvg_name": "TVS Sports",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "TVS Turbo",
-    "tvg_id": "TVSTurbo.us",
+    "tvg_id": "TVSTurbo.us@SD",
     "tvg_name": "TVS Turbo",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 1,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "TVS Women Sports",
-    "tvg_id": "TVSWomenSports.us",
+    "tvg_id": "TVSWomenSports.us@SD",
     "tvg_name": "TVS Women Sports",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 1,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "TyC Sports (1080p)",
     "tvg_id": "TyCSports.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "TyC Sports (720p)",
     "tvg_id": "TyCSports.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "TyC Sports USA",
-    "tvg_id": "TyCSportsUSA.ar",
+    "tvg_id": "TyCSportsUSA.ar@SD",
     "tvg_name": "TyC Sports USA",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "UCL Televisión LATAM ✪ | UY",
     "tvg_id": "494",
     "tvg_name": "UCL Televisión LATAM",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Unbeaten",
-    "tvg_id": "Unbeaten.us",
+    "tvg_id": "Unbeaten.us@SD",
     "tvg_name": "Unbeaten",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 11,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Uni Teve",
     "tvg_id": "248",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Unife TV",
     "tvg_id": "UnifeTV.ar@SD",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Unife TV",
     "tvg_id": "UnifeTV.ar@SD",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "UNIRIO",
     "tvg_id": "247",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Uniteve (720p)",
     "tvg_id": "Uniteve.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Universal Crime (1080p)",
     "tvg_id": "UniversalCrime.us@East",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Universal TV HD",
-    "tvg_id": "UniversalTVHD.np",
+    "tvg_id": "UniversalTV.ar",
     "tvg_name": "Universal TV HD",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "UNLP TV",
     "tvg_id": "1371",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Urban Mix (720p)",
     "tvg_id": "UrbanMix.ar@SD",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Urbana Tevé (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Venezolana de Televisión (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Villa Mantero TV",
-    "tvg_id": "VillaManteroTV.ar",
+    "tvg_id": "VillaManteroTV.ar@SD",
     "tvg_name": "Villa Mantero TV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Volver",
     "tvg_id": "Volver.ar",
     "tvg_name": "Volver",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 1,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Vorterix (1080p) (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "VPItv (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Warner",
     "tvg_id": "WARNER HD.ar",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Warner TV HD",
     "tvg_id": "WarnerChannel.us",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 8,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "WatchMojo Español (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Willow Sports",
-    "tvg_id": "WillowSports.us",
+    "tvg_id": "WillowSports.us@SD",
     "tvg_name": "Willow Sports",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 5,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Win Sports",
     "tvg_id": "WinSports.co@SD",
     "tvg_name": "",
-    "coincidencia": "nombre_ambiguo",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Win+ Futbol",
-    "tvg_id": "WinPlusFutbol.co",
+    "tvg_id": "WinPlusFutbol.co@SD",
     "tvg_name": "Win+ Futbol",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "World Poker Tour",
-    "tvg_id": "WorldPokerTour.us",
+    "tvg_id": "WorldPokerTour.us@US",
     "tvg_name": "World Poker Tour",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 14,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "X Level Media (1080p)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "XFC TV",
-    "tvg_id": "XFCTV.us",
+    "tvg_id": "XFCTV.us@SD",
     "tvg_name": "XFC TV",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 9,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Xtrema Accion",
-    "tvg_id": "XtremaAccion.ar",
+    "tvg_id": "XtremaAccion.ar@SD",
     "tvg_name": "Xtrema Accion",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Xtrema Cartoons",
-    "tvg_id": "XtremaCartoons.ar",
+    "tvg_id": "XtremaCartoons.ar@SD",
     "tvg_name": "Xtrema Cartoons",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Xtrema Cine Clasico",
-    "tvg_id": "XtremaCineClasico.ar",
+    "tvg_id": "XtremaCineClasico.ar@SD",
     "tvg_name": "Xtrema Cine Clasico",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Xtrema Terror",
-    "tvg_id": "XtremaTerror.ar",
+    "tvg_id": "XtremaTerror.ar@SD",
     "tvg_name": "Xtrema Terror",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Yolu TV (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "ZN Noticias",
-    "tvg_id": "ZNNoticias.ar",
+    "tvg_id": "775",
     "tvg_name": "ZN Noticias",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "ZyoonTV | UY",
     "tvg_id": "1691",
     "tvg_name": "ZyoonTV",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Televisión Pública",
-    "tvg_id": "TelevisionPublica.ar",
+    "tvg_id": "TVPublica.ar",
     "tvg_name": "Television Publica",
-    "coincidencia": "coincidencia_exacta",
-    "canal_encontrado": "sí",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sí",
+    "guias_catalogo": 3,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "TyC Sports (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "UNQtv (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Canal 79 Mar del Plata (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   },
   {
     "canal_lista": "Marchi TV (YouTube)",
     "tvg_id": "",
     "tvg_name": "",
-    "coincidencia": "sin_coincidencia",
-    "canal_encontrado": "no",
-    "guias_catalogo": 0,
-    "fuentes_epg": 0
+    "coincidencia": "sin ID",
+    "guias_catalogo": 149130,
+    "programas_encontrados": 0
   }
 ]

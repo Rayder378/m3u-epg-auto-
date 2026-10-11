@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-ar.xml.gz,https://www.open-epg.com/files/argentina1.xml.gz,https://www.open-epg.com/files/argentina3.xml.gz,https://iptv-epg.org/files/epg-cr.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Rayder378/m3u-epg-auto-/main/output/epg.xml"
 #EXTINF:-1 tvg-id="MasPerfil.ar" tvg-logo="https://i.imgur.com/3wZdPwN.png" group-title="Argentina" tvg-name="+Perfil",+Perfil
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-id="13T.cl@SD" tvg-logo="https://i.imgur.com/csBNi2L.png" group-title="Series",13T (720p)
