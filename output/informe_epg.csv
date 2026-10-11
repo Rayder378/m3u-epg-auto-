@@ -1,1853 +1,642 @@
 ﻿canal_lista,tvg_id,tvg_name,coincidencia,canal_encontrado,guias_catalogo,fuentes_epg
-Canal 2 TCS SD,,,sin_coincidencia,no,0,0
-Canal 2 TCS HD [Opc.2],,,sin_coincidencia,no,0,0
-Canal 2 TCS HD [Opc.3],,,sin_coincidencia,no,0,0
-Canal 4 TCS SD,,,sin_coincidencia,no,0,0
-Canal 4 TCS HD [Opc.2],,,sin_coincidencia,no,0,0
-Canal 4 TCS HD [Opc.3],,,sin_coincidencia,no,0,0
-Canal 6 TCS SD,,,sin_coincidencia,no,0,0
-Canal 6 TCS HD [Opc.2],,,sin_coincidencia,no,0,0
-Canal 6 TCS HD [Opc.3],,,sin_coincidencia,no,0,0
-SV+ HD,,,sin_coincidencia,no,0,0
-SV+ HD [Opc.2],,,sin_coincidencia,no,0,0
-SV+ HD [Opc.3],,,sin_coincidencia,no,0,0
-Canal 3 Impresionante SD,,,sin_coincidencia,no,0,0
-Canal 9 [No 24/7],,,sin_coincidencia,no,0,0
-Canal 9 [No 24/7][Opc.2],,,sin_coincidencia,no,0,0
-Canal 9 [No 24/7][Opc.3],,,sin_coincidencia,no,0,0
-Canal 10 TVES [No 24/7],,,sin_coincidencia,no,0,0
-Canal 10 TVES [No 24/7]  [Opc.2],,,sin_coincidencia,no,0,0
-Canal 10 TVES [No 24/7]  [Opc.3],,,sin_coincidencia,no,0,0
-Canal 11 TuTV HD,,,sin_coincidencia,no,0,0
-Canal 12 SD [Geo-Blocked],,,sin_coincidencia,no,0,0
-Canal 12 HD [No 24/7][Opc.2],,,sin_coincidencia,no,0,0
-Canal 12 SD [No 24/7][Opc.3],,,sin_coincidencia,no,0,0
-Canal TRV [No 24/7],,,sin_coincidencia,no,0,0
-Canal TRV [No 24/7][Opc.2],,,sin_coincidencia,no,0,0
-Megavision Canal 19 HD,,,sin_coincidencia,no,0,0
-Megavision Canal 21 HD,,,sin_coincidencia,no,0,0
-TVO Canal 23 SD [No 24/7],,,sin_coincidencia,no,0,0
-TVO Canal 23 SD [No 24/7][Opc.2],,,sin_coincidencia,no,0,0
-TVM 25 SD [24/7],,,sin_coincidencia,no,0,0
-RTV Canal 57 HD [No 24/7],,,sin_coincidencia,no,0,0
-Canal 58 HD [No 24/7],,,sin_coincidencia,no,0,0
-Sol TV [No 24/7],,,sin_coincidencia,no,0,0
-Morazan TV HD [No 24/7],,,sin_coincidencia,no,0,0
-Morazan TV HD [No 24/7][Opc.2],,,sin_coincidencia,no,0,0
-Morazan TV HD [No 24/7][Opc.3],,,sin_coincidencia,no,0,0
-TL+ HD Santa Ana [No 24/7],,,sin_coincidencia,no,0,0
-TVC Network HD [No 24/7],,,sin_coincidencia,no,0,0
-WOW TV HD,,,sin_coincidencia,no,0,0
-Canal 3 El Super Canal SD [Geo-blocked],,,sin_coincidencia,no,0,0
-Canal 3 El Super Canal SD [Opc.2],,,sin_coincidencia,no,0,0
-Canal 3 El Super Canal SD [Opc.3],,,sin_coincidencia,no,0,0
-Canal 7 Televisiete SD [Geo-blocked],,,sin_coincidencia,no,0,0
-Canal 7 Televisiete SD [Opc.2],,,sin_coincidencia,no,0,0
-Canal 7 Televisiete SD [Opc.3],,,sin_coincidencia,no,0,0
-Canal 11 SD  (Nacional),,,sin_coincidencia,no,0,0
-Canal 11 SD  (Nacional) [Opc.2],,,sin_coincidencia,no,0,0
-Canal 11 SD  (Nacional) [Opc.3],,,sin_coincidencia,no,0,0
-Canal 13 SD  (Nacional),,,sin_coincidencia,no,0,0
-Canal 13 SD  (Nacional) [Opc.2],,,sin_coincidencia,no,0,0
-Canal 13 SD  (Nacional) [Opc.3],,,sin_coincidencia,no,0,0
-A+ Guate HD,,,sin_coincidencia,no,0,0
-A+ Guate HD [Opc.2],,,sin_coincidencia,no,0,0
-TV Azteca Guate SD,,,sin_coincidencia,no,0,0
-TV Azteca Guate SD [Opc.2],,,sin_coincidencia,no,0,0
-Guatevisión SD,,,sin_coincidencia,no,0,0
-Guatevisión SD  [Opc.2],,,sin_coincidencia,no,0,0
-TeveGlobo Xela HD [No 24/7] (Quetzaltenango),,,sin_coincidencia,no,0,0
-Telecosta HD [No 24/7],,,sin_coincidencia,no,0,0
-Como Antes TV HD,,,sin_coincidencia,no,0,0
-Barbe TV HD (Santa Rosa),,,sin_coincidencia,no,0,0
-Aurora MF HD [No 24/7],,,sin_coincidencia,no,0,0
-SilTV HD [No 24/7],,,sin_coincidencia,no,0,0
-Canal Sol TV HD,,,sin_coincidencia,no,0,0
-Visión TV HD (Solola),,,sin_coincidencia,no,0,0
-TV Doble C HD (Escuintla),,,sin_coincidencia,no,0,0
-Toto Visión HD [No 24/7],,,sin_coincidencia,no,0,0
-TV Florencia HD (Chimaltenango),,,sin_coincidencia,no,0,0
-SAS TV HD [No 24/7] (Suchitepequez),,,sin_coincidencia,no,0,0
-Más TV HD (Totonicapan),,,sin_coincidencia,no,0,0
-Imagen TV HD (Totonicapan),,,sin_coincidencia,no,0,0
-Luna TV HD [No 24/7] (Quetzaltenango),,,sin_coincidencia,no,0,0
-TVO [No 24/7] (Quetzaltenango),,,sin_coincidencia,no,0,0
-Canal 3 Regional [No 24/7] (Quetzaltenango),,,sin_coincidencia,no,0,0
-GTV HD [No 24/7] (Guatemala),,,sin_coincidencia,no,0,0
-Canal 13 HD [No 24/7](Esquipulas),,,sin_coincidencia,no,0,0
-Multivisión Canal 3 [No 24/7],,,sin_coincidencia,no,0,0
-Nim TV HD [No 24/7],,,sin_coincidencia,no,0,0
-Verapaz TV HD [No 24/7] (Inestable),,,sin_coincidencia,no,0,0
-TVS Retro TV (Solola),,,sin_coincidencia,no,0,0
-Canal 26 Quezada TV HD [No 24/](Jutiapa),,,sin_coincidencia,no,0,0
-Canal 26 Cono Sur TV HD [No 24/](Jutiapa),,,sin_coincidencia,no,0,0
-Canal 4 Ixíl HD [No 24/](Quiche),,,sin_coincidencia,no,0,0
-Canal 6 SD [No 24/7](Panajachel),,,sin_coincidencia,no,0,0
-TV5 HD [No 24/7] (Solola),,,sin_coincidencia,no,0,0
-Canal Antigua SD,,,sin_coincidencia,no,0,0
-Canal TVQ LIVE HD,,,sin_coincidencia,no,0,0
-Teleflix HD [No 24/7],,,sin_coincidencia,no,0,0
-Telecable Salcaja,,,sin_coincidencia,no,0,0
-World TV [No 24/7],,,sin_coincidencia,no,0,0
-HCH HD (Nacional),,,sin_coincidencia,no,0,0
-HCH SD (Nacional) [Opc.2],,,sin_coincidencia,no,0,0
-Canal 5 El Líder HD (Nacional),,,sin_coincidencia,no,0,0
-Canal 5 El Líder HD (Nacional)[Opc.2],,,sin_coincidencia,no,0,0
-Canal 11 HD (Nacional),,,sin_coincidencia,no,0,0
-Canal 11 SD (Nacional),,,sin_coincidencia,no,0,0
-TSi HD(Nacional),,,sin_coincidencia,no,0,0
-Deportes TVC SD,,,sin_coincidencia,no,0,0
-Deportes TVC SD [Opc.2],,,sin_coincidencia,no,0,0
-Deportes TVC HD [Opc.3],,,sin_coincidencia,no,0,0
-Telecadena 7/4 HD,,,sin_coincidencia,no,0,0
-Telecadena 7/4 SD [Opc.2],,,sin_coincidencia,no,0,0
-Telecadena 7/4 SD [Opc.3],,,sin_coincidencia,no,0,0
-VTV SD (Nacional) [Geo-Blocked],,,sin_coincidencia,no,0,0
-Teleceiba HD (Nacional),,,sin_coincidencia,no,0,0
-Q'Hubo TV HD (Nacional),,,sin_coincidencia,no,0,0
-RCV TV HD (Nacional),,,sin_coincidencia,no,0,0
-EDN TV HD (Nacional),,,sin_coincidencia,no,0,0
-CHTV HD (Nacional),,,sin_coincidencia,no,0,0
-Canal STVE Telebásica 1 HD,,,sin_coincidencia,no,0,0
-Telemás HD [No 24/7] (Nacional),,,sin_coincidencia,no,0,0
-Omega TV [No 24/7] (Nacional),,,sin_coincidencia,no,0,0
-TV Centro HD [No 24/7](Nacional),,,sin_coincidencia,no,0,0
-TV Centro 27.2 HD (Nacional),,,sin_coincidencia,no,0,0
-Sula TV HD (San Pedro Sula),,,sin_coincidencia,no,0,0
-Metro TV HD (Choluteca),,,sin_coincidencia,no,0,0
-Choluteca TV HD (Choluteca),,,sin_coincidencia,no,0,0
-Televisión Metrópolis 19.1 HD (Choluteca),,,sin_coincidencia,no,0,0
-Televisión Metrópolis 19.2 HD [No 24/7] (Choluteca),,,sin_coincidencia,no,0,0
-Litoral Atlántico HD [No 24/7] (La Ceiba),,,sin_coincidencia,no,0,0
-Televisión Olanchana HD [No 24/7] (Olancho),,,sin_coincidencia,no,0,0
-TV Copán HD (Santa Rosa de Copán),,,sin_coincidencia,no,0,0
-Lenca Television Canal 40 [No 24/](Intibucá),,,sin_coincidencia,no,0,0
-Telerayo HD (Comayagua),,,sin_coincidencia,no,0,0
-Alsacias Televisión HD (Ahuas / Gracias a Dios),,,sin_coincidencia,no,0,0
-Television creativa,TCtvHonduras.hn,TCtv Honduras,coincidencia_exacta,sí,0,0
-Television Comayagua Canal 40,TelevisionComayaguaCanal40.hn,Television Comayagua Canal 40,coincidencia_exacta,sí,0,0
-La Top 102.9 HD (Tegucigalpa),,,sin_coincidencia,no,0,0
-La Top 107.7 HD [No 24/7](San Pedro Sula),,,sin_coincidencia,no,0,0
-Radio Ideal 104.7 FM HD(La Ceiba),,,sin_coincidencia,no,0,0
-Radio Imagen 105.1 FM HD (San Pedro Sula),,,sin_coincidencia,no,0,0
-Canal 1 HD (Nacional),,,sin_coincidencia,no,0,0
-Canal 2 Repretel HD  (Nacional)[Geo-Blocked],,,sin_coincidencia,no,0,0
-Canal 4 Repretel HD  (Nacional)[Geo-Blocked][Opc.1],,,sin_coincidencia,no,0,0
-Canal 4 Repretel SD  (Nacional)[Opc.2],,,sin_coincidencia,no,0,0
-Canal 4 Repretel SD  (Nacional)[Opc.3],,,sin_coincidencia,no,0,0
-Canal 6 Repretel HD (Nacional)[Geo-Blocked][Opc.1],,,sin_coincidencia,no,0,0
-Canal 6 Repretel SD (Nacional)[Opc.2],,,sin_coincidencia,no,0,0
-Canal 6 Repretel SD (Nacional)[Opc.3],,,sin_coincidencia,no,0,0
-TELETICA 7 HD,,,sin_coincidencia,no,0,0
-Canal 8 Multimedios HD (Nacional),,,sin_coincidencia,no,0,0
-Canal 10 HD (Nacional),,,sin_coincidencia,no,0,0
-Canal 11 Repretel HD (Nacional)[Geo-Blocked][Opc.1],,,sin_coincidencia,no,0,0
-Canal 11 Repretel SD (Nacional)[Opc.2],,,sin_coincidencia,no,0,0
-Canal 11 Repretel SD (Nacional)[Opc.3],,,sin_coincidencia,no,0,0
-TD+ HD (Nacional),,,sin_coincidencia,no,0,0
-TD+ 2 HD (Nacional),,,sin_coincidencia,no,0,0
-MultiCanal,Multicanal.ec,Multicanal,coincidencia_exacta,sí,0,0
-MultiCanal[Opc.2],,,sin_coincidencia,no,0,0
-¡OPA! HD (Nacional),,,sin_coincidencia,no,0,0
-TDtv TD+ HD (Nacional),,,sin_coincidencia,no,0,0
-Canal 14 HD (San Carlos),,,sin_coincidencia,no,0,0
-TV Sur Canal 14 HD (Pérez Zeledón),,,sin_coincidencia,no,0,0
-Nicoya TV HD (Guanacaste),,,sin_coincidencia,no,0,0
-Garabito TV HD (Puntarenas),,,sin_coincidencia,no,0,0
-TeleBrunca HD (Zona Sur),,,sin_coincidencia,no,0,0
-Colosal TV HD (Ciudad Neily),,,sin_coincidencia,no,0,0
-Antena Seis TV HD (Grecia - Alajuela),,,sin_coincidencia,no,0,0
-TicaVisión HD (Alajuela)[Inestable],,,sin_coincidencia,no,0,0
-Costa Rica Channel HD (Internacional),,,sin_coincidencia,no,0,0
-TeleMas SD (San José),,,sin_coincidencia,no,0,0
-Telered Television HD (San José),,,sin_coincidencia,no,0,0
-Super Canal,,,nombre_ambiguo,no,0,0
-Super Canal [Opc.2],,,sin_coincidencia,no,0,0
-Conexion Positiva Television,ConexionPositivaTelevision.cr,Conexion Positiva Television,coincidencia_exacta,sí,0,0
-Los Santos TV (Zona de los Santos)[No 24/7],,,sin_coincidencia,no,0,0
-CEDROS TV HD [No 24/7],,,sin_coincidencia,no,0,0
-Zurquí TV HD [No 24/7](Pococí - Limón),,,sin_coincidencia,no,0,0
-Las Estrellas HD (Nacional)[v1],,,sin_coincidencia,no,0,0
-Las Estrellas HD (Nacional)[v1](Opc.2),,,sin_coincidencia,no,0,0
-Las Estrellas HD (Nacional)[V2],,,sin_coincidencia,no,0,0
-Las Estrellas HD (Nacional)[V2](Opc.2),,,sin_coincidencia,no,0,0
-Las Estrellas HD (Nacional)[V2](Opc.3),,,sin_coincidencia,no,0,0
-Las Estrellas SD (Nacional)[V2](Opc.4),,,sin_coincidencia,no,0,0
-Las Estrellas HD (Nacional)[V3],,,sin_coincidencia,no,0,0
-Canal 5 HD (Nacional)[Opc. 1],,,sin_coincidencia,no,0,0
-Canal 5 HD (Nacional)[Opc. 2],,,sin_coincidencia,no,0,0
-Canal 5 HD (Nacional)[Opc. 3],,,sin_coincidencia,no,0,0
-Canal 5 SD (Nacional)[Opc. 4],,,sin_coincidencia,no,0,0
-Canal 5 SD (Nacional)[Opc.5],,,sin_coincidencia,no,0,0
-Azteca 7 HD  (México)[Opc. 1],,,sin_coincidencia,no,0,0
-Azteca 7 HD  (México)[Opc. 2],,,sin_coincidencia,no,0,0
-Azteca 7 SD  (México)[Opc. 3],,,sin_coincidencia,no,0,0
-Imagen TV Plus HD (Nacional),,,sin_coincidencia,no,0,0
-Canal Once HD (IPN) (Nacional),,,sin_coincidencia,no,0,0
-Canal 11 Internacional HD (Nacional),,,sin_coincidencia,no,0,0
-Multimedios Canal 6 HD (CDMX),,,sin_coincidencia,no,0,0
-Clic TV HD (TV Azteca) (Nacional),,,sin_coincidencia,no,0,0
-Estrella TV HD (Nacional),,,sin_coincidencia,no,0,0
-Estrella TV Games HD (Nacional),,,sin_coincidencia,no,0,0
-Canal 15 ILCE HD (Nacional),,,sin_coincidencia,no,0,0
-Mexiquense TV HD (Edomex),,,sin_coincidencia,no,0,0
-TV Más HD (Veracruz),,,sin_coincidencia,no,0,0
-TV Cuatro 4.2 HD (Guanajuato),,,sin_coincidencia,no,0,0
-TV Guanajuato HD (Guanajuato),,,sin_coincidencia,no,0,0
-Canal 44 HD Ciudad Juárez (Chihuahua),,,sin_coincidencia,no,0,0
-Canal 44 HD Chihuahua (Chihuahua),,,sin_coincidencia,no,0,0
-Nueve TV HD (San Luis Potosí),,,sin_coincidencia,no,0,0
-RTQ Queretaro SD (Querétaro)[No 24/7],,,sin_coincidencia,no,0,0
-Nayarit Comunica HD (Nayarit),,,sin_coincidencia,no,0,0
-SQCS Canal 4 SD (Quintana Roo),,,sin_coincidencia,no,0,0
-Telemax HD (Sonora),,,sin_coincidencia,no,0,0
-TV Mar La Paz HD (Baja California Sur),,,sin_coincidencia,no,0,0
-PSN Ensenada SD (Baja California),,,sin_coincidencia,no,0,0
-Canal 26 VA+ TV HD (Aguascalientes),,,sin_coincidencia,no,0,0
-Turistik HD (Nacional),,,sin_coincidencia,no,0,0
-Super Canal 12 HD (Tamaulipas),,,sin_coincidencia,no,0,0
-XHFGL ON TV Canal 15 HD [No 24/7](Durango),,,sin_coincidencia,no,0,0
-XHUNES Señal España HD (Durango)[No 24/7],,,sin_coincidencia,no,0,0
-Tele Yucatan HD [No 24/7](Yucatán),,,sin_coincidencia,no,0,0
-Ultra TV Puebla HD [No 24/7] (Puebla),,,sin_coincidencia,no,0,0
-Unison TV Canal 8 SD [No 24/7] (Sonora),,,sin_coincidencia,no,0,0
-Vibe TV HD [No 24/7] (Guanajuato),,,sin_coincidencia,no,0,0
-RCN HD,,,sin_coincidencia,no,0,0
-RCN SD [Opc.2],,,sin_coincidencia,no,0,0
-RCN SD [Opc.3],,,sin_coincidencia,no,0,0
-RCN2 HD,,,sin_coincidencia,no,0,0
-RCN2 HD[Opc.2],,,sin_coincidencia,no,0,0
-Caracol HD [Opc.1],,,sin_coincidencia,no,0,0
-Caracol HD [Opc.2],,,sin_coincidencia,no,0,0
-Caracol SD [Opc.3],,,sin_coincidencia,no,0,0
-Caracol2 HD [Opc.1],,,sin_coincidencia,no,0,0
-Caracol2 HD [Opc.2],,,sin_coincidencia,no,0,0
-Caracol2 SD [Opc.3],,,sin_coincidencia,no,0,0
-Telepacifico,Telepacifico.co,Telepacifico,coincidencia_exacta,sí,2,0
-Telepacifico [Opc2],,,sin_coincidencia,no,0,0
-Señal Colombia [No 24/7] (Nacional) [Geo-Blocked],,,sin_coincidencia,no,0,0
-Canal Institucional [No 24/7] (Nacional) [Geo-Blocked],,,sin_coincidencia,no,0,0
-Red+ HD (Nacional),,,sin_coincidencia,no,0,0
-Colombia Extremo Televisión,ColombiaExtremoTelevision.co,Colombia Extremo Television,coincidencia_exacta,sí,0,0
-Eduvisión,Eduvision.co,Eduvision,coincidencia_exacta,sí,0,0
-Canal Capital [Geo-Blocked],,,sin_coincidencia,no,0,0
-Teleantioquia HD (Antioquia / Regional) [Geo-Blocked],,,sin_coincidencia,no,0,0
-Teleantioquia HD (Antioquia / Regional) [Opc.2],,,sin_coincidencia,no,0,0
-Teleantioquia HD (Antioquia / Regional) [Opc.3],,,sin_coincidencia,no,0,0
-Telecaribe HD (Región Caribe / Regional),,,sin_coincidencia,no,0,0
-Telecaribe Plus HD (Región Caribe),,,sin_coincidencia,no,0,0
-Canal TRO HD (Santanderes / Regional),,,sin_coincidencia,no,0,0
-Canal TRO Plus HD (Santanderes / Colombia),,,sin_coincidencia,no,0,0
-Telecafé [No 24/7] (Eje Cafetero / Regional),,,sin_coincidencia,no,0,0
-Telemedellín HD (Medellín - Antioquia),,,sin_coincidencia,no,0,0
-Teleislas SD [No 24/7] (San Andrés / Regional),,,sin_coincidencia,no,0,0
-Teleislas SD [No 24/7] (San Andrés / Regional) [Opc.2],,,sin_coincidencia,no,0,0
-Teleislas SD [No 24/7] (San Andrés / Regional) [Opc.3],,,sin_coincidencia,no,0,0
-Canal 8 TV+ HD  (Cundinamarca),,,sin_coincidencia,no,0,0
-Canal Calima TV HD (URESTV)[No 24/7] (Cali / Valle del Cauca),,,sin_coincidencia,no,0,0
-TV San Jorge HD [No 24/7] (Ocaña - Norte de Santander),,,sin_coincidencia,no,0,0
-TeveColombia HD [No 24/7] (Nacional),,,sin_coincidencia,no,0,0
-Telesangil HD [No 24/7](San Gil - Santander),,,sin_coincidencia,no,0,0
-Canal Más Televisión [No 24/7] (La Dorada - Caldas),,,sin_coincidencia,no,0,0
-Canal Dos Yopal HD (Casanare),,,sin_coincidencia,no,0,0
-CNC Santander de Quilichao SD (Cauca),,,sin_coincidencia,no,0,0
-El Mundo del Campo HD (Nacional),,,sin_coincidencia,no,0,0
-Ultra Casanare TV HD [No 24/7] (Casanare),,,sin_coincidencia,no,0,0
-Canal TV3 HD  [No 24/7] (Valle del Cauca),,,sin_coincidencia,no,0,0
-Canica TV SD [No 24.7](Cundinamarca),,,sin_coincidencia,no,0,0
-Mas Norte TV HD [No 24/7] (Norte de Santander),,,sin_coincidencia,no,0,0
-Ondambiental TV SD (Bogotá),,,sin_coincidencia,no,0,0
-Suram TV HD (Antioquia),,,sin_coincidencia,no,0,0
-Vive TV Colombia HD [No 24/7](Nacional),,,sin_coincidencia,no,0,0
-UMC TV HD (Nacional),,,sin_coincidencia,no,0,0
-Canal PyC HD (Ibagué),,,sin_coincidencia,no,0,0
-Blu Radio HD [No 24/7] (Nacional),,,sin_coincidencia,no,0,0
-HOGAR TV,HogarTV.co,Hogar TV,coincidencia_exacta,sí,0,0
-HOGAR TV[Opc.2],,,sin_coincidencia,no,0,0
-Ecuavisa (Nacional),,,sin_coincidencia,no,0,0
-Ecuavisa Guayaquil [No 24/7] (Guayas),,,sin_coincidencia,no,0,0
-Ecuavisa Quito [No 24/7] (Pichincha),,,sin_coincidencia,no,0,0
-RTS SD (Nacional),,,sin_coincidencia,no,0,0
-RTS SD (Nacional) [Opc.2],,,sin_coincidencia,no,0,0
-TVC SD (Nacional),,,sin_coincidencia,no,0,0
-Ecuador TV HD (Nacional),,,sin_coincidencia,no,0,0
-Teleamazonas HD [Geo-blocked],,,sin_coincidencia,no,0,0
-Teleamazonas SD (Opc.2),,,sin_coincidencia,no,0,0
-Teleamazonas SD (Opc.3),,,sin_coincidencia,no,0,0
-TC Television SD,,,sin_coincidencia,no,0,0
-TC Television SD [Opc.2],,,sin_coincidencia,no,0,0
-TC Television SD [Opc.3],,,sin_coincidencia,no,0,0
-Oromar TV HD (Manabí),,,sin_coincidencia,no,0,0
-Oromar TV SD  (Manabí)[Opc.2],,,sin_coincidencia,no,0,0
-Oromar TV SD  (Manabí)[Opc.3],,,sin_coincidencia,no,0,0
-Oromar TV SD  (Manabí)[Opc.4],,,sin_coincidencia,no,0,0
-Telerama SD  [No 24/7] (Azuay / Nacional),,,sin_coincidencia,no,0,0
-Manavisión SD  (Manabí),,,sin_coincidencia,no,0,0
-VitoTVO HD (Guayas) [Geo-Blocked],,,sin_coincidencia,no,0,0
-VitoTVO HD (Guayas) [Opc.2],,,sin_coincidencia,no,0,0
-VitoTVO HD (Guayas) [Opc.2],,,sin_coincidencia,no,0,0
-Majestad Televisión (Santo Domingo),,,sin_coincidencia,no,0,0
-Educa TV HD [No 24/7] (Nacional),,,sin_coincidencia,no,0,0
-KCHTV HD (Guayas) [Geo-Blocked],,,sin_coincidencia,no,0,0
-KCHTV SD (Guayas) [Opc.2],,,sin_coincidencia,no,0,0
-KCHTV HD (Guayas) [Opc.3],,,sin_coincidencia,no,0,0
-Telepremier Plus HD (Guayas) [Opc.2],,,sin_coincidencia,no,0,0
-TV Color Canal 36 HD (El Oro),,,sin_coincidencia,no,0,0
-Antena Uno RadioVideo SD (Azuay),,,sin_coincidencia,no,0,0
-Latacunga TV HD (Cotopaxi),,,sin_coincidencia,no,0,0
-Sono Onda TV HD (Manabí),,,sin_coincidencia,no,0,0
-MakroDigital Television HD (Guayas),,,sin_coincidencia,no,0,0
-RTRTV HD (Guayas),,,sin_coincidencia,no,0,0
-Zaracay TV HD [No 24/7] (Santo Domingo),,,sin_coincidencia,no,0,0
-Zaracay TV HD [No 24/7] (Santo Domingo) [Opc.2],,,sin_coincidencia,no,0,0
-Bacán Te Veo HD [No 24/7] (Loja),,,sin_coincidencia,no,0,0
-Loreto TV HD [No 24/7](Orellana),,,sin_coincidencia,no,0,0
-UNIANDES TV HD [No 24/7] (Tungurahua),,,sin_coincidencia,no,0,0
-Capricho TV HD [No 24/7] (El Oro),,,sin_coincidencia,no,0,0
-Ciracu TV HD (Not 24/7) (Manabí),,,sin_coincidencia,no,0,0
-Curiquingue TV HD (Pichincha),,,sin_coincidencia,no,0,0
-El Sol Network TV HD [No 24/7] (Machala),,,sin_coincidencia,no,0,0
-Multicanal [No 24/7](Ecuador - Loja),,,sin_coincidencia,no,0,0
-RTV Riobamba [No 24/7] (Ecuador - Chimborazo),,,sin_coincidencia,no,0,0
-Latina HD (Nacional),,,sin_coincidencia,no,0,0
-Latina HD (Nacional)[Opc.2],,,sin_coincidencia,no,0,0
-Latina HD (Nacional)[Opc.3],,,sin_coincidencia,no,0,0
-Latina HD (Nacional)[Opc.4],,,sin_coincidencia,no,0,0
-TV Perú HD (Nacional),,,sin_coincidencia,no,0,0
-TV Perú Noticias,TVPeruNoticias.pe,TV Peru Noticias,coincidencia_exacta,sí,1,0
-TV Perú Internacional,TVPeruInternacional.pe,TV Peru Internacional,coincidencia_exacta,sí,0,0
-ATV  (Nacional),,,sin_coincidencia,no,0,0
-ATV SD (Nacional)[Opc.2],,,sin_coincidencia,no,0,0
-ATV SD (Nacional)[Opc.3],,,sin_coincidencia,no,0,0
-Global TV HD (Nacional),,,sin_coincidencia,no,0,0
-Global TV SD (Nacional) [Opc.2],,,sin_coincidencia,no,0,0
-Global TV SD (Nacional) [Opc.3],,,sin_coincidencia,no,0,0
-América Televisión HD,,,sin_coincidencia,no,0,0
-América Televisión HD [Opc.2],,,sin_coincidencia,no,0,0
-América Televisión HD [Opc.3],,,sin_coincidencia,no,0,0
-Willax TV HD (Nacional),,,sin_coincidencia,no,0,0
-Willax TV SD(Nacional)[Opc.2],,,sin_coincidencia,no,0,0
-Willax TV SD(Nacional)[Opc.3],,,sin_coincidencia,no,0,0
-Panamericana Televisión HD,,,sin_coincidencia,no,0,0
-Panamericana Televisión SD [Opc.2],,,sin_coincidencia,no,0,0
-Panamericana Televisión SD [Opc.3],,,sin_coincidencia,no,0,0
-Panamericana Televisión SD [Opc.4],,,sin_coincidencia,no,0,0
-A1 TV HD [No 24/7],,,sin_coincidencia,no,0,0
-A1 TV HD [No 24/7][Opc.2],,,sin_coincidencia,no,0,0
-Antena 1 HD,,,sin_coincidencia,no,0,0
-Antena 1 HD [Opc.2],,,sin_coincidencia,no,0,0
-CR TV HD,,,sin_coincidencia,no,0,0
-ATV Sur HD (Arequipa / Nacional) [Opc.1],,,sin_coincidencia,no,0,0
-ATV + HD (Arequipa / Nacional) [Opc.1],,,sin_coincidencia,no,0,0
-Tele Lima,,,sin_coincidencia,no,0,0
-Mega TV HD (Arequipa),,,sin_coincidencia,no,0,0
-Lo Nuestro TV,,,sin_coincidencia,no,0,0
-Latina Clasicos HD (Nacional),,,sin_coincidencia,no,0,0
-Milenial TV HD (Lima / Nacional),,,sin_coincidencia,no,0,0
-Onda Digital HD (Lima / Nacional),,,sin_coincidencia,no,0,0
-Onda Digital 2 HD (Lima / Nacional),,,sin_coincidencia,no,0,0
-Onda Digital 3 HD [No 24/7](Lima / Nacional),,,sin_coincidencia,no,0,0
-Radio Onda Digital HD (Lima / Nacional),,,sin_coincidencia,no,0,0
-USMPTV HD (Lima / Nacional),,,sin_coincidencia,no,0,0
-Canal 21 Huancayo HD (Junín),,,sin_coincidencia,no,0,0
-Antena Sur HD (Arequipa),,,sin_coincidencia,no,0,0
-Impacto TV Digital SD,,,sin_coincidencia,no,0,0
-ECO Television (Ica),,,sin_coincidencia,no,0,0
-RadioTV Oriente HD (Yurimaguas - Loreto),,,sin_coincidencia,no,0,0
-Like TV HD (Nacional),,,sin_coincidencia,no,0,0
-BHTV HD (Lima),,,sin_coincidencia,no,0,0
-Intuitiva TV HD (Lima),,,sin_coincidencia,no,0,0
-Nativa TV HD (Santiago),,,sin_coincidencia,no,0,0
-Nativa TV HD (Santiago) [Opc.2],,,sin_coincidencia,no,0,0
-Once TV Digital,,,sin_coincidencia,no,0,0
-Once TV Digital [Opc.2],,,sin_coincidencia,no,0,0
-Canal 39 TV HD (Ica) [No 24/7],,,sin_coincidencia,no,0,0
-Vía Televisión HD [No 24/7] (Tarapoto - San Martín),,,sin_coincidencia,no,0,0
-Televisión Tarapoto HD [No 24/7] (San Martín),,,sin_coincidencia,no,0,0
-Visión Sur TV HD [No 24/7] (Arequipa),,,sin_coincidencia,no,0,0
-Mega TV Jaén HD [No 24/7] (Cajamarca),,,sin_coincidencia,no,0,0
-Telecolor Yurimaguas HD [No 24/7] (Loreto),,,sin_coincidencia,no,0,0
-Uranio TV (Yurimaguas) HD [No 24/7] (Loreto),,,sin_coincidencia,no,0,0
-Top FM TV HD [No 24/7] (Aguaytía - Ucayali),,,sin_coincidencia,no,0,0
-Cadena TV HD [No 24/7] (Lima),,,sin_coincidencia,no,0,0
-Señal Perú TV HD [No 24/7] (Lima),,,sin_coincidencia,no,0,0
-Trivu HD [No 24/7] (Lima),,,sin_coincidencia,no,0,0
-Agro TV HD [No 24/7] (Cusco),,,sin_coincidencia,no,0,0
-Miel TV HD [Not 24/7] (Satipo),,,sin_coincidencia,no,0,0
-Radio Tropical HD [Not 24/7] (Tarapoto),,,sin_coincidencia,no,0,0
-Mega HD (Nacional),,,sin_coincidencia,no,0,0
-Mega HD (Nacional)[Opc.2],,,sin_coincidencia,no,0,0
-Mega HD (Nacional)[Opc.3],,,sin_coincidencia,no,0,0
-La Red HD (Nacional)[Geo-Blocked],,,sin_coincidencia,no,0,0
-La Red SD (Nacional)[Opc.2],,,sin_coincidencia,no,0,0
-La Red SD (Nacional)[Opc.3],,,sin_coincidencia,no,0,0
-ChileVisión HD (Geo-Blocked),,,sin_coincidencia,no,0,0
-ChileVisión HD (Geo-Blocked)[Opc.2],,,sin_coincidencia,no,0,0
-ChileVisión HD [Opc.3],,,sin_coincidencia,no,0,0
-ChileVisión HD [Opc.4],,,sin_coincidencia,no,0,0
-ChileVisión SD (Nacional)[Opc.5],,,sin_coincidencia,no,0,0
-ChileVisión Deportes (Nacional) [Geo-Blocked],,,sin_coincidencia,no,0,0
-Canal 13 HD (Nacional)(Geo-Blocked),,,sin_coincidencia,no,0,0
-Canal 13 HD (Nacional)(Opc.2),,,sin_coincidencia,no,0,0
-13 GO HD (Nacional),,,sin_coincidencia,no,0,0
-13 Internacional HD (Nacional),,,sin_coincidencia,no,0,0
-13 Realidades HD (Nacional),,,sin_coincidencia,no,0,0
-13 POP HD (Nacional),,,sin_coincidencia,no,0,0
-13 Teleseries HD (Nacional),,,sin_coincidencia,no,0,0
-13C Cultura HD (Nacional),,,sin_coincidencia,no,0,0
-TVN HD (Nacional) [Geo-Blocked],,,sin_coincidencia,no,0,0
-TVN HD (Nacional)[Opc.2],,,sin_coincidencia,no,0,0
-TVN HD (Nacional)[Opc.3],,,sin_coincidencia,no,0,0
-TVN HD (LOCAL),,,sin_coincidencia,no,0,0
-TVN3 HD (Nacional),,,sin_coincidencia,no,0,0
-TVR Televisión Regional HD (Santiago / Nacional),,,sin_coincidencia,no,0,0
-Tevex TV HD (Santiago / Nacional),,,sin_coincidencia,no,0,0
-UCV TV Valparaíso HD (Valparaíso),,,sin_coincidencia,no,0,0
-TVU Concepción HD (Biobío),,,sin_coincidencia,no,0,0
-Thema TV Coquimbo HD [Not 24/7] (Coquimbo),,,sin_coincidencia,no,0,0
-Thema TV Coquimbo HD [Not 24/7] (Coquimbo)[Opc. 2],,,sin_coincidencia,no,0,0
-VTV Valle Televisión HD (San Felipe / Los Andes - Valparaíso) [No 24/7],,,sin_coincidencia,no,0,0
-Girovisual TV HD (El Quisco / San Antonio - Valparaíso) [No 24/7],,,sin_coincidencia,no,0,0
-TVO San Vicente HD [No 24/7](San Vicente de Tagua Tagua - O'Higgins),,,sin_coincidencia,no,0,0
-Vision Plus TV Melipilla HD (Metropolitana),,,sin_coincidencia,no,0,0
-Canal 1 Ñuble HD (Chillán - Ñuble) [No 24/7],,,sin_coincidencia,no,0,0
-ClickTV [No24/7](Coronel - Biobío),,,sin_coincidencia,no,0,0
-ClickTV [No24/7](Coronel - Biobío) [Opc.2],,,sin_coincidencia,no,0,0
-Pucón TV HD [No 24/7](Pucón - Araucanía),,,sin_coincidencia,no,0,0
-Décima TV Chiloé HD (Ancud - Los Lagos),,,sin_coincidencia,no,0,0
-TV Quellón HD (Quellón - Los Lagos),,,sin_coincidencia,no,0,0
-Aysén TV HD [No 24/7] (Puerto Aysén - Aysén),,,sin_coincidencia,no,0,0
-UTalca TV HD (Campus TV - Talca / Maule),,,sin_coincidencia,no,0,0
-UTV Universidad Autónoma HD (Temuco / Santiago / Talca),,,sin_coincidencia,no,0,0
-EGM Channel HD (Rancagua),,,sin_coincidencia,no,0,0
-Chile Channel TV HD (Nacional),,,sin_coincidencia,no,0,0
-U Los Lagos TV HD [Not 24/7] (Osorno - Los Lagos),,,sin_coincidencia,no,0,0
-Telefe HD,,,sin_coincidencia,no,0,0
-Telefe SD,,,sin_coincidencia,no,0,0
-Telefe Buenos Aires HD,,,sin_coincidencia,no,0,0
-Telefe Interior HD [No 24/7],,,sin_coincidencia,no,0,0
-Telefe Rosario HD [No 24/7] (Argentina),,,sin_coincidencia,no,0,0
-Telefe Salta HD [No 24/7] (Argentina),,,sin_coincidencia,no,0,0
-Telefe Tucuman HD [No 24/7] (Argentina),,,sin_coincidencia,no,0,0
-Telefe Internacional SD (Argentina),,,sin_coincidencia,no,0,0
-Telefe Internacional SD (Argentina)[Opc.2],,,sin_coincidencia,no,0,0
-Telefe Internacional SD (Argentina)[Opc.3],,,sin_coincidencia,no,0,0
-Net TV HD (Buenos Aires) No 24/7],,,sin_coincidencia,no,0,0
-Net TV HD (Buenos Aires) No 24/7][Opc.2],,,sin_coincidencia,no,0,0
-Argentinisima Satelital SD (Nacional),,,sin_coincidencia,no,0,0
-Canal 7 Neuquén (Neuquén)[Geo-Blocked],,,sin_coincidencia,no,0,0
-Canal 7 Santiago del Estero (Santiago del Estero),,,sin_coincidencia,no,0,0
-Canal 2 Misiones (Misiones),,,sin_coincidencia,no,0,0
-Misiones Cuatro (Misiones),,,sin_coincidencia,no,0,0
-Canal 21 Posadas (Misiones),,,sin_coincidencia,no,0,0
-5TV Corrientes (Corrientes),,,sin_coincidencia,no,0,0
-Canal 12 Puerto Madryn (Chubut),,,sin_coincidencia,no,0,0
-Uniteve Villa Maria (Córdoba),,,sin_coincidencia,no,0,0
-Canal 9 Tele Vida Mendoza HD [Geo-Blocked],,,sin_coincidencia,no,0,0
-Canal 9 Tele Vida Mendoza SD [Geo-Blocked],,,sin_coincidencia,no,0,0
-LAMIL35,,,sin_coincidencia,no,0,0
-Ciudad Magazine SD (Buenos Aires) [No 24/7],,,sin_coincidencia,no,0,0
-Ciudad Magazine SD (Buenos Aires) [No 24/7][Geo-Blocked],,,sin_coincidencia,no,0,0
-Ciudad Magazine HD (WEB) [No 24/7],,,sin_coincidencia,no,0,0
-Litus TV [No 24/7](Santa Fe),,,sin_coincidencia,no,0,0
-Telecreativa Lanus [No 24/7],,,sin_coincidencia,no,0,0
-Canal 9 Multivision Federal [No 24/7],,,sin_coincidencia,no,0,0
-Lapacho Canal 11 Formosa (Formosa) [No 24/7],,,sin_coincidencia,no,0,0
-Canal 11 de la Costa [No 24/7](Mar de Ajó - Buenos Aires),,,sin_coincidencia,no,0,0
-Canal 3 Las Heras [No 24/7](Santa Cruz),,,sin_coincidencia,no,0,0
-Canal 5 Pico Truncado [No 24/7](Santa Cruz),,,sin_coincidencia,no,0,0
-Tele Posadas [No 24/7],,,sin_coincidencia,no,0,0
-CineAR [Geo-Blocked],,,sin_coincidencia,no,0,0
-SNT Paraguay HD,,,sin_coincidencia,no,0,0
-SNT Paraguay HD [Opc.2],,,sin_coincidencia,no,0,0
-Telefuturo Paraguay HD [Geo-Blocked],,,sin_coincidencia,no,0,0
-Telefuturo Paraguay HD,,,sin_coincidencia,no,0,0
-GEN Paraguay HD],,,sin_coincidencia,no,0,0
-GEN Paraguay HD][Opc.2],,,sin_coincidencia,no,0,0
-Invasiva TV HD,,,sin_coincidencia,no,0,0
-Cáritas TV HD,,,sin_coincidencia,no,0,0
-Del Rey TV HD,,,sin_coincidencia,no,0,0
-Latele HD,,,sin_coincidencia,no,0,0
-Latele SD [Opc.2],,,sin_coincidencia,no,0,0
-Monumental TV HD,,,sin_coincidencia,no,0,0
-Monumental TV HD [Opc.2],,,sin_coincidencia,no,0,0
-Nanduti HD,,,sin_coincidencia,no,0,0
-NPY HD [Geo-Blocked],,,sin_coincidencia,no,0,0
-NPY HD [Opc.2],,,sin_coincidencia,no,0,0
-Paraguay TV HD,,,sin_coincidencia,no,0,0
-Paraguay TV SD [Opc.2],,,sin_coincidencia,no,0,0
-Regional TV Yaguaron HD,,,sin_coincidencia,no,0,0
-TV Aire HD,,,sin_coincidencia,no,0,0
-Union TV,UnionTV.py,Union TV,coincidencia_exacta,sí,1,0
-C9N HD [Geo-blocked],,,sin_coincidencia,no,0,0
-C9N HD [Opc.2],,,sin_coincidencia,no,0,0
-AGR FM TV,AGRFMTV.py,AGR FM TV,coincidencia_exacta,sí,0,0
-Red Informativa,,,sin_coincidencia,no,0,0
-RIO TV,,,sin_coincidencia,no,0,0
-Canal 8 C&C Producciones HD [No 24/7],,,sin_coincidencia,no,0,0
-MiTV [No 24/7],,,sin_coincidencia,no,0,0
-UniRadio TV HD [No 24/7],,,sin_coincidencia,no,0,0
-Canal Pro HD [No 24/7],,,sin_coincidencia,no,0,0
-En Lengua de Senas TV HD [No 24/7],,,sin_coincidencia,no,0,0
-Occidental TV HD [No 24/7],,,sin_coincidencia,no,0,0
-Cosmos TV HD [No 24/7],,,sin_coincidencia,no,0,0
-,,,nombre_vacio,no,0,0
-Productiva TV HD [ No 24/7],,,sin_coincidencia,no,0,0
-Red Interior TV [No 24/7],,,sin_coincidencia,no,0,0
-Mega TV HD [No 24/7],,,sin_coincidencia,no,0,0
-Venus Media [No 24/7],,,sin_coincidencia,no,0,0
-Suceso TV HD [Not 24/7],,,sin_coincidencia,no,0,0
-Telequince HD (No 24/7),,,sin_coincidencia,no,0,0
-CAD TV [No 24/7],,,sin_coincidencia,no,0,0
-Oasis TV HD [No 24/7],,,sin_coincidencia,no,0,0
-ATV Canal 3 HD,,,sin_coincidencia,no,0,0
-Boca Chica TV 3 HD,,,sin_coincidencia,no,0,0
-Boca Chica TV 3 HD [Opc.2],,,sin_coincidencia,no,0,0
-RTVD 4 HD,,,sin_coincidencia,no,0,0
-RTVD 4 HD [Opc.2],,,sin_coincidencia,no,0,0
-Telemicro 5 SD,,,sin_coincidencia,no,0,0
-Canal 6 El Seis HD,,,sin_coincidencia,no,0,0
-Antena 7 SD,,,sin_coincidencia,no,0,0
-Antena 7 SD [Geo-Blocked],,,sin_coincidencia,no,0,0
-Telemedios 8 SD,,,sin_coincidencia,no,0,0
-Color Vision 9 HD,,,sin_coincidencia,no,0,0
-Telesistemas 11 SD,,,sin_coincidencia,no,0,0
-Telesistema 11 SD [Opc.2],,,sin_coincidencia,no,0,0
-Telecentro 13 HD,,,sin_coincidencia,no,0,0
-Catorce  TV,,,sin_coincidencia,no,0,0
-Canal Digital 15 HD,,,sin_coincidencia,no,0,0
-Canal Digital 18 SD,,,sin_coincidencia,no,0,0
-Antena 21 SD,,,sin_coincidencia,no,0,0
-RNN 27 HD,,,sin_coincidencia,no,0,0
-Telecanal 28 HD,,,sin_coincidencia,no,0,0
-Canal 36 Cotubanama TV HD,,,sin_coincidencia,no,0,0
-Digital Vision 63 HD,,,sin_coincidencia,no,0,0
-Valle Nuevo TV HD,,,sin_coincidencia,no,0,0
-Ready TV HD (La Vega),,,sin_coincidencia,no,0,0
-Mi Turno TV HD,,,sin_coincidencia,no,0,0
-Fuego TV SD,,,sin_coincidencia,no,0,0
-TeleMicro SD,,,sin_coincidencia,no,0,0
-Tele Antillas SD,,,sin_coincidencia,no,0,0
-Canal del Sol HD,,,sin_coincidencia,no,0,0
-Orbit TV HD [No 24/7],,,sin_coincidencia,no,0,0
-Orbit TV HD [No 24/7][Opc.2],,,sin_coincidencia,no,0,0
-Canal 33 HD [No 24/7],,,sin_coincidencia,no,0,0
-Canal 8 Telenord HD [No 24/7],,,sin_coincidencia,no,0,0
-Canal 10 Telenord HD [No 24/7],,,sin_coincidencia,no,0,0
-Canal 12 Telenord HD [No 24/7],,,sin_coincidencia,no,0,0
-Canal 14 Telenord HD [No 24/7],,,sin_coincidencia,no,0,0
-Canal Digital 32 HD [No 24/7],,,sin_coincidencia,no,0,0
-Venevisión,Venevision.ve,Venevision,coincidencia_exacta,sí,1,0
-Venevisión[Opc.2],,,sin_coincidencia,no,0,0
-Venevisión [V2],,,sin_coincidencia,no,0,0
-Venevisión [V3],,,sin_coincidencia,no,0,0
-Venevisión Internacional,VenevisionInternacional.ve,Venevision Internacional,coincidencia_exacta,sí,1,0
-VE Plus,VePlus.ve,Ve Plus,coincidencia_exacta,sí,6,0
-VE Plus [Opc.2],,,sin_coincidencia,no,0,0
-Mas Talk,MasTalk.ve,Mas Talk,coincidencia_exacta,sí,0,0
-Torococo TV,TorococoTV.ve,Torococo TV,coincidencia_exacta,sí,0,0
-TVES [No 24/7],,,sin_coincidencia,no,0,0
-Canal Grande Television [No 24/7],,,sin_coincidencia,no,0,0
-Canal Grande Television [No 24/7][Opc.2],,,sin_coincidencia,no,0,0
-Telecolor [No 24/7],,,sin_coincidencia,no,0,0
-Anzoategui TV,AnzoateguiTV.ve,Anzoategui TV,coincidencia_exacta,sí,0,0
-TV Oasis,,,sin_coincidencia,no,0,0
-BTA TV,,,nombre_ambiguo,no,0,0
-Audas TV,,,sin_coincidencia,no,0,0
-Aguacate TV,AguacateTV.ve,Aguacate TV,coincidencia_exacta,sí,0,0
-Canal 21 Tachira,Canal21Tachira.ve,Canal 21 Tachira,coincidencia_exacta,sí,0,0
-Televisora de Oriente TVO,,,sin_coincidencia,no,0,0
-Catatumbo TV,CatatumboTV.ve,Catatumbo TV,coincidencia_exacta,sí,0,0
-Vepaco Television,,,sin_coincidencia,no,0,0
-Canal I,CanalI.ve,Canal I,coincidencia_exacta,sí,1,0
-Globo Vision,,,sin_coincidencia,no,0,0
-TeleVen TV,,,sin_coincidencia,no,0,0
-Canal Once Del Zulia,,,sin_coincidencia,no,0,0
-Promar,,,sin_coincidencia,no,0,0
-Telearagua,TeleAragua.ve,TeleAragua,coincidencia_exacta,sí,0,0
-TVS Maracay,,,sin_coincidencia,no,0,0
-Delta TV SD,,,sin_coincidencia,no,0,0
-Coral TV,CoralTV.bo,Coral TV,coincidencia_exacta,sí,0,0
-F10 HD (El Alto / La Paz),,,sin_coincidencia,no,0,0
-GigaVision (La Paz) [No 24/7],,,sin_coincidencia,no,0,0
-CTV (La Paz),,,sin_coincidencia,no,0,0
-Bolivisión LPZ (La Paz),,,sin_coincidencia,no,0,0
-Bolivisión LPZ (La Paz)[Opc.2],,,sin_coincidencia,no,0,0
-SPC Canal 15,SPCCanal15.bo,SPC Canal 15,coincidencia_exacta,sí,0,0
-UPP TV / Bolivisión SCZ  [Not 24/7] (Santa Cruz),,,sin_coincidencia,no,0,0
-GigaVision (Santa Cruz) [No 24/7],,,sin_coincidencia,no,0,0
-RTP (La Paz),,,sin_coincidencia,no,0,0
-Mix Bolivia TV [No 24.7],,,sin_coincidencia,no,0,0
-Mix Bolivia TV [No 24.7][Opc.2],,,sin_coincidencia,no,0,0
-GoGoPlay TV [no 24/7],,,sin_coincidencia,no,0,0
-GoGoPlay TV [no 24/7][Opc.2],,,sin_coincidencia,no,0,0
-Univalle Televisión [No 24/7](Cochabamba),,,sin_coincidencia,no,0,0
-Unitel [No 24/7],,,sin_coincidencia,no,0,0
-Unitel SD [No 24/7][Opc.2],,,sin_coincidencia,no,0,0
-Canal 24 Multivision [No 24/7],,,sin_coincidencia,no,0,0
-Red TV Shop [No 24/7],,,sin_coincidencia,no,0,0
-FTV (La Paz),,,sin_coincidencia,no,0,0
-Unifranz [No 24/7],,,sin_coincidencia,no,0,0
-Red ADvenir TV,,,sin_coincidencia,no,0,0
-XTOTV,XTOTV.bo,XTOTV,coincidencia_exacta,sí,0,0
-Red Chuquisaqueña,,,sin_coincidencia,no,0,0
-Bolivia TV,BoliviaTV.bo,Bolivia TV,coincidencia_exacta,sí,1,0
-La 1 de TVE (Nacional),,,sin_coincidencia,no,0,0
-La 1 de TVE (Nacional)[Opc.2],,,sin_coincidencia,no,0,0
-La 1 Canarias (Canarias),,,sin_coincidencia,no,0,0
-La 1 Cataluya (Cataluña),,,sin_coincidencia,no,0,0
-La 2 (Nacional),,,sin_coincidencia,no,0,0
-La 2 (Nacional)[Opc.2],,,sin_coincidencia,no,0,0
-La 2 Canarias (Canarias),,,sin_coincidencia,no,0,0
-La 2 Catalunya (Cataluña),,,sin_coincidencia,no,0,0
-Antena 3,,,nombre_ambiguo,no,0,0
-Antena 3[Opc.2],,,sin_coincidencia,no,0,0
-TRECE,,,nombre_ambiguo,no,0,0
-RNE para todos,RNEparatodos.es,RNE para todos,coincidencia_exacta,sí,0,0
-RNE para todos[Opc.2],,,sin_coincidencia,no,0,0
-24h,24Horas.es,24 Horas,coincidencia_exacta,sí,13,0
-24h [Opc.2],,,sin_coincidencia,no,0,0
-24h Canarias,,,sin_coincidencia,no,0,0
-24h Catalunya,,,sin_coincidencia,no,0,0
-El País,,,sin_coincidencia,no,0,0
-Teledeporte [Geo-Blocked],,Teledeporte,sin_coincidencia,no,0,0
-Teledeporte [Opc.2],,Teledeporte,sin_coincidencia,no,0,0
-+24,,,nombre_ambiguo,no,0,0
-+24 [Opc.2],,,sin_coincidencia,no,0,0
-+tdp,Teledeporte.es,Teledeporte,coincidencia_exacta,sí,4,0
-Infantil (Canal Extremadura),,,sin_coincidencia,no,0,0
-Negocios TV (Nacional),,,sin_coincidencia,no,0,0
-¡HOLA! Play (Nacional),,,sin_coincidencia,no,0,0
-Canal Sur Andalucía,CanalSurAndalucia.es,Canal Sur Andalucia,coincidencia_exacta,sí,3,0
-Canal Sur Andalucía [Opc.2],,,sin_coincidencia,no,0,0
-Conciertos Radio 3 (RTVE)[Geo-Blocked],,,sin_coincidencia,no,0,0
-Cuéntame (RTVE)[Geo-Blocked],,,sin_coincidencia,no,0,0
-La promesa (RTVE)[Geo-Blocked],,,sin_coincidencia,no,0,0
-La Revuelta (RTVE)[Geo-Blocked],,,sin_coincidencia,no,0,0
-Somos Cine (RTVE)[Geo-blocked],,,sin_coincidencia,no,0,0
-Cocina (RTVE)[Geo-blocked],,,sin_coincidencia,no,0,0
-Al cielo con ella (RTVE)[Geo-blocked],,,sin_coincidencia,no,0,0
-San Fermín (RTVE)[Geo-blocked],,,sin_coincidencia,no,0,0
-En Play (RTVE)[Geo-blocked],,,sin_coincidencia,no,0,0
-Radio Nacional[Geo-blocked],,,sin_coincidencia,no,0,0
-Radio 3 [Geo-blocked],,,sin_coincidencia,no,0,0
-Ràdio 4 [Geo-Blocked],,,sin_coincidencia,no,0,0
-Radio 5 [Geo-blocked],,,sin_coincidencia,no,0,0
-Cuéntame cómo pasó (Nacional),,,sin_coincidencia,no,0,0
-Moconomy Economía y Finanzas (Nacional),,,sin_coincidencia,no,0,0
-INFAST (Nacional),,,sin_coincidencia,no,0,0
-Déjate de Historias TV (Nacional),,,sin_coincidencia,no,0,0
-Cadena Élite (Nacional),,,sin_coincidencia,no,0,0
-EsTuTele Madrid (Madrid),,,sin_coincidencia,no,0,0
-Teleganés Madrid (Leganés - Madrid),,,sin_coincidencia,no,0,0
-Canal 7 TeleValencia (Valencia),,,sin_coincidencia,no,0,0
-Onda Valencia TV (Valencia),,,sin_coincidencia,no,0,0
-Ribera TV Valencia (Alzira - Valencia),,,sin_coincidencia,no,0,0
-Ribera TV,RiberaTV.es,Ribera TV,coincidencia_exacta,sí,0,0
-Univers TV Valencia (Valencia),,,sin_coincidencia,no,0,0
-Alacantí TV (Alicante),,,sin_coincidencia,no,0,0
-12TV Alicante (Alicante),,,sin_coincidencia,no,0,0
-Onda 15 TV Alicante (Alicante),,,sin_coincidencia,no,0,0
-Tele Elx Alicante (Elche - Alicante),,,sin_coincidencia,no,0,0
-Canal 3 TV Biar HD (Biar - Alicante),,,sin_coincidencia,no,0,0
-Punt 3 Televisión (Elda - Alicante),,,sin_coincidencia,no,0,0
-Canal Málaga (Málaga),,,sin_coincidencia,no,0,0
-Canal Coín TV Málaga (Coín - Málaga),,,sin_coincidencia,no,0,0
-Mijas 3.40TV (Mijas - Málaga),,,sin_coincidencia,no,0,0
-RTV Marbella (Marbella - Málaga),,,sin_coincidencia,no,0,0
-M95 Marbella,,,sin_coincidencia,no,0,0
-Estepona Televisión (Estepona - Málaga),,,sin_coincidencia,no,0,0
-Canal Sierra de Cádiz (Cádiz),,,sin_coincidencia,no,0,0
-Onda Algeciras TV Cádiz (Algeciras - Cádiz),,,sin_coincidencia,no,0,0
-Onda Cádiz,OndaCadiz.es,Onda Cadiz,coincidencia_exacta,sí,0,0
-Canal 45 Jaén (Jaén),,,sin_coincidencia,no,0,0
-Diez TV Las Villas (Villacarrillo - Jaén),,,sin_coincidencia,no,0,0
-Condavisión Huelva (La Palma del Condado - Huelva),,,sin_coincidencia,no,0,0
-Teleonuba Huelva (Huelva),,,sin_coincidencia,no,0,0
-Canal Reus TV (Reus - Tarragona),,,sin_coincidencia,no,0,0
-TeleVigo Galicia (Vigo - Pontevedra),,,sin_coincidencia,no,0,0
-TV Ferrol Galicia (Ferrol - A Coruña),,,sin_coincidencia,no,0,0
-Tele 7 Vizcaya (Barakaldo - Vizcaya),,,sin_coincidencia,no,0,0
-Durangaldeko Telebista dotb (Durango - Vizcaya),,,sin_coincidencia,no,0,0
-Durangaldeko Telebista dotb (Durango - Vizcaya)[Opc.2],,,sin_coincidencia,no,0,0
-STZ Telebista (Santurtzi - Vizcaya),,,sin_coincidencia,no,0,0
-Popular TV Murcia (Múrcia),,,sin_coincidencia,no,0,0
-Arabí TV Yecla (Yecla - Murcia),,,sin_coincidencia,no,0,0
-Arabí TV Yecla (Yecla - Murcia)[Opc.2],,,sin_coincidencia,no,0,0
-Canal 1 Mar Menor (San Javier - Murcia),,,sin_coincidencia,no,0,0
-Popular TV Cantabria (Cantabria),,,sin_coincidencia,no,0,0
-Canal 4 Mancha Centro (Alcázar de San Juan - Ciudad Real),,,sin_coincidencia,no,0,0
-Alcarria TV (Guadalajara),,,sin_coincidencia,no,0,0
-Guada TV Guadalajara (Guadalajara),,,sin_coincidencia,no,0,0
-Lancelot Televisión Lanzarote (Las Palmas),,,sin_coincidencia,no,0,0
-Costa Noroeste TV,CostaNoroesteTV.es,Costa Noroeste TV,coincidencia_exacta,sí,0,0
-Televisión Alhaurín,,,sin_coincidencia,no,0,0
-Interalmería TV,InteralmeriaTV.es,Interalmeria TV,coincidencia_exacta,sí,0,0
-Almería TV,,,sin_coincidencia,no,0,0
-Canal San Roque,CanalSanRoque.es,Canal San Roque,coincidencia_exacta,sí,0,0
-Torremolinos TV,,,sin_coincidencia,no,0,0
-Diez TV Andújar,,,sin_coincidencia,no,0,0
-Diez TV Úbeda,DiezTVUbeda.es,Diez TV Ubeda,coincidencia_exacta,sí,0,0
-TVM Córdoba,TVMCordoba.es,TVM Cordoba,coincidencia_exacta,sí,0,0
-TeleGranada,,,sin_coincidencia,no,0,0
-TV Canaria (RTVC),,,sin_coincidencia,no,0,0
-TV Canaria (RTVC)[Opc.2],,,sin_coincidencia,no,0,0
-Mírame TV,MirameTV.es,Mirame TV,coincidencia_exacta,sí,0,0
-Tenerife Plus TV,TenerifePlusTV.es,Tenerife Plus TV,coincidencia_exacta,sí,0,0
-NORTEvisión,,,nombre_ambiguo,no,0,0
-Radio Calima TV,,,sin_coincidencia,no,0,0
-Castilla-La Mancha Media,CMMTV.es,CMM TV,coincidencia_exacta,sí,2,0
-Castilla-La Mancha Radio,,,sin_coincidencia,no,0,0
-Guada TV Media,,,sin_coincidencia,no,0,0
-Alcarria TV,AlcarriaTV.es,Alcarria TV,coincidencia_exacta,sí,0,0
-Alcarria TV[Opc.2],,,sin_coincidencia,no,0,0
-Imás TV [No 24/7],,,sin_coincidencia,no,0,0
-TeleToledo,TeleToledo.es,TeleToledo,coincidencia_exacta,sí,0,0
-TV Aranda,,,sin_coincidencia,no,0,0
-Distrito TV,DistritoTV.es,Distrito TV,coincidencia_exacta,sí,0,0
-Canal 33 Madrid,Canal33Madrid.es,Canal 33 Madrid,coincidencia_exacta,sí,0,0
-iPROtv,,,sin_coincidencia,no,0,0
-LIRA TV,LiraTV.it,Lira TV,coincidencia_exacta,sí,0,0
-Canal 56 (C. Valenciana),,,sin_coincidencia,no,0,0
-Tele Safor (C. Valenciana),,,sin_coincidencia,no,0,0
-TV Almassora (C. Valenciana),,,sin_coincidencia,no,0,0
-33TV (C. Valenciana),,,sin_coincidencia,no,0,0
-Canal Extremadura (Extremadura),,Canal Extremadura,sin_coincidencia,no,0,0
-Semos asina (Canal Extremadura)(Extremadura),,,sin_coincidencia,no,0,0
-TVG (Galicia),,,sin_coincidencia,no,0,0
-TVG Xabarin (Galicia),,,sin_coincidencia,no,0,0
-TVG Eventos 1 [No 24/7] (Galicia),,TVG Eventos,sin_coincidencia,no,0,0
-TVG Eventos 2 [No 24/7] (Galicia),,TVG Eventos,sin_coincidencia,no,0,0
-TVG Eventos 3 [No 24/7] (Galicia),,TVG Eventos,sin_coincidencia,no,0,0
-TVG Mira Radio Galega (Galicia),,,sin_coincidencia,no,0,0
-TVG Universo Castelao (Galicia),,TVG Universo Castelao,sin_coincidencia,no,0,0
-Telemiño (Galicia),,,sin_coincidencia,no,0,0
-Anove TV (Galicia),,,sin_coincidencia,no,0,0
-Canal 4 TV Mallorca (Illes Balears),,,sin_coincidencia,no,0,0
-Cocina Familiar (La Rioja),,,sin_coincidencia,no,0,0
-ETB 1 [Geo-Blocked] (País Vasco),,,sin_coincidencia,no,0,0
-ETB 2 [Geo-Blocked] (País Vasco),,,sin_coincidencia,no,0,0
-ETB1 ON (País Vasco),,,sin_coincidencia,no,0,0
-ETB2 ON (País Vasco),,,sin_coincidencia,no,0,0
-ETB Eventos 1 (País Vasco),,,sin_coincidencia,no,0,0
-ETB Eventos 2 [Geo-Blocked] (País Vasco),,ETB Eventos 2,sin_coincidencia,no,0,0
-Hamaika TV (País Vasco),,,sin_coincidencia,no,0,0
-GUKA TB (País Vasco),,,sin_coincidencia,no,0,0
-Goiena Eus (País Vasco),,,sin_coincidencia,no,0,0
-Goierri Irrati TV (País Vasco),,,sin_coincidencia,no,0,0
-28 Kanala (País Vasco),,28 Kanala,sin_coincidencia,no,0,0
-Urola TB (País Vasco),,,sin_coincidencia,no,0,0
-TVE Int. Europa [Geo-Blocked],,,sin_coincidencia,no,0,0
-TVE Int. Europa [Geo-Blocked][Opc.2],,,sin_coincidencia,no,0,0
-Islas Canarias TV (Int. Europa),,,sin_coincidencia,no,0,0
-ATV Andorra [No 24/7] (Int. Europa),,,sin_coincidencia,no,0,0
-TG7 [No 24/7](Andalucía),,,sin_coincidencia,no,0,0
-Sal TV [No 24/7],,,sin_coincidencia,no,0,0
-Popular TV Melilla [No 24/7](Melilla),,,sin_coincidencia,no,0,0
-EnerGeek Retro (América Latina),,,sin_coincidencia,no,0,0
-EnerGeek Retro (América Latina)[Opc.2],,,sin_coincidencia,no,0,0
-Delmi TV,,,sin_coincidencia,no,0,0
-TALTAL TV,,,sin_coincidencia,no,0,0
-TALTAL TV 2,,,sin_coincidencia,no,0,0
-TL+ (El Salvador),,,sin_coincidencia,no,0,0
-Primired Anime (América Latina),,,sin_coincidencia,no,0,0
-Animash,Animash.us,Animash,coincidencia_exacta,sí,0,0
-Max Anime (América Latina),,,sin_coincidencia,no,0,0
-Anime Station (América Latina) [No 24/7],,,sin_coincidencia,no,0,0
-Canal Locomotion - Primera señal [No 24/7],,,sin_coincidencia,no,0,0
-Canal Locomotion - Primera señal [Opc.2][No 24/7],,,sin_coincidencia,no,0,0
-Canal Locomotion - Segunda señal [No 24/7],,,sin_coincidencia,no,0,0
-Canal Locomotion - Segunda señal [Opc.2][No 24/7],,,sin_coincidencia,no,0,0
-AnimeZone TV [No 24/7](América Latina),,,sin_coincidencia,no,0,0
-Anime XTV [No 24/7],animextv,Anime XTV,sin_coincidencia,no,0,0
-Anime XTV [Opc.2][No 24/7],animextv,Anime XTV,sin_coincidencia,no,0,0
-Anime Presente,,,sin_coincidencia,no,0,0
-Zyoon TV HD (Chile),,,sin_coincidencia,no,0,0
-Zyoon TV SD (Chile),,,sin_coincidencia,no,0,0
-TV Grupo Medios Mendoza Anime,,,sin_coincidencia,no,0,0
-ETC TV (Chile),,,sin_coincidencia,no,0,0
-ETC TV (Chile)[Opc.2],,,sin_coincidencia,no,0,0
-ETC TV (Chile)[Opc.3],,,sin_coincidencia,no,0,0
-Bitme HD (México)[Opc.1],,,sin_coincidencia,no,0,0
-Bitme HD (México)[Opc.2],,,sin_coincidencia,no,0,0
-Bitme HD (México)[Opc.3],,,sin_coincidencia,no,0,0
-Adult Swim SD (Opc.1),,,sin_coincidencia,no,0,0
-Adult Swim SD (Opc.2),,,sin_coincidencia,no,0,0
-Adult Swim SD (Opc.3),,,sin_coincidencia,no,0,0
-Adult Swim HD (Opc.4),,,sin_coincidencia,no,0,0
-EnerGeek Fan (América Latina),,,sin_coincidencia,no,0,0
-Macross TV,,,sin_coincidencia,no,0,0
-Dragon Ball / Dragon Ball Z (América Latina),,,sin_coincidencia,no,0,0
-Dragon Ball Super (América Latina),,,sin_coincidencia,no,0,0
-Dragon Ball Peliculas (América Latina),,,sin_coincidencia,no,0,0
-Naruto (Peliculas) (América Latina),,,sin_coincidencia,no,0,0
-Death Note - Elfen Lied,,,sin_coincidencia,no,0,0
-Anime Visión (España)[Opc.1],,,sin_coincidencia,no,0,0
-Anime Visión Classics (España)[Opc.1],,,sin_coincidencia,no,0,0
-Yu-Gi-Oh! (España),,,sin_coincidencia,no,0,0
-Beyblade (España),,,sin_coincidencia,no,0,0
-K-Drama+ (Rakuten),,,sin_coincidencia,no,0,0
-Series K-Drama,,,sin_coincidencia,no,0,0
-NEW KPOP,,,sin_coincidencia,no,0,0
-K-Drama+,KDrama.id,K-Drama,coincidencia_exacta,sí,1,0
-Series K-Comedia Romántica,,,sin_coincidencia,no,0,0
-KPOP TV Play,,,sin_coincidencia,no,0,0
-Coreano by CJ ENM,,,sin_coincidencia,no,0,0
-Mundo Series,,,sin_coincidencia,no,0,0
-K-POP by CJ ENM,,,sin_coincidencia,no,0,0
-NEW K-MOVIES (SUB),,,sin_coincidencia,no,0,0
-Rakuten VIKI (SUB),,,sin_coincidencia,no,0,0
-Kpop Mix,KpopMix.ar,Kpop Mix,coincidencia_exacta,sí,0,0
-CCTV-Storm Music,CCTVStormMusic.cn,CCTV-Storm Music,coincidencia_exacta,sí,1,0
-B4U Music APAC,,,sin_coincidencia,no,0,0
-Navez Mix TV,,,sin_coincidencia,no,0,0
-Fashion TV,,,nombre_ambiguo,no,0,0
-EnergyTV Fashion,,,sin_coincidencia,no,0,0
-MiamiTV Models,,,sin_coincidencia,no,0,0
-MiamiTV Fashion,,,sin_coincidencia,no,0,0
-Plous TV,PlousTV.ve,Plous TV,coincidencia_exacta,sí,0,0
-Chicas Guapas TV,,,sin_coincidencia,no,0,0
-ENT Channel,ENTChannel.uk,ENT Channel,coincidencia_exacta,sí,0,0
-ENT Family,ENTFamily.uk,ENT Family,coincidencia_exacta,sí,0,0
-FMTV Mundo (Cadena Internacional),,,sin_coincidencia,no,0,0
-Ipersonica,,,sin_coincidencia,no,0,0
-Nitro HD,,,sin_coincidencia,no,0,0
-Xiomoz,,,sin_coincidencia,no,0,0
-Sistema 1 TV,,,sin_coincidencia,no,0,0
-MAXC TV,,,sin_coincidencia,no,0,0
-MAX2 TV,,,sin_coincidencia,no,0,0
-MAXC Family TV,,,sin_coincidencia,no,0,0
-MAXC Comedy TV,,,sin_coincidencia,no,0,0
-Tele Clásicos,,,sin_coincidencia,no,0,0
-TV Clasicos,,,sin_coincidencia,no,0,0
-MultiVox Accion,,,sin_coincidencia,no,0,0
-Imagen Universal (Rep. Dominicana),,,sin_coincidencia,no,0,0
-GAMTV.cr (Costa Rica),,,sin_coincidencia,no,0,0
-Cosmos TV (Formosa / Argentina),,,sin_coincidencia,no,0,0
-VB Media TV (México),,,sin_coincidencia,no,0,0
-Canal Teleclasica (México),,,sin_coincidencia,no,0,0
-Exito Multimedia (Paraguay),,,sin_coincidencia,no,0,0
-Universo TV MTV 93.1 (Argentina),,,sin_coincidencia,no,0,0
-FilmRise Películas Gratis,,,sin_coincidencia,no,0,0
-Popcorn Central,PopcornCentral.mx,Popcorn Central,coincidencia_exacta,sí,0,0
-Cindie Lite,,,sin_coincidencia,no,0,0
-Box Cinema,BoxCinema.in,Box Cinema,coincidencia_exacta,sí,1,0
-Runtime Español,RuntimeEspanol.us,Runtime Espanol,coincidencia_exacta,sí,3,0
-Bjgtjme Películas Gratis,,,sin_coincidencia,no,0,0
-Cine Estrella,,,sin_coincidencia,no,0,0
-Latino Classic TV,,,sin_coincidencia,no,0,0
-Cine en Español,Cineenespanol.us,Cine en espanol,coincidencia_exacta,sí,0,0
-Todo Cine,,,sin_coincidencia,no,0,0
-Cine de Horror,,,sin_coincidencia,no,0,0
-Cine de Terror Español,,,sin_coincidencia,no,0,0
-TerrorTV,,,sin_coincidencia,no,0,0
-MyTime Movie Network (México)(ES),,,sin_coincidencia,no,0,0
-MyTime Movie Network (RuntimeTV)(ES),,,sin_coincidencia,no,0,0
-Planeta de Cine (ES),,,sin_coincidencia,no,0,0
-Cines Verdi TV (ES),,,sin_coincidencia,no,0,0
-Cine Feel Good – Verdi TV (ES),,,sin_coincidencia,no,0,0
-Artflix - Películas Clásicas (ES),,,sin_coincidencia,no,0,0
-Grjngo - Películas Del Oeste,,,sin_coincidencia,no,0,0
-Cine Western,,,nombre_ambiguo,no,0,0
-WEST TV,WestTV.ke,West TV,coincidencia_exacta,sí,0,0
-Fabian Vision [No 24/7],,,sin_coincidencia,no,0,0
-TeleCine TV [No 24/7],,,sin_coincidencia,no,0,0
-MCU TV [No 24/7],,,sin_coincidencia,no,0,0
-TV Retro Palmares [No 24/7],,,sin_coincidencia,no,0,0
-Canal Onza TV [No 24/7],,,sin_coincidencia,no,0,0
-Next HD [No 24/7],,,sin_coincidencia,no,0,0
-Mega Cine TV [No 24/7],,,sin_coincidencia,no,0,0
-Opinión Sur Cine [No 24/7],,,sin_coincidencia,no,0,0
-WOW Movies [No 24/7],,,sin_coincidencia,no,0,0
-WOW Movies SD [No 24/7],,,sin_coincidencia,no,0,0
-MAXTV Movies [No 24/7],,,sin_coincidencia,no,0,0
-MAXTV Retro [No 24/7],,,sin_coincidencia,no,0,0
-Canal 69 TV [No 24/7],,,sin_coincidencia,no,0,0
-Pantalla Clásica [No 24/7] (Ecuador),,,sin_coincidencia,no,0,0
-Codigo TV [No 24/7](Rep. Dominicana),,,sin_coincidencia,no,0,0
-Cine53 [No 24/7],,,sin_coincidencia,no,0,0
-Mittos TV [No 24/7],,,sin_coincidencia,no,0,0
-Alternativa TV [No 24/7],,,sin_coincidencia,no,0,0
-PRITV [No 24/7],,,sin_coincidencia,no,0,0
-El 70 TV [No 24/7](Rep. Dominicana),,,sin_coincidencia,no,0,0
-NEO TV Digital [No 24/7],,,sin_coincidencia,no,0,0
-Marca TV [No 24/7] (Cotopaxi),,,sin_coincidencia,no,0,0
-Nativa TV Satipo [No 24/7] (Junín),,,sin_coincidencia,no,0,0
-Atacama TV [Not 24/7] (Copiapó - Atacama),,,sin_coincidencia,no,0,0
-Metro TV [No 24/7],,,sin_coincidencia,no,0,0
-Retrox TV [No 24/7],,,sin_coincidencia,no,0,0
-Retro Plus TV 3 [No 24/7],,,sin_coincidencia,no,0,0
-TeleCinco Trelew [No 24/7](Chubut / Argentina),,,sin_coincidencia,no,0,0
-MultiVox La India (SUB/IA DUB),,,sin_coincidencia,no,0,0
-Action Movie Channel (SUB),,,sin_coincidencia,no,0,0
-rumba TV cine,,,sin_coincidencia,no,0,0
-Studio Universal SD (Opc.1),,,sin_coincidencia,no,0,0
-Studio Universal HD (Opc.2),,,sin_coincidencia,no,0,0
-Studio Universal SD (Opc.3),,,sin_coincidencia,no,0,0
-Universal TV SD [Opc.1],,,sin_coincidencia,no,0,0
-Universal TV SD[Opc.2],,,sin_coincidencia,no,0,0
-Universal TV SD[Opc.3],,,sin_coincidencia,no,0,0
-Universal Premiere HD,,,sin_coincidencia,no,0,0
-Universal Premiere HD [Opc.2],,,sin_coincidencia,no,0,0
-Universal Premiere SD [Opc.3],,,sin_coincidencia,no,0,0
-Universal Cinema HD,,,sin_coincidencia,no,0,0
-Universal Cinema HD [Opc.2],,,sin_coincidencia,no,0,0
-Universal Cinema HD [Opc.3],,,sin_coincidencia,no,0,0
-Universal Crime HD,,,sin_coincidencia,no,0,0
-Universal Crime HD [Opc.2],,,sin_coincidencia,no,0,0
-Universal Crime HD [Opc.3],,,sin_coincidencia,no,0,0
-TNT HD,,,sin_coincidencia,no,0,0
-TNT HD (Opc.2),,,sin_coincidencia,no,0,0
-TNT HD (Opc.3),,,sin_coincidencia,no,0,0
-HBO HD,,,sin_coincidencia,no,0,0
-HBO HD [Opc.2],,,sin_coincidencia,no,0,0
-HBO HD [Opc.3],,,sin_coincidencia,no,0,0
-HBO2 HD [Opc.1],,,sin_coincidencia,no,0,0
-HBO2 HD [Opc.2],,,sin_coincidencia,no,0,0
-HBO2 HD [Opc.3],,,sin_coincidencia,no,0,0
-HBO Plus SD (Opc.1),,,sin_coincidencia,no,0,0
-HBO Plus HD (Opc.2),,,sin_coincidencia,no,0,0
-HBO Plus SD (Opc.3),,,sin_coincidencia,no,0,0
-HBO POP HD,,,sin_coincidencia,no,0,0
-HBO POP HD (Opc.2),,,sin_coincidencia,no,0,0
-HBO POP HD (Opc.3),,,sin_coincidencia,no,0,0
-HBO Family HD,,,sin_coincidencia,no,0,0
-HBO Family HD(Opc.2),,,sin_coincidencia,no,0,0
-HBO Family HD(Opc.3),,,sin_coincidencia,no,0,0
-HBO Xtreme HD,,,sin_coincidencia,no,0,0
-HBO Xtreme HD (Opc.2),,,sin_coincidencia,no,0,0
-HBO XTREME HD (Opc.3),,,sin_coincidencia,no,0,0
-HBO MUNDI SD (Opc.1),,,sin_coincidencia,no,0,0
-HBO MUNDI SD (Opc.2),,,sin_coincidencia,no,0,0
-HBO MUNDI SD (Opc.3),,,sin_coincidencia,no,0,0
-HBO Signature SD,,,sin_coincidencia,no,0,0
-HBO Signature SD [Opc.2],,,sin_coincidencia,no,0,0
-HBO Signature SD [Opc.3],,,sin_coincidencia,no,0,0
-Warner Channel HD (Opc.1),,,sin_coincidencia,no,0,0
-Warner Channel HD (Opc.2),,,sin_coincidencia,no,0,0
-Warner Channel SD (Opc.3),,,sin_coincidencia,no,0,0
-Cinecanal HD,,,sin_coincidencia,no,0,0
-Cinecanal HD (Opc.2),,,sin_coincidencia,no,0,0
-Cinecanal HD (Opc.3),,,sin_coincidencia,no,0,0
-Cinecanal HD (Opc.4),,,sin_coincidencia,no,0,0
-Cinemax SD (Opc.1),,,sin_coincidencia,no,0,0
-Cinemax SD (Opc.3),,,sin_coincidencia,no,0,0
-Cinemax SD (Opc.3),,,sin_coincidencia,no,0,0
-Cine Familiar HD (Opc.1),,,sin_coincidencia,no,0,0
-Cine Familiar HD (Opc.2),,,sin_coincidencia,no,0,0
-Cine Familiar HD (Opc.3),,,sin_coincidencia,no,0,0
-Cine Premium HD (Opc.1),,,sin_coincidencia,no,0,0
-Cine Premium HD (Opc.2),,,sin_coincidencia,no,0,0
-Cine Premium HD (Opc.3),,,sin_coincidencia,no,0,0
-Cine Hispano HD (Opc.1),,,sin_coincidencia,no,0,0
-Cine Hispano HD (Opc.2),,,sin_coincidencia,no,0,0
-Cine Hispano HD (Opc.3),,,sin_coincidencia,no,0,0
-Cine Latino SD (Opc.1),,,sin_coincidencia,no,0,0
-Cine Latino SD (Opc.2),,,sin_coincidencia,no,0,0
-Cine Latino SD (Opc.3),,,sin_coincidencia,no,0,0
-Golden SD,,,sin_coincidencia,no,0,0
-Golden HD (Opc.2),,,sin_coincidencia,no,0,0
-Golden SD (Opc.3),,,sin_coincidencia,no,0,0
-Golden EDGE HD,,,sin_coincidencia,no,0,0
-Golden EDGE HD (Opc.2),,,sin_coincidencia,no,0,0
-Golden EDGE HD (Opc.3),,,sin_coincidencia,no,0,0
-Golden Premiere,,,sin_coincidencia,no,0,0
-Golden Premiere [Opc.2],,,sin_coincidencia,no,0,0
-Golden Premiere [Opc.3],,,sin_coincidencia,no,0,0
-Golden Premiere 2 [Opc.1],,,sin_coincidencia,no,0,0
-Golden Premiere 2 [Opc.2],,,sin_coincidencia,no,0,0
-Golden Premiere 2 [Opc.3],,,sin_coincidencia,no,0,0
-Multipremier HD,,,sin_coincidencia,no,0,0
-Multipremier SD [Opc.2],,,sin_coincidencia,no,0,0
-Multipremier SD [Opc.3],,,sin_coincidencia,no,0,0
-Space HD (Opc.1),,,sin_coincidencia,no,0,0
-Space HD (Opc.2),,,sin_coincidencia,no,0,0
-Space HD (Opc.3),,,sin_coincidencia,no,0,0
-STAR Channel SD (Opc.1),,,sin_coincidencia,no,0,0
-STAR Channel HD (Opc.2),,,sin_coincidencia,no,0,0
-STAR Channel SD (Opc.3),,,sin_coincidencia,no,0,0
-FX SD (Opc.1),,,sin_coincidencia,no,0,0
-FX HD (Opc.2),,,sin_coincidencia,no,0,0
-FX HD (Opc.3),,,sin_coincidencia,no,0,0
-USA Network SD,,,sin_coincidencia,no,0,0
-USA Network HD [Opc.2],,,sin_coincidencia,no,0,0
-USA Network SD [Opc.3],,,sin_coincidencia,no,0,0
-Azteca Cinema HD,,,sin_coincidencia,no,0,0
-Azteca Cinema HD [Opc.2],,,sin_coincidencia,no,0,0
-Azteca Cinema HD [Opc.3],,,sin_coincidencia,no,0,0
-De Película HD [Opc.1],,,sin_coincidencia,no,0,0
-De Película SD (Opc.2),,,sin_coincidencia,no,0,0
-De Película HD (Opc.3),,,sin_coincidencia,no,0,0
-CINE MEXICANO,,,nombre_ambiguo,no,0,0
-CINE MEXICANO [Opc.2],,,sin_coincidencia,no,0,0
-CINE MEXICANO [Opc.3],,,sin_coincidencia,no,0,0
-Claro Cinema,ClaroCinema.mx,Claro Cinema,coincidencia_exacta,sí,1,0
-Claro Cinema [Opc.2],,,sin_coincidencia,no,0,0
-Claro Cinema [Opc.3],,,sin_coincidencia,no,0,0
-TCM SD (Opc.1),,,sin_coincidencia,no,0,0
-TCM HD (Opc.2),,,sin_coincidencia,no,0,0
-TCM SD (Opc.3),,,sin_coincidencia,no,0,0
-FMH Movies,FMHMovies.us,FMH Movies,coincidencia_exacta,sí,0,0
-FMH Family,,,sin_coincidencia,no,0,0
-FMH Family [Opc.2],,,sin_coincidencia,no,0,0
-Panico TV,,,sin_coincidencia,no,0,0
-ComedyMax,,,sin_coincidencia,no,0,0
-Comedy Channel,ComedyChannel.il,Comedy Channel,coincidencia_exacta,sí,0,0
-Bolliwood TV,,,sin_coincidencia,no,0,0
-Univision HD [Opc.1],,,sin_coincidencia,no,0,0
-Univision HD [Opc.2],,,sin_coincidencia,no,0,0
-Univision HD [Opc.3],,,sin_coincidencia,no,0,0
-Telemundo (Internacional) HD  [Opc.1],,,sin_coincidencia,no,0,0
-Telemundo (Internacional) SD  [Opc.2],,,sin_coincidencia,no,0,0
-Telemundo (Internacional) SD [Opc.3],,,sin_coincidencia,no,0,0
-Telemundo USA,,,sin_coincidencia,no,0,0
-Telemundo USA [Opc.2],,,sin_coincidencia,no,0,0
-Telemundo USA [Opc.3],,,sin_coincidencia,no,0,0
-Telemundo USA [Opc.4],,,sin_coincidencia,no,0,0
-Telemundo Miami,,,sin_coincidencia,no,0,0
-Telemundo Acción,,,sin_coincidencia,no,0,0
-Telemundo Romance,,,sin_coincidencia,no,0,0
-Telemundo Puerto Rico,,,sin_coincidencia,no,0,0
-Azteca Internacional HD,,,sin_coincidencia,no,0,0
-Azteca Internacional HD [Opc.2],,,sin_coincidencia,no,0,0
-Azteca Internacional HD [Opc.3],,,sin_coincidencia,no,0,0
-Azteca UNO SD,,,sin_coincidencia,no,0,0
-Azteca UNO SD  [Opc.2],,,sin_coincidencia,no,0,0
-Azcorazon HD,,,sin_coincidencia,no,0,0
-Azcorazon HD [Opc.2],,,sin_coincidencia,no,0,0
-Azcorazon HD [Opc.3],,,sin_coincidencia,no,0,0
-RCN Mas + HD (Colombia),,,sin_coincidencia,no,0,0
-Caracol Internacional SD  [Opc.1],,,sin_coincidencia,no,0,0
-Caracol Internacional SD  [Opc.2],,,sin_coincidencia,no,0,0
-Caracol Internacional SD  [Opc.3],,,sin_coincidencia,no,0,0
-DHE HD (Opc.1),,,sin_coincidencia,no,0,0
-DHE HD (Opc.2),,,sin_coincidencia,no,0,0
-DHE HD (Opc.3),,,sin_coincidencia,no,0,0
-Unicable HD,,,sin_coincidencia,no,0,0
-Unicable HD [Opc.2],,,sin_coincidencia,no,0,0
-Unicable HD [Opc.3],,,sin_coincidencia,no,0,0
-Canal Claro HD,,,sin_coincidencia,no,0,0
-Canal Claro SD [Opc.2],,,sin_coincidencia,no,0,0
-Canal Claro SD [Opc.3],,,sin_coincidencia,no,0,0
-AMC Series SD [Opc.1],,,sin_coincidencia,no,0,0
-AMC Series SD [Opc.2],,,sin_coincidencia,no,0,0
-AMC Series SD [Opc.3],,,sin_coincidencia,no,0,0
-AMC HD,,,sin_coincidencia,no,0,0
-AMC HD (Opc.2),,,sin_coincidencia,no,0,0
-AMC HD (Opc.3),,,sin_coincidencia,no,0,0
-AXN HD,,,sin_coincidencia,no,0,0
-AXN SD (Opc.2),,,sin_coincidencia,no,0,0
-AXN HD (Opc.3),,,sin_coincidencia,no,0,0
-ATRES Series HD (Opc.1),,,sin_coincidencia,no,0,0
-TVE SD [Opc.1],,,sin_coincidencia,no,0,0
-Distrito Comedia SD (Opc.1),,,sin_coincidencia,no,0,0
-Distrito Comedia HD (Opc.2),,,sin_coincidencia,no,0,0
-Distrito Comedia HD (Opc.3),,,sin_coincidencia,no,0,0
-Comedy Central HD (Opc.1),,,sin_coincidencia,no,0,0
-Comedy Central HD (Opc.2),,,sin_coincidencia,no,0,0
-Comedy Central HD (Opc.3),,,sin_coincidencia,no,0,0
-Comedy Central HD (Opc.4),,,sin_coincidencia,no,0,0
-TVE Star HD (1080p),,,sin_coincidencia,no,0,0
-TVE Star HD (720p),,,sin_coincidencia,no,0,0
-TVE Star HD (Auto),,,sin_coincidencia,no,0,0
-tlnovelas HD [Opc.1],,,sin_coincidencia,no,0,0
-tlnovelas SD [Opc.2],,,sin_coincidencia,no,0,0
-tlnovelas SD [Opc.3],,,sin_coincidencia,no,0,0
-Pasiones HD[Opc.1],,,sin_coincidencia,no,0,0
-Pasiones HD[Opc.2],,,sin_coincidencia,no,0,0
-Pasiones HD[Opc.3],,,sin_coincidencia,no,0,0
-RCN Novelas SD,,,sin_coincidencia,no,0,0
-RCN Novelas SD [Opc.2],,,sin_coincidencia,no,0,0
-RCN Novelas SD [Opc.3],,,sin_coincidencia,no,0,0
-TNT Novelas HD [Opc.1],,,sin_coincidencia,no,0,0
-TNT Novelas HD [Opc.2],,,sin_coincidencia,no,0,0
-TNT Novelas SD [Opc.3],,,sin_coincidencia,no,0,0
-TNT Novelas SD [Opc.4],,,sin_coincidencia,no,0,0
-TNT Series HD,,,sin_coincidencia,no,0,0
-TNT Series HD (Opc.2),,,sin_coincidencia,no,0,0
-TNT Series SD (Opc.3),,,sin_coincidencia,no,0,0
-BBC Series (España),,,sin_coincidencia,no,0,0
-Europa Europa HD,,,sin_coincidencia,no,0,0
-Europa Europa HD [Opc.2],,,sin_coincidencia,no,0,0
-Europa Europa HD [Opc.3],,,sin_coincidencia,no,0,0
-Euro Channel SD [Opc.1],,,sin_coincidencia,no,0,0
-Euro Channel SD [Opc.2],,,sin_coincidencia,no,0,0
-Euro Channel SD [Opc.3],,,sin_coincidencia,no,0,0
-Estudio + TV HD,,,sin_coincidencia,no,0,0
-Lifetime,,,nombre_ambiguo,no,0,0
-Lifetime [Opc.2],,,sin_coincidencia,no,0,0
-Lifetime [Opc.3],,,sin_coincidencia,no,0,0
-Lifetime [Opc.4],,,sin_coincidencia,no,0,0
-CityTV SD,,,sin_coincidencia,no,0,0
-CityTV SD [Opc.2],,,sin_coincidencia,no,0,0
-CityTV SD [Opc.3],,,sin_coincidencia,no,0,0
-Canal 9 SD (Nicaragua) [Opc.1],,,sin_coincidencia,no,0,0
-MTV,,,nombre_ambiguo,no,0,0
-MTV(Opc.2),,,sin_coincidencia,no,0,0
-TeleOnce (Puerto Rico),,,sin_coincidencia,no,0,0
-Cali TV (Cali - Colombia),,,sin_coincidencia,no,0,0
-TVGE Internacional (Guinea Ecuatorial),,,sin_coincidencia,no,0,0
-Crom TV (Rep. Dominicana),,,sin_coincidencia,no,0,0
-Xtra TV [No 24/7](Rep. Dominicana),,,sin_coincidencia,no,0,0
-Los Simpson Latino,,,sin_coincidencia,no,0,0
-Los Simpson Latino Opc. 2,,,sin_coincidencia,no,0,0
-El Chavo TV,ElChavoTV.mx,El Chavo TV,coincidencia_exacta,sí,0,0
-Chespirito TV,,,sin_coincidencia,no,0,0
-Apanines TV,,,sin_coincidencia,no,0,0
-PTV OnLine,,,sin_coincidencia,no,0,0
-Del Este TV HD,,,sin_coincidencia,no,0,0
-Boreal (Internacional),,,sin_coincidencia,no,0,0
-Red TVE Ventanas (Ecuador - Los Ríos),,,sin_coincidencia,no,0,0
-El Mago TV 2,,,sin_coincidencia,no,0,0
-Retro TV,RetroTV.us,Retro TV,coincidencia_exacta,sí,0,0
-ITV Patagonia (Punta Arenas - Magallanes),,,sin_coincidencia,no,0,0
-Canal 7 Salta (Salta / Argentina),,,sin_coincidencia,no,0,0
-Canal 34 San Juan (San Juan / Argentina),,,sin_coincidencia,no,0,0
-Canal 5 Del Pueblo (Alcorta / Santa Fe / Argentina),,,sin_coincidencia,no,0,0
-Gen TV,,,sin_coincidencia,no,0,0
-MiTVpy (Paraguay),,,sin_coincidencia,no,0,0
-Tele Uno (Costa Rica),,,sin_coincidencia,no,0,0
-Sarapiquí TV (Costa Rica - Heredia),,,sin_coincidencia,no,0,0
-Super Cable (Costa Rica - Grecia),,,sin_coincidencia,no,0,0
-Canal 3 KMK TV (Costa Rica - Los Pinos),,,sin_coincidencia,no,0,0
-360 RFTV (Costa Rica - San José),,,sin_coincidencia,no,0,0
-Norte Informativo TV (Costa Rica - San Carlos),,,sin_coincidencia,no,0,0
-American TV,AmericanTV.ec,American TV,coincidencia_exacta,sí,0,0
-NSTV (Cúcuta / Norte de Santander / Colombia),,,sin_coincidencia,no,0,0
-Canal 4 Posadas (Misiones / Argentina),,,sin_coincidencia,no,0,0
-Like TV Folklore (Perú - Nacional),,,sin_coincidencia,no,0,0
-Mi Televisión,,,sin_coincidencia,no,0,0
-LA TELE HD,,,sin_coincidencia,no,0,0
-LA TELE HD [Opc.2],,,sin_coincidencia,no,0,0
-Telemar (Ecuador - Esmeraldas),,,sin_coincidencia,no,0,0
-RSelvaTV (Perú - Pucallpa - Ucayali),,,sin_coincidencia,no,0,0
-VNP (Lima),,,sin_coincidencia,no,0,0
-Quántica TV (Argentina - San Vicente - Buenos Aires),,,sin_coincidencia,no,0,0
-Miami TV DJ,MiamiTVDJ.us,Miami TV DJ,coincidencia_exacta,sí,0,0
-Miami TV Music,MiamiTVMusic.us,Miami TV Music,coincidencia_exacta,sí,0,0
-Energy TV DJ,,,sin_coincidencia,no,0,0
-Energy TV Music,,,sin_coincidencia,no,0,0
-Ciudades del Ocio TV (España),,,sin_coincidencia,no,0,0
-TEF (España),,,sin_coincidencia,no,0,0
-Miami TV Latino,MiamiTVLatino.us,Miami TV Latino,coincidencia_exacta,sí,0,0
-Energy TV Latino,,,sin_coincidencia,no,0,0
-Latino TV NY,,,sin_coincidencia,no,0,0
-Latinos TV (España),,,sin_coincidencia,no,0,0
-AN24,,,sin_coincidencia,no,0,0
-Vorterix MDQ [No 24/7],,,sin_coincidencia,no,0,0
-Planet 100.9 FM (Panamá),,,sin_coincidencia,no,0,0
-Hispania TV  (Panamá),,,sin_coincidencia,no,0,0
-Canal Trece (Andina y Amazonía / Colombia ),,,sin_coincidencia,no,0,0
-Todo Novelas,TodoNovelas.es,Todo Novelas,coincidencia_exacta,sí,4,0
-Todo Pasión,,,sin_coincidencia,no,0,0
-Novelísima,Novelisima.us,Novelisima,coincidencia_exacta,sí,10,0
-Corazón TV Azteca,,,sin_coincidencia,no,0,0
-Canela Pasión Latina,,,sin_coincidencia,no,0,0
-Canela Pasión Turca,,,sin_coincidencia,no,0,0
-Thema Vive Kanal Drama,,,sin_coincidencia,no,0,0
-Thema Vive Kanal Drama[Opc.2],,,sin_coincidencia,no,0,0
-Thema Vive Kanal Drama[Opc.3],,,sin_coincidencia,no,0,0
-Rebelde,,,sin_coincidencia,no,0,0
-Todo Drama,,,sin_coincidencia,no,0,0
-Canela Secretos,,,sin_coincidencia,no,0,0
-Cheaters en Español,,,sin_coincidencia,no,0,0
-FilmRise Crímenes Verdaderos,,,sin_coincidencia,no,0,0
-FilmRise Series Gratis,,,sin_coincidencia,no,0,0
-TV Lobo Durango (Durango / México),,,sin_coincidencia,no,0,0
-TravelXP (ES),,,sin_coincidencia,no,0,0
-ON TV,OnTV.in,On TV,coincidencia_exacta,sí,0,0
-Limón TV (Limón),,,sin_coincidencia,no,0,0
-MGA TV (Nicaragua),,,sin_coincidencia,no,0,0
-TN8 (Nicaragua),,,sin_coincidencia,no,0,0
-WTV Canal 20 (Nicaragua),,,sin_coincidencia,no,0,0
-WTV Canal 20 (Nicaragua)[Opc.2],,,sin_coincidencia,no,0,0
-Pixel Channel (Nicaragua),,,sin_coincidencia,no,0,0
-Telemax (Argentina),,,sin_coincidencia,no,0,0
-UCL (Uruguay),,,sin_coincidencia,no,0,0
-Canal 12 Misiones HD (Argentina),,,sin_coincidencia,no,0,0
-Canal 12 Misiones SD (Argentina),,,sin_coincidencia,no,0,0
-MaxiVision TV (Argentina),,,sin_coincidencia,no,0,0
-Canal 3 La Pampa (La Pampa / Argentina),,,sin_coincidencia,no,0,0
-Casa Grande TV,,,sin_coincidencia,no,0,0
-Canal 4 Jujuy [Not 24/7] (Jujuy),,,sin_coincidencia,no,0,0
-Canal 7 Jujuy (Jujuy / Argentina),,,sin_coincidencia,no,0,0
-Canal 9 Litoral (Entre Ríos / Argentina),,,sin_coincidencia,no,0,0
-Unika TV [No 24/7],,,sin_coincidencia,no,0,0
-TV Cisne [No 24/7](Ecuador - Loja),,,sin_coincidencia,no,0,0
-CEACOM TV (Not 24/7) (Yacuiba - Tarija),,,sin_coincidencia,no,0,0
-XtremaTV,,,sin_coincidencia,no,0,0
-Nesting TV,NestingTV.es,Nesting TV,coincidencia_exacta,sí,1,0
-Drone TV (AirVuz),,,sin_coincidencia,no,0,0
-Tiva TV (Puerto Rico),,,sin_coincidencia,no,0,0
-UMSA TVU Internacional (La Paz),,,sin_coincidencia,no,0,0
-Telemix,,,nombre_ambiguo,no,0,0
-SumaQ,,,sin_coincidencia,no,0,0
-InterConnect,,,sin_coincidencia,no,0,0
-Quielpue OnLine,,,sin_coincidencia,no,0,0
-TAK TV,,,sin_coincidencia,no,0,0
-Nitida TV [No 24/7],,,sin_coincidencia,no,0,0
-GikTVMX [No 24/7](México),,,sin_coincidencia,no,0,0
-Canal 9 Resistencia [No 24/7](Chaco / Argentina),,,sin_coincidencia,no,0,0
-Buenos Aires TV,,,sin_coincidencia,no,0,0
-Max Channel [No 24/7],,,sin_coincidencia,no,0,0
-Power Vision TV [No 24/7],,,sin_coincidencia,no,0,0
-Canal CHD [No 24/7] (Colombia),,,sin_coincidencia,no,0,0
-Multicanal TV [No 24/7] (Protelco y Telecable),,,sin_coincidencia,no,0,0
-UPEA TV [No 24/7](El Alto),,,sin_coincidencia,no,0,0
-RN Televisión [No 24/7] (Perú - Yurimaguas - Loreto),,,sin_coincidencia,no,0,0
-Visión NDV [No 24/7](Perú - Pucallpa),,,sin_coincidencia,no,0,0
-Teleselva [No 24/7] (Perú - Satipo - Junín),,,sin_coincidencia,no,0,0
-La Nueva Radio TV 97.7 [No 24/7](Ecuador - Imbabura),,,sin_coincidencia,no,0,0
-Bayres TV (Clasicos) [No 24/7] (Argentina),,,sin_coincidencia,no,0,0
-Visión Dorada TV [No 24/7] (Colombia - La Dorada - Caldas ),,,sin_coincidencia,no,0,0
-Canal Pulpo TV [No  24/7],,,sin_coincidencia,no,0,0
-Alternativa TV [No 24/7](Colombia - Huasco - Atacama),,,sin_coincidencia,no,0,0
-Canal 13 MAX [No 24/7] (Argentina),,,sin_coincidencia,no,0,0
-Planeta Radio TV [No 24/7](Ecuador - Guayas),,,sin_coincidencia,no,0,0
-Planeta Radio TV [No 24/7](Ecuador - Guayas)[Opc.2],,,sin_coincidencia,no,0,0
-Pituco TV [No 24/7],,,sin_coincidencia,no,0,0
-ContacTV [no 24/7],,,sin_coincidencia,no,0,0
-Plus TV [No 24/7] (Perú - Santo Domingo),,,sin_coincidencia,no,0,0
-AsiriTV [No 24/7] (Perú - Lima),,,sin_coincidencia,no,0,0
-Canal 8 Catacaos [No 24/7] (Perú - Piura),,,sin_coincidencia,no,0,0
-Vía Altomayo [No 24/7] (Perú - Moyobamba - San Martín),,,sin_coincidencia,no,0,0
-People Are Awesome (EE.UU.) [EN],,,sin_coincidencia,no,0,0
-FailArmy (EN),,,sin_coincidencia,no,0,0
-CGTN Español (China / Internacional),,,sin_coincidencia,no,0,0
-Canal TV Carioca Internacional (Brasil)[SUB],,,sin_coincidencia,no,0,0
-Telemundo Noticias Texas [Opc.1],,,sin_coincidencia,no,0,0
-Telemundo Noticias Texas [Opc.2],,,sin_coincidencia,no,0,0
-Telemundo Noticias Noreste [Opc.1],,,sin_coincidencia,no,0,0
-Telemundo Noticias Noreste [Opc.2],,,sin_coincidencia,no,0,0
-Telemundo Noticias California [Opc.1],,,sin_coincidencia,no,0,0
-Telemundo Noticias California [Opc.2],,,sin_coincidencia,no,0,0
-Telemundo Noticias Florida [Opc.1],,,sin_coincidencia,no,0,0
-Telemundo Noticias Florida [Opc.2],,,sin_coincidencia,no,0,0
-Telemundo Noticias Ahora,,,sin_coincidencia,no,0,0
-Telemundo Noticias Al dia,,,sin_coincidencia,no,0,0
-Telemundo Live Stream Schedule,,,sin_coincidencia,no,0,0
-Platzi TV,PlatziTV.es,Platzi TV,coincidencia_exacta,sí,0,0
-Xphere One,,,sin_coincidencia,no,0,0
-Xphere Cosmos,,,sin_coincidencia,no,0,0
-Xphere Science,,,sin_coincidencia,no,0,0
-Xphere Wild (Nature),,,sin_coincidencia,no,0,0
-Xphere Aventura,,,sin_coincidencia,no,0,0
-A&E HD,,,sin_coincidencia,no,0,0
-A&E HD [Opc.2],,,sin_coincidencia,no,0,0
-A&E SD [Opc.3],,,sin_coincidencia,no,0,0
-A&E SD [Opc.4],,,sin_coincidencia,no,0,0
-Discovery Channel SD,,,sin_coincidencia,no,0,0
-Discovery Channel SD [Opc.2],,,sin_coincidencia,no,0,0
-Discovery Channel HD [Opc.3],,,sin_coincidencia,no,0,0
-Discovery ID HD,,,sin_coincidencia,no,0,0
-Discovery ID HD [Opc.2],,,sin_coincidencia,no,0,0
-Discovery ID HD [Opc.3],,,sin_coincidencia,no,0,0
-Discovery Turbo SD,,,sin_coincidencia,no,0,0
-Discovery Turbo SD [Opc.2],,,sin_coincidencia,no,0,0
-Discovery Turbo HD [Opc.3],,,sin_coincidencia,no,0,0
-Discovery World HD,,,sin_coincidencia,no,0,0
-Discovery World HD [Opc.2],,,sin_coincidencia,no,0,0
-Discovery World HD [Opc.3],,,sin_coincidencia,no,0,0
-Discovery Theater HD,,,sin_coincidencia,no,0,0
-Discovery Theater HD [Opc.2],,,sin_coincidencia,no,0,0
-Discovery Theater HD [Opc.3],,,sin_coincidencia,no,0,0
-Discovery Home & Health HD,,,sin_coincidencia,no,0,0
-Discovery Home & Health SD [Opc.2],,,sin_coincidencia,no,0,0
-Discovery Home & Health SD [Opc.3],,,sin_coincidencia,no,0,0
-Discovery Science SD,,,sin_coincidencia,no,0,0
-Discovery Science SD [Opc.2],,,sin_coincidencia,no,0,0
-Discovery Science SD [Opc.3],,,sin_coincidencia,no,0,0
-E! Entertainment HD,,,sin_coincidencia,no,0,0
-E! Entertainment SD [Opc.2],,,sin_coincidencia,no,0,0
-E! Entertainment HD [Opc.3],,,sin_coincidencia,no,0,0
-Animal Planet HD [Opc.1],,,sin_coincidencia,no,0,0
-Animal Planet HD [Opc.2],,,sin_coincidencia,no,0,0
-Animal Planet SD [Opc.3],,,sin_coincidencia,no,0,0
-Film & Arts HD,,,sin_coincidencia,no,0,0
-Film & Arts SD [Opc.2],,,sin_coincidencia,no,0,0
-Film & Arts HD [Opc.3],,,sin_coincidencia,no,0,0
-History Channel HD,History.si,History,coincidencia_exacta,sí,0,0
-History Channel SD [Opc.2],,,sin_coincidencia,no,0,0
-History Channel SD [Opc.3],,,sin_coincidencia,no,0,0
-H2 SD,,,sin_coincidencia,no,0,0
-H2 HD [Opc.2],,,sin_coincidencia,no,0,0
-H2 HD [Opc.3],,,sin_coincidencia,no,0,0
-Nat Geo SD,,,sin_coincidencia,no,0,0
-Nat Geo HD [Opc.2],,,sin_coincidencia,no,0,0
-Nat Geo SD [Opc.3],,,sin_coincidencia,no,0,0
-TLC SD,,,sin_coincidencia,no,0,0
-TLC SD [Opc.2],,,sin_coincidencia,no,0,0
-TLC HD [Opc.3],,,sin_coincidencia,no,0,0
-CNN en Español (Internacional / América),,,sin_coincidencia,no,0,0
-CNN en Español (Internacional / América) [Opc.2],,,sin_coincidencia,no,0,0
-RT Noticias (HD),,,sin_coincidencia,no,0,0
-RT Noticias (SD),,,sin_coincidencia,no,0,0
-RT Noticias (Auto),,,sin_coincidencia,no,0,0
-Garage TV SD (Autos),,,sin_coincidencia,no,0,0
-Telemundo al Día (USA / Nacional),,,sin_coincidencia,no,0,0
-English TV (USA / Internacional),,,sin_coincidencia,no,0,0
-Estrella News (USA / México),,,sin_coincidencia,no,0,0
-N+ (Nacional),,,sin_coincidencia,no,0,0
-N+ Foro (Televisa) (Nacional),,,sin_coincidencia,no,0,0
-ADN40 (Nacional),,,sin_coincidencia,no,0,0
-Telefórmula (Nacional),,,sin_coincidencia,no,0,0
-Canal Catorce SPR (Nacional),,,sin_coincidencia,no,0,0
-Justicia TV (Nacional),,,sin_coincidencia,no,0,0
-Canal 33 Tijuana (Baja California),,,sin_coincidencia,no,0,0
-TVP Culiacán (Sinaloa),,,sin_coincidencia,no,0,0
-TVP Los Mochis (Sinaloa),,,sin_coincidencia,no,0,0
-TVP Mazatlán (Sinaloa),,,sin_coincidencia,no,0,0
-TVP Ciudad Obregón (Sonora),,,sin_coincidencia,no,0,0
-N+ Monterrey (Nuevo León),,,sin_coincidencia,no,0,0
-N+ Guadalajara (Jalisco),,,sin_coincidencia,no,0,0
-Canal Parlamento Jalisco (Guadalajara),,,sin_coincidencia,no,0,0
-Canal CVI Cubavision (Cuba),,,sin_coincidencia,no,0,0
-WIPR (Puerto Rico),,,sin_coincidencia,no,0,0
-Cinevisión Canal 19 (República Dominicana),,,sin_coincidencia,no,0,0
-Telesur (Latinoamérica),,,sin_coincidencia,no,0,0
-Ecotel TV (Loja - Ecuador),,,sin_coincidencia,no,0,0
-Venevision Noticias (Venezuela),,,sin_coincidencia,no,0,0
-Exitosa TV (Perú - Nacional),,,sin_coincidencia,no,0,0
-Exitosa TV (Perú - Nacional)[Opc.2],,,sin_coincidencia,no,0,0
-RPP TV (Perú - Nacional),,,sin_coincidencia,no,0,0
-RPP TV HD (Perú - Nacional)[Opc.2],,,sin_coincidencia,no,0,0
-RPP TV HD (Perú - Nacional)[Opc.3],,,sin_coincidencia,no,0,0
-TVPE Noticias (Perú),,,sin_coincidencia,no,0,0
-TV Senado (Nacional),,,sin_coincidencia,no,0,0
-TV Usach (Santiago),,,sin_coincidencia,no,0,0
-Atacama Noticias (Copiapó - Atacama),,,sin_coincidencia,no,0,0
-Holvoet TV (Copiapó - Atacama),,,sin_coincidencia,no,0,0
-Antofagasta TV (Antofagasta),,,sin_coincidencia,no,0,0
-Puranoticia TV (Viña del Mar / Valparaíso),,,sin_coincidencia,no,0,0
-Sextavisión (Rancagua - O'Higgins),,,sin_coincidencia,no,0,0
-Contivisión (Constitución - Maule),,,sin_coincidencia,no,0,0
-Canal 9 Bío Bío TV (Concepción),,,sin_coincidencia,no,0,0
-Santa María TV (Coyhaique - Aysén),,,sin_coincidencia,no,0,0
-Canal 26 (Nacional),,,sin_coincidencia,no,0,0
-Canal 22 (Argentina - Nacional),,,sin_coincidencia,no,0,0
-Canal 6 Digital [No 24/7](Misiones),,,sin_coincidencia,no,0,0
-NG Federal TV (Resistencia - Chaco),,,sin_coincidencia,no,0,0
-Aire de Santa Fe (Santa Fe),,,sin_coincidencia,no,0,0
-San Luis + (San Luis),,,sin_coincidencia,no,0,0
-24/7 Canal de Noticias (Neuquén),,,sin_coincidencia,no,0,0
-Canal Provincial (Buenos Aires),,,sin_coincidencia,no,0,0
-Sicardi TV La Plata (Buenos Aires),,,sin_coincidencia,no,0,0
-Canal 79 Santa Clara del Mar (Buenos Aires),,,sin_coincidencia,no,0,0
-Celta TV [No 24/7](Tres Arroyos - Buenos Aires),,,sin_coincidencia,no,0,0
-Canal 79 Puan (Buenos Aires),,,sin_coincidencia,no,0,0
-UMSA TVU LP (La Paz),,,sin_coincidencia,no,0,0
-T13 En Vivo (Chile - Nacional),,,sin_coincidencia,no,0,0
-El Pingüino TV [No 24/7](Punta Arenas - Magallanes),,,sin_coincidencia,no,0,0
-DW Español (Alemania / Internacional),,,sin_coincidencia,no,0,0
-Canal Parlamento (España / Nacional),,,sin_coincidencia,no,0,0
-El Toro TV (España / Nacional),,,sin_coincidencia,no,0,0
-Distrito TV (España / Nacional),,,sin_coincidencia,no,0,0
-Canal Sur Más Noticias (Andalucía),,,sin_coincidencia,no,0,0
-FTV Fuengirola (Málaga - Andalucía),,,sin_coincidencia,no,0,0
-Canal 2000 La Solana HD (Ciudad Real - Castilla-La Mancha),,,sin_coincidencia,no,0,0
-TV BRICS (Rusia / Internacional),,,sin_coincidencia,no,0,0
-RTU [No 24/7] (Quito - Ecuador),,,sin_coincidencia,no,0,0
-TV Norte [No 24/7](Chiclayo / Lambayeque),,,sin_coincidencia,no,0,0
-Canal 79 La Costa [No 24/7](Buenos Aires),,,sin_coincidencia,no,0,0
-Canal 28 Nuevo León [No 24/7] (Monterrey),,,sin_coincidencia,no,0,0
-Canal E [No 24/7] (Nacional),,,sin_coincidencia,no,0,0
-Disney Jr. Latin America South,,,sin_coincidencia,no,0,0
-Disney Jr . Latin America South [opc.2],,,sin_coincidencia,no,0,0
-Moonbug Kids (Latam) [EN],,,sin_coincidencia,no,0,0
-Semillitas TV,SemillitasTV.us,Semillitas TV,coincidencia_exacta,sí,1,0
-Canal IPE (Peru),,,sin_coincidencia,no,0,0
-duckTV (ES),,,sin_coincidencia,no,0,0
-BABY SHARK TV (ES),,,sin_coincidencia,no,0,0
-BABY SHARK TV (EN),,,sin_coincidencia,no,0,0
-LooLoo Kids (ES),,,sin_coincidencia,no,0,0
-Plim Plim TV,,,sin_coincidencia,no,0,0
-Canal infantil,CanalInfantil.us,Canal Infantil,coincidencia_exacta,sí,0,0
-BabyFirst SD,,,sin_coincidencia,no,0,0
-Pequeradio TV (ES),,,sin_coincidencia,no,0,0
-Baby TV,,,sin_coincidencia,no,0,0
-Baby TV(Opc.2),,,sin_coincidencia,no,0,0
-Cartoonito SD (Opc.1),,,sin_coincidencia,no,0,0
-Cartoonito SD (Opc.2),,,sin_coincidencia,no,0,0
-Cartoonito HD (Opc.3),,,sin_coincidencia,no,0,0
-Cartoonito HD (Opc.4),,,sin_coincidencia,no,0,0
-Disney Jr SD (Opc.1),,,sin_coincidencia,no,0,0
-Disney Jr SD (Opc.2),,,sin_coincidencia,no,0,0
-Disney Jr HD (Opc.3),,,sin_coincidencia,no,0,0
-Discovery Kids HD,,,sin_coincidencia,no,0,0
-Discovery Kids SD (Opc.2),,,sin_coincidencia,no,0,0
-Discovery Kids SD (Opc.3),,,sin_coincidencia,no,0,0
-Discovery Kids SD (Opc.4),,,sin_coincidencia,no,0,0
-Cartoon Network SD,,,sin_coincidencia,no,0,0
-Cartoon Network SD (Opc.2),,,sin_coincidencia,no,0,0
-Cartoon Network HD (Opc.3),,,sin_coincidencia,no,0,0
-Cartoon Network HD (Opc.4),,,sin_coincidencia,no,0,0
-Nickelodeon HD (Opc.1),,,sin_coincidencia,no,0,0
-Nickelodeon HD (Opc.2),,,sin_coincidencia,no,0,0
-Nickelodeon HD (Opc.3),,,sin_coincidencia,no,0,0
-Nickelodeon HD (Opc.4),,,sin_coincidencia,no,0,0
-Nickelodeon SD,,,sin_coincidencia,no,0,0
-Nick JR SD (Opc.1),,,sin_coincidencia,no,0,0
-Nick JR SD (Opc.2),,,sin_coincidencia,no,0,0
-Nick JR SD (Opc.3),,,sin_coincidencia,no,0,0
-Disney Channel HD (Opc.1),,,sin_coincidencia,no,0,0
-Disney Channel HD (Opc.2),,,sin_coincidencia,no,0,0
-Disney Channel HD (Opc.3),,,sin_coincidencia,no,0,0
-Disney Channel HD (Opc.4),,,sin_coincidencia,no,0,0
-Disney Channel HD (Opc.5),,,sin_coincidencia,no,0,0
-Disney Channel SD (opc.6),,,sin_coincidencia,no,0,0
-Dreamswork HD,,,sin_coincidencia,no,0,0
-Dreamswork HD (Opc.2),,,sin_coincidencia,no,0,0
-Dreamswork HD (Opc.3),,,sin_coincidencia,no,0,0
-Caillou (ES),,,sin_coincidencia,no,0,0
-Cry Babies (ES),,,sin_coincidencia,no,0,0
-Pocoyó (ES),,,sin_coincidencia,no,0,0
-Toon Goggles en Español (Latam),,,sin_coincidencia,no,0,0
-Tooncast (Opc.1),,,sin_coincidencia,no,0,0
-Tooncast (Opc.2),,,sin_coincidencia,no,0,0
-Tooncast (Opc.3),,,sin_coincidencia,no,0,0
-Tooncast (Opc.4),,,sin_coincidencia,no,0,0
-Canal LMS,,,sin_coincidencia,no,0,0
-RetroMagico,,,sin_coincidencia,no,0,0
-RetroMagico [Opc.2],,,sin_coincidencia,no,0,0
-Magic Kids [No 24/7],,,sin_coincidencia,no,0,0
-Retro Cartoons,,,sin_coincidencia,no,0,0
-Cartoons,,,sin_coincidencia,no,0,0
-Tiguerito TV (Rep. Dominicana),,,sin_coincidencia,no,0,0
-MAXC KIDS TV,,,sin_coincidencia,no,0,0
-Moni TV HD,,,sin_coincidencia,no,0,0
-Chinola TV (Rep. Dominicana),,,sin_coincidencia,no,0,0
-FMH Kids,FMHKids.us,FMH Kids,coincidencia_exacta,sí,0,0
-Clan Internacional Americas (ES),,,sin_coincidencia,no,0,0
-Rabbids: La invasión (ES),,,sin_coincidencia,no,0,0
-Pitufo TV (ES),,,sin_coincidencia,no,0,0
-Mr. Bean Animated (ES),,,sin_coincidencia,no,0,0
-SuperToons TV (ES),,,sin_coincidencia,no,0,0
-Laika Channel (ES),,,sin_coincidencia,no,0,0
-La Abeja Maya (ES),,,sin_coincidencia,no,0,0
-Las 3 Mellizas (ES),,,sin_coincidencia,no,0,0
-Dios Te Ve Kids (Latam),,,sin_coincidencia,no,0,0
-Logos TV Kids (Latam),,,sin_coincidencia,no,0,0
-Extrema Kids TV(Latam),,,sin_coincidencia,no,0,0
-Totalmusic (Internacional),,,sin_coincidencia,no,0,0
-Totalmusic 80s (Internacional),,,sin_coincidencia,no,0,0
-Totalmusic 2000s (Internacional),,,sin_coincidencia,no,0,0
-Totalmusic Concerts (Internacional),,,sin_coincidencia,no,0,0
-Totalmusic Dance (Internacional),,,sin_coincidencia,no,0,0
-Box Playlist (Internacional),,,sin_coincidencia,no,0,0
-Trace Latina (Internacional),,,sin_coincidencia,no,0,0
-Trace Urban (Internacional),,,sin_coincidencia,no,0,0
-VEVO Latino (Internacional),,,sin_coincidencia,no,0,0
-VEVO Pop (Internacional),,,sin_coincidencia,no,0,0
-VEVO Retro (Internacional),,,sin_coincidencia,no,0,0
-Oldies Hits SD (EN) [No 24/7],,,sin_coincidencia,no,0,0
-Oldies Hits SD (ES) [No 24/7],,,sin_coincidencia,no,0,0
-MusicTop,MusicTop.ar,MusicTop,coincidencia_exacta,sí,1,0
-Tierramia TV,,,sin_coincidencia,no,0,0
-Vorterix SD,,,sin_coincidencia,no,0,0
-Vorterix HD,,,sin_coincidencia,no,0,0
-Vorterix (Mendoza),,,sin_coincidencia,no,0,0
-Vorterix (San Luis),,,sin_coincidencia,no,0,0
-Urban TV,,,nombre_ambiguo,no,0,0
-Salsa TV,,,sin_coincidencia,no,0,0
-Mundo de la Música TV,,,sin_coincidencia,no,0,0
-Telehit Musica,TelehitMusica.mx,Telehit Musica,coincidencia_exacta,sí,2,0
-Vision Musica TV,,,sin_coincidencia,no,0,0
-HTV SD,,,sin_coincidencia,no,0,0
-HTV SD (Opc.2),,,sin_coincidencia,no,0,0
-EXATV SD,,,sin_coincidencia,no,0,0
-Latina TV,LatinaTV.ve,Latina TV,coincidencia_exacta,sí,0,0
-RewindTV,,,sin_coincidencia,no,0,0
-RumbaTV HD,,,sin_coincidencia,no,0,0
-RumbaTV HD(OPC.2),,,sin_coincidencia,no,0,0
-VEVO LATINO,VevoLatino.us,Vevo Latino,coincidencia_exacta,sí,2,0
-Concert Channel (Internacional),,,sin_coincidencia,no,0,0
-Hits Mexicanos (México),,,sin_coincidencia,no,0,0
-Conecta TV Regional (México),,,sin_coincidencia,no,0,0
-Teleritmo (México),,,sin_coincidencia,no,0,0
-IQ Channel (Costa Rica),,,sin_coincidencia,no,0,0
-SOY Plancha TV (Costa Rica),,,sin_coincidencia,no,0,0
-Urbano TV [No 24/7] (Costa Rica),,,sin_coincidencia,no,0,0
-Video Tour Channel,VideoTourChannel.cr,Video Tour Channel,coincidencia_exacta,sí,0,0
-Vintage Music (Costa Rica),,,sin_coincidencia,no,0,0
-Voice Over Television (Costa Rica),,,sin_coincidencia,no,0,0
-Vision Television (Colombia),,,sin_coincidencia,no,0,0
-La Kalle (Colombia),,,sin_coincidencia,no,0,0
-La Kalle (Colombia) [Opc.2],,,sin_coincidencia,no,0,0
-Parranda Vallenata (Colombia),,,sin_coincidencia,no,0,0
-SuperMúsica TV (Colombia),,,sin_coincidencia,no,0,0
-FM Mundo (Ecuador),,,sin_coincidencia,no,0,0
-La Perla Radio TV (Ecuador) [Not 24/7],,,sin_coincidencia,no,0,0
-Metropoli Medios TV (Ecuador),,,sin_coincidencia,no,0,0
-Radio Cuenca Estéreo (Ecuador),,,sin_coincidencia,no,0,0
-Radio Fantástica 98.9 FM (Ecuador),,,sin_coincidencia,no,0,0
-TVUNO (Perú),,,sin_coincidencia,no,0,0
-Salsa Gorda Television (Perú) [Not 24/7],,,sin_coincidencia,no,0,0
-Retro Plus TV (Inglés) (Chile),,,sin_coincidencia,no,0,0
-Retro Plus TV (Español) (Chile),,,sin_coincidencia,no,0,0
-VClassic TV (Chile),,,sin_coincidencia,no,0,0
-PortalFoxMix (Chile),,,sin_coincidencia,no,0,0
-AE Radio TV (Chile),,,sin_coincidencia,no,0,0
-Paréntesis TV (Chile),,,sin_coincidencia,no,0,0
-Antena Music (Chile),,,sin_coincidencia,no,0,0
-13 Festival (Chile),,,sin_coincidencia,no,0,0
-TVOMIX (Argentina),,,sin_coincidencia,no,0,0
-Cumbia Mix (Argentina),,,sin_coincidencia,no,0,0
-Urban Mix (Argentina),,,sin_coincidencia,no,0,0
-Tito TV (Argentina),,,sin_coincidencia,no,0,0
-FlashBack Mix (Argentina),,,sin_coincidencia,no,0,0
-Mas FM 95.9 (Argentina),,,sin_coincidencia,no,0,0
-Azahares Radio Visual (Argentina),,,sin_coincidencia,no,0,0
-Beats Radio 100.5 FM (Argentina),,,sin_coincidencia,no,0,0
-Cadena 103 Olavarría (Argentina),,,sin_coincidencia,no,0,0
-La Hermandad Salsera (Argentina) [Not 24/7],,,sin_coincidencia,no,0,0
-Mass Musica (Argentina),,,sin_coincidencia,no,0,0
-Chamame TV (Argentina),,,sin_coincidencia,no,0,0
-Ritmo Universal (Argentina),,,sin_coincidencia,no,0,0
-Tropi TV (Argentina),,,sin_coincidencia,no,0,0
-Xpectra Groove Top Hits (Argentina),,,sin_coincidencia,no,0,0
-Activa TV (España),,,sin_coincidencia,no,0,0
-Cool Summer Channel (España),,,sin_coincidencia,no,0,0
-Molahits TV (España),,,sin_coincidencia,no,0,0
-POP World TV (España),,,sin_coincidencia,no,0,0
-Verbena TV [No 24/7] (España),,,sin_coincidencia,no,0,0
-Dance FM (España),,,sin_coincidencia,no,0,0
-Sol Música (España),,,sin_coincidencia,no,0,0
-Fantasia TV [No 24/7](Chile),,,sin_coincidencia,no,0,0
-Planeta TV [No 24/7](Chile),,,sin_coincidencia,no,0,0
-Radio Monumental TV (Ecuador) [Not 24/7],,,sin_coincidencia,no,0,0
-Latinos TV [No 24/7],,,sin_coincidencia,no,0,0
-MegaBox (Nicaragua) [No 24/7],,,sin_coincidencia,no,0,0
-TVONE (Nicaragua) [No 24/7],,,sin_coincidencia,no,0,0
-88 Stereo (Costa Rica) [No 24/7],,,sin_coincidencia,no,0,0
-Gex TV [No 24/7](Costa Rica),,,sin_coincidencia,no,0,0
-VM Latino [No 24/7](Costa Rica),,,sin_coincidencia,no,0,0
-MasMusica FM [No 24/7](Colombia),,,sin_coincidencia,no,0,0
-Radio Master [24/7] (Perú),,,sin_coincidencia,no,0,0
-Turbo Mix Radio TV (Perú) [Not 24/7],,,sin_coincidencia,no,0,0
-La Popular TV [No 24/7](Chile),,,sin_coincidencia,no,0,0
-FIFA+ (Internacional),,,sin_coincidencia,no,0,0
-FIFA+ (ES) (Internacional),,,sin_coincidencia,no,0,0
-FIFA+ (ES) (Internacional)[Opc.2],,,sin_coincidencia,no,0,0
-FIFA+ (EN) (Internacional),,,sin_coincidencia,no,0,0
-FIFA+ (PT) (Internacional),,,sin_coincidencia,no,0,0
-FIFA+ (DE) (Internacional),,,sin_coincidencia,no,0,0
-FIFA+ (FR) (Internacional),,,sin_coincidencia,no,0,0
-FIFA+ (IT) (Internacional),,,sin_coincidencia,no,0,0
-Sky Sports LaLiga,,,sin_coincidencia,no,0,0
-Sky Sports LaLiga [Opc.2],,,sin_coincidencia,no,0,0
-Sky Sports LaLiga [Opc.3],,,sin_coincidencia,no,0,0
-Sky Sports LaLiga [Opc.4],,,sin_coincidencia,no,0,0
-Sky Sports LaLiga [Opc.5],,,sin_coincidencia,no,0,0
-Sky Sports LaLiga [Opc.6],,,sin_coincidencia,no,0,0
-Sky Sports LaLiga [Opc.7],,,sin_coincidencia,no,0,0
-Sky Sports F1,,,nombre_ambiguo,no,0,0
-FOX (TUBI CEAM),,,sin_coincidencia,no,0,0
-Fox en tubi Xtra (Internacional) [No 24/7],,,sin_coincidencia,no,0,0
-Fox (TUBI Internacional),,,sin_coincidencia,no,0,0
-Tigo Sports HD BO [Inestable],,,sin_coincidencia,no,0,0
-Tigo Sports + HD PY [Inestable],,,sin_coincidencia,no,0,0
-FOX,,,nombre_ambiguo,no,0,0
-FOX [Opc.2],,,sin_coincidencia,no,0,0
-FOX [Opc.3],,,sin_coincidencia,no,0,0
-FOX [Opc.4],,,sin_coincidencia,no,0,0
-FOX [Opc.5],,,sin_coincidencia,no,0,0
-FOX [Opc.6],,,sin_coincidencia,no,0,0
-FOX [Opc.7],,,sin_coincidencia,no,0,0
-FOX [Opc.8],,,sin_coincidencia,no,0,0
-FOX [Opc.9],,,sin_coincidencia,no,0,0
-FOX [Opc.10],,,sin_coincidencia,no,0,0
-FOX ESA HD,,,sin_coincidencia,no,0,0
-FOX ESA HD (Opc.2),,,sin_coincidencia,no,0,0
-FOX HN [Inestable],,,sin_coincidencia,no,0,0
-FOX CR [Inestable],,,sin_coincidencia,no,0,0
-FOX  GUA,,,sin_coincidencia,no,0,0
-FOX  GUA [Opc.2],,,sin_coincidencia,no,0,0
-FOX NIC,,,sin_coincidencia,no,0,0
-FOX NIC [Inestable],,,sin_coincidencia,no,0,0
-Claro Sports (México),,,sin_coincidencia,no,0,0
-Claro Sports SD,,,sin_coincidencia,no,0,0
-Claro Sports SD (opc.2),,,sin_coincidencia,no,0,0
-Nitro HD Eventos Deportivos [No 24/7],,,sin_coincidencia,no,0,0
-Eventos Deportivos HD V1 [No 24/7],,,sin_coincidencia,no,0,0
-Eventos Deportivos HD V2 [No 24/7],,,sin_coincidencia,no,0,0
-Eventos PRO HD  [No 24/7],,,sin_coincidencia,no,0,0
-Eventos PRO HD 2  [No 24/7],,,sin_coincidencia,no,0,0
-Eventos PRO HD 3  [No 24/7],,,sin_coincidencia,no,0,0
-Mundo Deportivo [No 24/7],,,sin_coincidencia,no,0,0
-CazéTV (BR) [Geo-Blocked],,,sin_coincidencia,no,0,0
-Multivisión Sports -Clasicos- (Guatemala) [No 24/7],,,sin_coincidencia,no,0,0
-TVQ Sports [No 24/7 ] (Guatemala),,,sin_coincidencia,no,0,0
-FUTV (Costa Rica),,,sin_coincidencia,no,0,0
-Via X Esports,ViaXEsports.cl,Via X Esports,coincidencia_exacta,sí,0,0
-SportMax News,,,sin_coincidencia,no,0,0
-Telemundo Deportes Ahora (Internacional)[1080p],,,sin_coincidencia,no,0,0
-Telemundo Deportes Ahora (Internacional)[720p],,,sin_coincidencia,no,0,0
-Telemundo Deportes Ahora (Internacional),,,sin_coincidencia,no,0,0
-Azteca Deportes Network HD,,,sin_coincidencia,no,0,0
-Azteca Deportes Network SD,,,sin_coincidencia,no,0,0
-Azteca Deportes Network 3 HD,,,sin_coincidencia,no,0,0
-ITV Deportes (Internacional),,,sin_coincidencia,no,0,0
-CombaTV (Internacional),,,sin_coincidencia,no,0,0
-Lucha Plus (Internacional),,,sin_coincidencia,no,0,0
-SFT Combat (BR),,,sin_coincidencia,no,0,0
-CombaTV (ES),,,sin_coincidencia,no,0,0
-UFC (EE.UU.) [EN],,,sin_coincidencia,no,0,0
-UFC (EE.UU.) [EN][Opc.2],,,sin_coincidencia,no,0,0
-Glory Kickboxing (EE.UU.) [EN],,,sin_coincidencia,no,0,0
-PFL MMA (EE.UU.) [EN],,,sin_coincidencia,no,0,0
-Hard Knocks MMA (EE.UU.) [EN],,,sin_coincidencia,no,0,0
-beIN Sports (Internacional),,,sin_coincidencia,no,0,0
-TUDN [Opc.1],,,sin_coincidencia,no,0,0
-TUDN [Opc.2],,,sin_coincidencia,no,0,0
-TUDN [Opc.3],,,sin_coincidencia,no,0,0
-TOP Barça [ES],,,sin_coincidencia,no,0,0
-TOP Barça [EN],,,sin_coincidencia,no,0,0
-Real Madrid TV (España),,,sin_coincidencia,no,0,0
-L1,,,nombre_ambiguo,no,0,0
-L1 [Opc.2],,,sin_coincidencia,no,0,0
-L1 [Opc.3],,,sin_coincidencia,no,0,0
-L1 MAX,L1Max.pe,L1 Max,coincidencia_exacta,sí,0,0
-L1 MAX [Opc.2],,,sin_coincidencia,no,0,0
-L1 MAX [Opc.2],,,sin_coincidencia,no,0,0
-BUNDES LIGA,,,sin_coincidencia,no,0,0
-Canal del Futbol (Ecuador)[Opc.1],,,sin_coincidencia,no,0,0
-TyC Sports (Internacional),,,sin_coincidencia,no,0,0
-TyC Sports SD (Internacional),,,sin_coincidencia,no,0,0
-TyC Sports AR,,,sin_coincidencia,no,0,0
-TyC Sports,TyCSports.ar,TyC Sports,coincidencia_exacta,sí,4,0
-TyC Sports [Opc.2],,,sin_coincidencia,no,0,0
-TyC Sports [Opc.3],,,sin_coincidencia,no,0,0
-TNT Sports,,,nombre_ambiguo,no,0,0
-TNT Sports[Opc.2],,,sin_coincidencia,no,0,0
-TNT Sports[Opc.3],,,sin_coincidencia,no,0,0
-TNT Sports Premium,,,sin_coincidencia,no,0,0
-TNT Sports Premium[Opc.2],,,sin_coincidencia,no,0,0
-TNT Sports Premium[Opc.3],,,sin_coincidencia,no,0,0
-Deportes13 (Chile),,,sin_coincidencia,no,0,0
-Teletrak TV (Chile),,,sin_coincidencia,no,0,0
-Turf Móvil (Chile),,,sin_coincidencia,no,0,0
-Monterrico TV (Perú) [Not 24/7],,,sin_coincidencia,no,0,0
-Ovacion TV (Perú) [Not 24/7],,,sin_coincidencia,no,0,0
-SportMax,,,sin_coincidencia,no,0,0
-SportMax 2,,,sin_coincidencia,no,0,0
-Box Gamers (España),,,sin_coincidencia,no,0,0
-PowerNation (Internacional),,,sin_coincidencia,no,0,0
-Motorvision TV (Internacional),,,sin_coincidencia,no,0,0
-World Poker Tour (Internacional),,,sin_coincidencia,no,0,0
-Red Bull TV (ES) (Internacional),,,sin_coincidencia,no,0,0
-FUEL TV (Internacional) [SUB],,,sin_coincidencia,no,0,0
-Tennis + (EE.UU.) [EN],,,sin_coincidencia,no,0,0
-Women's Sports Network (EE.UU.) [EN],,,sin_coincidencia,no,0,0
-MTRSPT1 (EE.UU.) [EN],,,sin_coincidencia,no,0,0
-Racer International (EE.UU.) [EN],,,sin_coincidencia,no,0,0
-Rally TV FAST (EE.UU.) [EN],,,sin_coincidencia,no,0,0
-RedBull TV (EE.UU.) [EN],,,sin_coincidencia,no,0,0
-World Billiards TV (EE.UU.) [EN],,,sin_coincidencia,no,0,0
-DSports [Opc. 1],,,sin_coincidencia,no,0,0
-DSports  [Opc. 2],,,sin_coincidencia,no,0,0
-DSports  [Opc. 3],,,sin_coincidencia,no,0,0
-DSports  [Opc. 4],,,sin_coincidencia,no,0,0
-DSports  [Opc. 5],,,sin_coincidencia,no,0,0
-DSports 2,DSports2.us,DSports 2,coincidencia_exacta,sí,0,0
-DSports 2  [Opc.2],,,sin_coincidencia,no,0,0
-DSports 2  [Opc.3],,,sin_coincidencia,no,0,0
++Perfil,PlusPerfil.ar,+Perfil,coincidencia_exacta,sí,0,0
+13T (720p),13T.cl@SD,,sin_coincidencia,no,0,0
+24/7 Canal de Noticias,247CanaldeNoticias.ar,24/7 Canal de Noticias,coincidencia_exacta,sí,1,0
+30A Golf Kingdom,30AGolfKingdom.us,30A Golf Kingdom,coincidencia_exacta,sí,0,0
+5tv,5tv.ar@SD,,nombre_ambiguo,no,0,0
+5TV | AR,249,5TV,sin_coincidencia,no,0,0
+5TV Corrientes (480p),5tv.ar@SD,,sin_coincidencia,no,0,0
+5TV Corrientes  AR | 5TV Corrientes,,,sin_coincidencia,no,0,0
+A&E (1080i),AandE.ar,,sin_coincidencia,no,0,0
+A&E (1080p),AandE.ar,,sin_coincidencia,no,0,0
+A24,A24.ar,A24,coincidencia_exacta,sí,4,0
+A24,A24.ar,A24,coincidencia_exacta,sí,4,0
+A24 (720p),A24.ar,,sin_coincidencia,no,4,0
+A24 (YouTube),,,sin_coincidencia,no,0,0
+ABTV Bariloche,ABTVBariloche.ar,ABTV Bariloche,coincidencia_exacta,sí,0,0
+ACC Digital Network,ACCDigitalNetwork.us,ACC Digital Network,coincidencia_exacta,sí,4,0
+ACC Network (sólo escritorio),ACCNetwork.us@SD,,sin_coincidencia,no,0,0
+Acequia TV (720p) (YouTube),,,sin_coincidencia,no,0,0
+Adrenalina Pura TV (YouTube),,,sin_coincidencia,no,0,0
+Adrenalina Pura TV (720p),AdrenalinaPuraTV.us@SD,,sin_coincidencia,no,0,0
+Adult Swim,Adult Swim.ar,,nombre_ambiguo,no,0,0
+Adult Swim Latin America (1080p) [Geo-blocked],AdultSwimLatinAmerica.us@Panregional,,sin_coincidencia,no,0,0
+Agrotendencia TV (1080p),AgrotendenciaTV.cr,,sin_coincidencia,no,2,0
+Aire de Santa Fe,AiredeSantaFe.ar,Aire de Santa Fe,coincidencia_exacta,sí,0,0
+Aire de Santa Fe,AiredeSantaFe.ar,Aire de Santa Fe,coincidencia_exacta,sí,0,0
+Aire de Santa Fe | AR,252,Aire de Santa Fe,sin_coincidencia,no,0,0
+AL Jazeera Arabic Live  AR:AL Jazeera Arabic Live,,,sin_coincidencia,no,0,0
+AL Jazeera Mubashe  AR:AL Jazeera Mubashe,,,sin_coincidencia,no,0,0
+AlternaTV (720p),AlternaTV.ar@SD,,sin_coincidencia,no,0,0
+América Tucumán (720p) (YouTube),,,sin_coincidencia,no,0,0
+America TV (720p),AmericaTV.ar@SD,,sin_coincidencia,no,0,0
+América TV (720p),AmericaTV.ar,,sin_coincidencia,no,2,0
+America TV (YouTube),,,sin_coincidencia,no,0,0
+Animal Planet,AnimalPlanet.ar,,nombre_ambiguo,no,0,0
+Anime Zone TV,AnimeZoneTV.do,Anime Zone TV,coincidencia_exacta,sí,0,0
+AnimeStation ✪ | AR,1081,AnimeStation,sin_coincidencia,no,0,0
+AR | Net TV  Net TV,,,sin_coincidencia,no,0,0
+Argentina 12 (YouTube),,,sin_coincidencia,no,0,0
+Argentinisima Satelital,ArgentinisimaSatelital.ar,Argentinisima Satelital,coincidencia_exacta,sí,2,0
+Argentinisima Satelital | AR,253,Argentinisima Satelital,sin_coincidencia,no,0,0
+AS3 Sport TV,AS3SportTV.ve,AS3 Sport TV,coincidencia_exacta,sí,0,0
+Aurora Media Films (720p),AuroraMediaFilms.gt@SD,,sin_coincidencia,no,0,0
+AVI Rewind (1080p),AVIRewind.us@SD,,sin_coincidencia,no,0,0
+AXN,AXN.ar,,nombre_ambiguo,no,0,0
+AXN Latin America (1080p),AXNLatinAmerica.us@CentralAmerica,,sin_coincidencia,no,0,0
+AXN Latin America Andes (1080p),AXNLatinAmerica.us@Andes,,sin_coincidencia,no,0,0
+AyM Sports,AyMSports.mx,AyM Sports,coincidencia_exacta,sí,3,0
+Az Corazon (720p),Az Corazón.ar,,sin_coincidencia,no,0,0
+Azahares Radiovisual Multimedia (720p),AzaharesRadiovisualMultimedia.ar@SD,,sin_coincidencia,no,0,0
+Azteca Deportes Network,AztecaDeportesNetwork.mx,Azteca Deportes Network,coincidencia_exacta,sí,0,0
+Azteca Noticias (YouTube),,,sin_coincidencia,no,0,0
+Baby First,BabyFirst.us,,sin_coincidencia,no,4,0
+BabyTV,BabyTV.uk,BabyTV,coincidencia_exacta,sí,35,0
+Barricada TV,BarricadaTV.ar,Barricada TV,coincidencia_exacta,sí,0,0
+Barricada TV (YouTube),,,sin_coincidencia,no,0,0
+BBC Drama (1080p),BBCDrama.uk@Spain,,sin_coincidencia,no,0,0
+Beats Radio (480p),BeatsRadio.ar@SD,,sin_coincidencia,no,0,0
+beIN SPORTS XTRA,beINSPORTSXTRA.us,beIN SPORTS XTRA,coincidencia_exacta,sí,10,0
+BEK Sports West,BEKSports.us@West,,sin_coincidencia,no,0,0
+Bellator MMA,BellatorMMA.us,Bellator MMA,coincidencia_exacta,sí,3,0
+Bob Esponja Pantalones Cuadrados,BobEsponjaPantalonesCuadrados.us,Bob Esponja Pantalones Cuadrados,coincidencia_exacta,sí,0,0
+Boreal (720p),Boreal.do@SD,,sin_coincidencia,no,0,0
+Bragado TV,BragadoTV.ar,Bragado TV,coincidencia_exacta,sí,0,0
+BVC,BVC.ar,BVC,coincidencia_exacta,sí,0,0
+C5N (YouTube),,,sin_coincidencia,no,0,0
+C5N (YouTube),,,sin_coincidencia,no,0,0
+Cable Imagen Armstrong (540p),CableImagenArmstrong.ar@SD,,sin_coincidencia,no,0,0
+Cadena 103,224,,sin_coincidencia,no,0,0
+Cadena 103 (720p),Cadena103TV.ar@SD,,sin_coincidencia,no,0,0
+Cadena 3 Argentina (YouTube),,,sin_coincidencia,no,0,0
+Cadena103.TV,Cadena103TV.ar,Cadena103.TV,coincidencia_exacta,sí,0,0
+Campeones (YouTube),,,sin_coincidencia,no,0,0
+Canal 10 Cordoba (YouTube),,,sin_coincidencia,no,0,0
+Canal 10 de Junín (720p) [Not 24/7],Canal10deJunin.ar,,sin_coincidencia,no,0,0
+Canal 10 Tucumán (YouTube),,,sin_coincidencia,no,0,0
+Canal 12 Trenque Lauquen (YouTube),,,sin_coincidencia,no,0,0
+Canal 12 Venado Tuerto (1080i),Canal12VenadoTuerto.ar@SD,,sin_coincidencia,no,0,0
+Canal 13 Jujuy (720p),Canal13Jujuy.ar@SD,,sin_coincidencia,no,0,0
+Canal 13 La Rioja,Canal13LaRioja.ar,Canal 13 La Rioja,coincidencia_exacta,sí,0,0
+Canal 13 La Rioja (480p),Canal13LaRioja.ar@SD,,sin_coincidencia,no,0,0
+Canal 13 San Juan (1080p) (YouTube),,,sin_coincidencia,no,0,0
+Canal 2 de Ushuaia (1080p),Canal2deUshuaia.ar@SD,,sin_coincidencia,no,0,0
+Canal 2 Gualeguay,Canal2Gualeguay.ar,Canal 2 Gualeguay,coincidencia_exacta,sí,0,0
+Canal 2 Mar del Plata (720p),Canal2MardelPlata.ar@SD,,sin_coincidencia,no,0,0
+Canal 2 Misiones,Canal2Misiones.ar,Canal 2 Misiones,coincidencia_exacta,sí,0,0
+Canal 2 Misiones | AR,1182,Canal 2 Misiones,sin_coincidencia,no,0,0
+Canal 21 Misiones,1057,,sin_coincidencia,no,0,0
+Canal 21 TV (1080p),Canal21TV.ar@SD,,sin_coincidencia,no,0,0
+Canal 22 (YouTube),,,sin_coincidencia,no,0,0
+Canal 26,Canal26.ar@SD,,nombre_ambiguo,no,0,0
+Canal 26 (YouTube),,,sin_coincidencia,no,0,0
+Canal 3 Formosa,Canal3Formosa.ar,Canal 3 Formosa,coincidencia_exacta,sí,0,0
+Canal 3 Formosa | AR,1347,Canal 3 Formosa,sin_coincidencia,no,0,0
+Canal 3 La Pampa,Canal3LaPampa.ar,Canal 3 La Pampa,coincidencia_exacta,sí,0,0
+Canal 3 La Pampa | AR,776,Canal 3 La Pampa,sin_coincidencia,no,0,0
+Canal 3 Las Heras (720p),Canal3LasHeras.ar@SD,,sin_coincidencia,no,0,0
+Canal 3 Las Heras | AR,231,Canal 3 Las Heras,sin_coincidencia,no,0,0
+Canal 3 Pinamar,Canal3Pinamar.ar,Canal 3 Pinamar,coincidencia_exacta,sí,0,0
+Canal 3 Pinamar,Canal3Pinamar.ar,Canal 3 Pinamar,coincidencia_exacta,sí,0,0
+Canal 3 Salta,1794,,sin_coincidencia,no,0,0
+Canal 3 Tacural,Canal3Tacural.ar,Canal 3 Tacural,coincidencia_exacta,sí,0,0
+Canal 34 San Juan,Canal34SanJuan.ar,Canal 34 San Juan,coincidencia_exacta,sí,0,0
+Canal 34 San Juan | AR,1346,Canal 34 San Juan,sin_coincidencia,no,0,0
+Canal 4 Esquel,Canal4Esquel.ar,Canal 4 Esquel,coincidencia_exacta,sí,0,0
+Canal 4 Esquel | AR,780,Canal 4 Esquel,sin_coincidencia,no,0,0
+Canal 4 Jujuy,Canal4Jujuy.ar,Canal 4 Jujuy,coincidencia_exacta,sí,0,0
+Canal 4 Jujuy | AR,258,Canal 4 Jujuy,sin_coincidencia,no,0,0
+Canal 4 Posadas,Canal4Posadas.ar,Canal 4 Posadas,coincidencia_exacta,sí,0,0
+Canal 4 Posadas | AR,259,Canal 4 Posadas,sin_coincidencia,no,0,0
+Canal 4 San Juan,Canal4SanJuan.ar,Canal 4 San Juan,coincidencia_exacta,sí,0,0
+Canal 4 San Juan | AR,260,Canal 4 San Juan,sin_coincidencia,no,0,0
+Canal 4 Teleaire,Canal4Teleaire.ar,Canal 4 Teleaire,coincidencia_exacta,sí,0,0
+Canal 4 Villa Dolores,Canal4VillaDolores.ar,Canal 4 Villa Dolores,coincidencia_exacta,sí,0,0
+Canal 5 Pico Truncado,Canal5PicoTruncado.ar,Canal 5 Pico Truncado,coincidencia_exacta,sí,0,0
+Canal 5 Pico Truncado | AR,778,Canal 5 Pico Truncado,sin_coincidencia,no,0,0
+Canal 5 Santa Fe (240p),Canal5SantaFe.ar@SD,,sin_coincidencia,no,0,0
+Canal 5 Santa Fe | AR,773,Canal 5 Santa Fe,sin_coincidencia,no,0,0
+Canal 5 Tucuman | AR,1138,Canal 5 Tucuman,sin_coincidencia,no,0,0
+Canal 5 TV Chepes,Canal5TVChepes.ar,Canal 5 TV Chepes,coincidencia_exacta,sí,0,0
+Canal 5 TV Tandil,Canal5TVTandil.ar,Canal 5 TV Tandil,coincidencia_exacta,sí,0,0
+Canal 50 Morteros,Canal50Morteros.ar,Canal 50 Morteros,coincidencia_exacta,sí,0,0
+Canal 50 Morteros | AR,232,Canal 50 Morteros,sin_coincidencia,no,0,0
+Canal 6 Entre Rios (YouTube),,,sin_coincidencia,no,0,0
+Canal 6 Posadas,Canal6Posadas.ar,Canal 6 Posadas,coincidencia_exacta,sí,0,0
+Canal 6 Posadas | AR,262,Canal 6 Posadas,sin_coincidencia,no,0,0
+Canal 6 Viento Recio,Canal6VientoRecio.ar,Canal 6 Viento Recio,coincidencia_exacta,sí,0,0
+Canal 7 Chubut (720p) (YouTube),,,sin_coincidencia,no,0,0
+Canal 7 Jujuy,Canal7Jujuy.ar,Canal 7 Jujuy,coincidencia_exacta,sí,1,0
+Canal 7 Jujuy | AR,264,Canal 7 Jujuy,sin_coincidencia,no,0,0
+Canal 7 Salta (1080p),Canal7Salta.ar@SD,,sin_coincidencia,no,0,0
+Canal 7 Salta (720p),Canal7Salta.ar@SD,,sin_coincidencia,no,0,0
+Canal 7 Santiago del Estero,1350,,sin_coincidencia,no,0,0
+Canal 7 TV (720p),Canal7TV.ar@SD,,sin_coincidencia,no,0,0
+Canal 79 La Costa (240p),Canal79LaCosta.ar@SD,,sin_coincidencia,no,0,0
+Canal 79 Mar del Plata,Canal79MardelPlata.ar,Canal 79 Mar del Plata,coincidencia_exacta,sí,0,0
+Canal 79 Mar del Plata | AR,272,Canal 79 Mar del Plata,sin_coincidencia,no,0,0
+Canal 79 Puan (240p),Canal79Puan.ar@SD,,sin_coincidencia,no,0,0
+Canal 79 Santa Clara del Mar (240p),Canal79SantaClaradelMar.ar@SD,,sin_coincidencia,no,0,0
+Canal 79 Villa Maza,Canal79VillaMaza.ar,Canal 79 Villa Maza,coincidencia_exacta,sí,0,0
+Canal 8 Mar del Plata,Canal8MardelPlata.ar,Canal 8 Mar del Plata,coincidencia_exacta,sí,0,0
+Canal 8 San Juan (720p),Canal8SanJuan.ar@SD,,sin_coincidencia,no,0,0
+Canal 8 San Juan (720p) (YouTube),,,sin_coincidencia,no,0,0
+Canal 9 Link,Canal9Link.ar,Canal 9 Link,coincidencia_exacta,sí,0,0
+Canal 9 Resistencia (720p),Canal9Resistencia.ar@SD,,sin_coincidencia,no,0,0
+Canal 9 Televida,Canal9Televida.ar,Canal 9 Televida,coincidencia_exacta,sí,0,0
+Canal 907 FM Comunicar,273,,sin_coincidencia,no,0,0
+Canal 99 Miramar,Canal99Miramar.ar,Canal 99 Miramar,coincidencia_exacta,sí,0,0
+Canal Cine Dios,CanalCineDios.co,Canal Cine Dios,coincidencia_exacta,sí,0,0
+Canal CNR (480p) (YouTube),,,sin_coincidencia,no,0,0
+Canal Coop,CanalCoop.ar,Canal Coop,coincidencia_exacta,sí,0,0
+Canal de la Ciudad (YouTube),,,sin_coincidencia,no,0,0
+Canal E (YouTube),,,sin_coincidencia,no,0,0
+Canal Luz (1080p) [Not 24/7],CANAL LUZ.ar,,sin_coincidencia,no,0,0
+Canal Luz (YouTube),,,sin_coincidencia,no,0,0
+Canal Orbe 21,CanalOrbe21.ar,Canal Orbe 21,coincidencia_exacta,sí,1,0
+Canal Pulpo TV,CanalPulpoTV.ar,Canal Pulpo TV,coincidencia_exacta,sí,0,0
+Canal Rural (YouTube),,,sin_coincidencia,no,0,0
+Canal TDC,CanalTDC.ar,Canal TDC,coincidencia_exacta,sí,0,0
+Canal Universidad,CanalUniversidad.ar,Canal Universidad,coincidencia_exacta,sí,0,0
+Caras TV,CarasTV.ar,Caras TV,coincidencia_exacta,sí,0,0
+Caras TV,CarasTV.ar,Caras TV,coincidencia_exacta,sí,0,0
+Caras TV | AR,1603,Caras TV,sin_coincidencia,no,0,0
+Caso Cerrado (YouTube),,,sin_coincidencia,no,0,0
+Catamarca TV,CatamarcaTV.ar,Catamarca TV,coincidencia_exacta,sí,0,0
+Catamarca TV | AR,203,Catamarca TV,sin_coincidencia,no,0,0
+CBS Sports Golazo Network,CBSSportsGolazoNetwork.us@SD,,nombre_ambiguo,no,0,0
+CBS Sports HQ,CBSSportsHQ.us,CBS Sports HQ,coincidencia_exacta,sí,6,0
+CDN Deportes,CDNDeportes.do,CDN Deportes,coincidencia_exacta,sí,1,0
+Celta TV,CeltaTV.ar,Celta TV,coincidencia_exacta,sí,0,0
+Celta TV | AR,815,Celta TV,sin_coincidencia,no,0,0
+CGTN Español (YouTube),,,sin_coincidencia,no,0,0
+Chaco TV,ChacoTV.ar,Chaco TV,coincidencia_exacta,sí,0,0
+Chaco TV | AR,279,Chaco TV,sin_coincidencia,no,0,0
+Chamame TV,ChamameTV.ar,Chamame TV,coincidencia_exacta,sí,0,0
+Cine Adrenalina,CineAdrenalina.us,Cine Adrenalina,coincidencia_exacta,sí,2,0
+Cine Amor,CineAmor.us,Cine Amor,coincidencia_exacta,sí,1,0
+Cine Familiar (1080p),CineFamiliar.us@SD,,sin_coincidencia,no,0,0
+Cine Friki (1080p),CineFriki.es@SD,,sin_coincidencia,no,0,0
+Cine Hispano (1080p),CineHispano.us@SD,,sin_coincidencia,no,0,0
+Cine Mexicano (YouTube),,,sin_coincidencia,no,0,0
+Cine Premiere,CinePremiere.us,Cine Premiere,coincidencia_exacta,sí,2,0
+Cine Premium (1080p),CinePremium.us@SD,,sin_coincidencia,no,0,0
+Cine Sony (720p),CineSony.us@SD,,sin_coincidencia,no,0,0
+Cine Terror,CineTerror.us,Cine Terror,coincidencia_exacta,sí,8,0
+Cine Western (1080p),CineWestern.es@SD,,sin_coincidencia,no,0,0
+Cinecanal,Cinecanal.us,Cinecanal,coincidencia_exacta,sí,8,0
+Cinecanal Pacific (1080p),Cinecanal.us@Pacific,,sin_coincidencia,no,0,0
+CineLatino (720p),Cinelatino.ar,,sin_coincidencia,no,0,0
+Ciudad Magazine,CiudadMagazine.ar,Ciudad Magazine,coincidencia_exacta,sí,3,0
+Ciudad Magazine (1080p),CiudadMagazine.ar,,sin_coincidencia,no,3,0
+Ciudad Magica (720p),CiudadMagica.ar@SD,,sin_coincidencia,no,0,0
+Ciudad Magica TV,1132,,sin_coincidencia,no,0,0
+Ciudad TV Resistencia,CiudadTVResistencia.ar,Ciudad TV Resistencia,coincidencia_exacta,sí,0,0
+Ciudad TV Resistencia | AR,1353,Ciudad TV Resistencia,sin_coincidencia,no,0,0
+Claro Cinema (1080p),ClaroCinema.mx@SD,,sin_coincidencia,no,0,0
+Claro Sports,ClaroSports.mx,Claro Sports,coincidencia_exacta,sí,1,0
+CNN en Español (YouTube),,,sin_coincidencia,no,0,0
+Colimdo TV,ColimdoTV.do,Colimdo TV,coincidencia_exacta,sí,0,0
+Comarca TV (YouTube),,,sin_coincidencia,no,0,0
+Comedy Central HD,ComedyCentral.ar,,sin_coincidencia,no,0,0
+Correa Radiovision,CorreaRadiovision.ar,Correa Radiovision,coincidencia_exacta,sí,0,0
+Corrientes TV,CorrientesTV.ar,Corrientes TV,coincidencia_exacta,sí,0,0
+Corrientes TV,CorrientesTV.ar,Corrientes TV,coincidencia_exacta,sí,0,0
+Cosmos Tv,CosmosTv.ar@HD,,nombre_ambiguo,no,0,0
+Cosmos Tv SD,CosmosTv.ar@SD,,sin_coincidencia,no,0,0
+Cosmos Tv (720p),,,sin_coincidencia,no,0,0
+Cosmos TV | AR,1143,Cosmos TV,sin_coincidencia,no,0,0
+Cricket Gold,CricketGold.au,Cricket Gold,coincidencia_exacta,sí,9,0
+Crimen e Investigación (YouTube),,,sin_coincidencia,no,0,0
+Crónica TV (YouTube),,,sin_coincidencia,no,0,0
+Crossing TV,CrossingCanalIPTV.ar,,sin_coincidencia,no,0,0
+CRTV (Chile),TVChile.cr,,sin_coincidencia,no,0,0
+Cumbia Mix (720p),CumbiaMix.ar@HD,,sin_coincidencia,no,0,0
+Danilo Montero (YouTube),,,sin_coincidencia,no,0,0
+Daria,Daria.us,Daria,coincidencia_exacta,sí,0,0
+DAZN 1,DAZN1.uk,DAZN 1,coincidencia_exacta,sí,10,0
+DAZN F1,DAZNF1.uk,DAZN F1,coincidencia_exacta,sí,0,0
+De Pelicula,De Película.ar,,sin_coincidencia,no,0,0
+De Película Latin America (1080p),DePeliculaLatinAmerica.mx@SD,,sin_coincidencia,no,0,0
+De Película Plus (1080p),DePeliculaPlus.mx@SD,,sin_coincidencia,no,0,0
+De Película US (720p),DePeliculaUS.us@SD,,sin_coincidencia,no,0,0
+DeporTV,DeporTV.ar,DeporTV,coincidencia_exacta,sí,1,0
+Diario El Litoral (YouTube),,,sin_coincidencia,no,0,0
+Diputados TV (1080p) (YouTube),,,sin_coincidencia,no,0,0
+Discovery Science,DISCOVERY SCIENCE.ar,,nombre_ambiguo,no,0,0
+Discovery Turbo,DiscoveryTurbo.ar,,nombre_ambiguo,no,0,0
+Discovery World HD,DISCOVERY WORLD.ar,,sin_coincidencia,no,0,0
+Disney Channel Latin America (1080p),DisneyChannelLatinAmerica.ar@Panregional,,sin_coincidencia,no,0,0
+Disney Channel Latin America (1080p),DisneyChannelLatinAmerica.ar@Panregional,,sin_coincidencia,no,0,0
+Disney Channel Latin America (720p),DisneyChannelLatinAmerica.ar@Panregional,,sin_coincidencia,no,0,0
+Disney Channel Latin America Center (1080p),DisneyChannelLatinAmerica.ar@Center,,sin_coincidencia,no,0,0
+Disney Channel Latin America Mexico (720p),DisneyChannelLatinAmerica.ar@Mexico,,sin_coincidencia,no,0,0
+Disney Channel Latin America North (576p),DisneyChannelLatinAmerica.ar@North,,sin_coincidencia,no,0,0
+Disney Channel Latin America Panregional HD (1080p),DisneyChannelLatinAmerica.ar@PanregionalHD,,sin_coincidencia,no,0,0
+Disney Jr.,DISNEY JR.ar,,nombre_ambiguo,no,0,0
+Disney Jr. Latin America (1080p),DisneyJrLatinAmerica.ar@North,,sin_coincidencia,no,0,0
+Disney Jr. Latin America (576p),DisneyJrLatinAmerica.ar@Panregional,,sin_coincidencia,no,0,0
+Disney Jr. Latin America South,DisneyJrLatinAmerica.ar@South,,sin_coincidencia,no,0,0
+Disney Jr. Latin America South (1080p),DisneyJrLatinAmerica.ar@South,,sin_coincidencia,no,0,0
+Disney Jr. Latin America South HD (1080p),DisneyJrLatinAmerica.ar@SouthHD,,sin_coincidencia,no,0,0
+Disney Jr. Latin America South HD (1080p),DisneyJrLatinAmerica.ar@SouthHD,,sin_coincidencia,no,0,0
+Distrito Comedia (YouTube),,,sin_coincidencia,no,0,0
+DraftKings Network,DraftKingsNetwork.us,DraftKings Network,coincidencia_exacta,sí,2,0
+DSports,DSports.us@Panregional,,nombre_ambiguo,no,0,0
+DSports (1080p),DSports.us@Panregional,,sin_coincidencia,no,0,0
+DSports (720p) 1,DSports.us@Panregional,,sin_coincidencia,no,0,0
+DSports (720p) 2,DSports.us@Panregional,,sin_coincidencia,no,0,0
 DSports +,,,nombre_ambiguo,no,0,0
-DSports +  [Opc.2],,,sin_coincidencia,no,0,0
-FOX + PREMIER LIGA,,,sin_coincidencia,no,0,0
-FOX Sport Premiumm,,,sin_coincidencia,no,0,0
-FOX Sports,,,nombre_ambiguo,no,0,0
-FOX Sports [Opc.2],,,sin_coincidencia,no,0,0
-FOX Sports 2 (USA)[Opc.1],,,sin_coincidencia,no,0,0
-FOX Sports 2 (USA)[Opc.2],,,sin_coincidencia,no,0,0
-FOX Sports 3 (USA),,,sin_coincidencia,no,0,0
-FOX Sports 3 (USA)[Opc.2],,,sin_coincidencia,no,0,0
-Win Sports HD,,,sin_coincidencia,no,0,0
-Win Sports SD [Opc.2],,,sin_coincidencia,no,0,0
-Win Sports HD [Opc.3],,,sin_coincidencia,no,0,0
-Win+ HD,,,sin_coincidencia,no,0,0
-Win+ HD [Opc.2],,,sin_coincidencia,no,0,0
-Win+ HD [Opc.3],,,sin_coincidencia,no,0,0
-Movistar Deportes,,,nombre_ambiguo,no,0,0
-Movistar Deportes[Opc.2],,,sin_coincidencia,no,0,0
-Movistar Deportes[Opc.3],,,sin_coincidencia,no,0,0
-ESPN HD,,,sin_coincidencia,no,0,0
-ESPN 2 HD,,,sin_coincidencia,no,0,0
-ESPN 3 HD,,,sin_coincidencia,no,0,0
-ESPN 4 HD,,,sin_coincidencia,no,0,0
-ESPN 5 HD,,,sin_coincidencia,no,0,0
-ESPN 6 HD,,,sin_coincidencia,no,0,0
-ESPN Premium [Opc.1],,,sin_coincidencia,no,0,0
-ESPN (Perú),,,sin_coincidencia,no,0,0
-ESPN 7,,,sin_coincidencia,no,0,0
-ESPN SD (Opc.2),,,sin_coincidencia,no,0,0
-ESPN 2 (Opc.2),,,sin_coincidencia,no,0,0
-ESPN 3 HD (Opc.2),,,sin_coincidencia,no,0,0
-ESPN 4 HD (Opc.2),,,sin_coincidencia,no,0,0
-ESPN 5 SD (Opc.2),,,sin_coincidencia,no,0,0
-ESPN 6 (Opc.2),,,sin_coincidencia,no,0,0
-ESPN 7 (Opc.2),,,sin_coincidencia,no,0,0
-ESPN CO (Opc.2),,,sin_coincidencia,no,0,0
-ESPN Premium HD (Opc.2),,,sin_coincidencia,no,0,0
-ESPN HD - (Opc.3),,,sin_coincidencia,no,0,0
-ESPN2 HD - (Opc.3),,,sin_coincidencia,no,0,0
-ESPN4 HD - (Opc.3),,,sin_coincidencia,no,0,0
-ESPN5 HD - (Opc.3),,,sin_coincidencia,no,0,0
-ESPN6 HD - (Opc.3),,,sin_coincidencia,no,0,0
-ESPN7 HD - (Opc.3),,,sin_coincidencia,no,0,0
-Enlace TBN (Internacional),,,sin_coincidencia,no,0,0
-EWTN (Internacional),,,sin_coincidencia,no,0,0
-Bethel TV (Internacional),,,sin_coincidencia,no,0,0
-ESNE TV,ESNETV.us,ESNE TV,coincidencia_exacta,sí,2,0
-TV Maná Español (Internacional),,,sin_coincidencia,no,0,0
-CBN Español (Internacional),,,sin_coincidencia,no,0,0
-Sophia TV Español (Internacional),,,sin_coincidencia,no,0,0
-EJTV (Internacional),,,sin_coincidencia,no,0,0
-Spirit TV HD (EN),,,sin_coincidencia,no,0,0
-Vive Musica HD (EN),,,sin_coincidencia,no,0,0
-TVO Jesus (Argentina),,,sin_coincidencia,no,0,0
-Ágape TV Canal 8 (El Salvador),,,sin_coincidencia,no,0,0
-TaberTV (El Salvador),,,sin_coincidencia,no,0,0
-Josué TV (El Salvador),,,sin_coincidencia,no,0,0
-El Camino TV (El Salvador),,,sin_coincidencia,no,0,0
-TV Getsemaní (El Salvador),,,sin_coincidencia,no,0,0
-TV León de Judá (El Salvador),,,sin_coincidencia,no,0,0
-TV CRET (El Salvador),,,sin_coincidencia,no,0,0
-Ministerios Ebenezer (Guatemala),,,sin_coincidencia,no,0,0
-Ebenezer TV (Honduras / San Pedro Sula),,,sin_coincidencia,no,0,0
-Vida al Maximo TV,,,sin_coincidencia,no,0,0
-Unife TV (Perú),,,sin_coincidencia,no,0,0
-Canal Orbe 21 (Argentina),,,sin_coincidencia,no,0,0
-TV Solidaria Remar (Argentina),,,sin_coincidencia,no,0,0
-Canal 13 Jujuy (Argentina),,,sin_coincidencia,no,0,0
-Canal 4 San Juan (Argentina),,,sin_coincidencia,no,0,0
-Canal 55 Telemorisco TV [No 24/7] (Colombia - Bogotá),,,sin_coincidencia,no,0,0
-Avivamiento TV (Colombia),,,sin_coincidencia,no,0,0
-Cristovisión (Colombia),,,sin_coincidencia,no,0,0
-Tele Amiga (Colombia),,,sin_coincidencia,no,0,0
-Tele Vid (Colombia)[Inestable],,,sin_coincidencia,no,0,0
-Frecuencia F TV (Colombia),,,sin_coincidencia,no,0,0
-Canal Oración Con Son (Colombia),,,sin_coincidencia,no,0,0
-Canal Telefamilia (Colombia),,,sin_coincidencia,no,0,0
-Tu Universo TV (Colombia),,,sin_coincidencia,no,0,0
-TNE TV Evangélica (Chile),,,sin_coincidencia,no,0,0
-El Sembrador TV (Chile),,,sin_coincidencia,no,0,0
-Gracia TV (Chile),,,sin_coincidencia,no,0,0
-Televida Chillán (Chile),,,sin_coincidencia,no,0,0
-MTNA TV (Chile),,,sin_coincidencia,no,0,0
-Canal ISB San Bernardo (Chile),,,sin_coincidencia,no,0,0
-NCTV San Joaquín (Chile),,,sin_coincidencia,no,0,0
-VC Online (Chile),,,sin_coincidencia,no,0,0
-Telefides [No 24/7](Costa Rica),,,sin_coincidencia,no,0,0
-San José TV (Costa Rica),,,sin_coincidencia,no,0,0
-Unsion TV (Azuay),,,sin_coincidencia,no,0,0
-Asomavisión (Ecuador),,,sin_coincidencia,no,0,0
-TV Universal (Ecuador),TVUniversalEcuador.ec,TV Universal Ecuador,coincidencia_exacta,sí,0,0
-IeanJesus (Ecuador),IeanJesusEcuador.ec,IeanJesus Ecuador,coincidencia_exacta,sí,0,0
-Puruwa TV (Ecuador - Chimborazo),,,sin_coincidencia,no,0,0
-Reforma TV (Venezuela),,,sin_coincidencia,no,0,0
-Ñuka TV [No 24/7] (Pichincha),,,sin_coincidencia,no,0,0
-JN19 (Perú),,,sin_coincidencia,no,0,0
-Escúchame Radio TV [No 24/7](Nicaragua),,,sin_coincidencia,no,0,0
-Olam Metro TV (Nicaragua),,,sin_coincidencia,no,0,0
-Bendición Channel (Honduras),,,sin_coincidencia,no,0,0
-Oasis TV (Honduras),,,sin_coincidencia,no,0,0
-UMVirtual Montemorelos (México),,,sin_coincidencia,no,0,0
-Zoe Visión [No 24/7](Puerto Rico),,,sin_coincidencia,no,0,0
-Canal+ Uruguay (Uruguay),,,sin_coincidencia,no,0,0
-TBN España (España),,,sin_coincidencia,no,0,0
-Canal Diocesano Toledo (España),,,sin_coincidencia,no,0,0
-CANAL 2 (TELEVISION CHICHICASTECA),,,sin_coincidencia,no,0,0
-CANAL 4 (TELEVISION CHICHICASTECA),,,sin_coincidencia,no,0,0
-CANAL 8 (TELEVISION CHICHICASTECA),,,sin_coincidencia,no,0,0
-CANAL 10 (TELEVISION CHICHICASTECA),,,sin_coincidencia,no,0,0
-CANAL 12 (TELEVISION CHICHICASTECA),,,sin_coincidencia,no,0,0
-CANAL 14 (TELEVISION CHICHICASTECA),,,sin_coincidencia,no,0,0
-CANAL 17 TELEVISION CHICHICASTECA,,,sin_coincidencia,no,0,0
-CANAL 19 (TELEVISION CHICHICASTECA),,,sin_coincidencia,no,0,0
-CANAL 21 (TELEVISION CHICHICASTECA),,,sin_coincidencia,no,0,0
-CANAL 26 (TELEVISION CHICHICASTECA),,,sin_coincidencia,no,0,0
-CANAL 27 (TELEVISION CHICHICASTECA),,,sin_coincidencia,no,0,0
-CANAL 31 (TELEVISION CHICHICASTECA),,,sin_coincidencia,no,0,0
-CANAL 32 (TELEVISION CHICHICASTECA),,,sin_coincidencia,no,0,0
-CANAL 36 (TELEVISION CHICHICASTECA),,,sin_coincidencia,no,0,0
-CANAL 37 (TELEVISION CHICHICASTECA),,,sin_coincidencia,no,0,0
-CANAL 38 (TELEVISION CHICHICASTECA),,,sin_coincidencia,no,0,0
-CANAL 40 (TELEVISION CHICHICASTECA),,,sin_coincidencia,no,0,0
-CANAL 50 (TELEVISION CHICHICASTECA),,,sin_coincidencia,no,0,0
-CANAL 56 (TELEVISION CHICHICASTECA),,,sin_coincidencia,no,0,0
-CANAL 57 (TELEVISION CHICHICASTECA),,,sin_coincidencia,no,0,0
-CANAL 70 TELEVISION CHICHICASTECA,,,sin_coincidencia,no,0,0
-CANAL 74 TELEVISION CHICHICASTECA,,,sin_coincidencia,no,0,0
-CANAL 75 (TELEVISION CHICHICASTECA),,,sin_coincidencia,no,0,0
-CANAL 80 (TELEVISION CHICHICASTECA),,,sin_coincidencia,no,0,0
-CANAL 81 (TELEVISION CHICHICASTECA),,,sin_coincidencia,no,0,0
-CANAL 83 TELEVISION CHICHICASTECA,,,sin_coincidencia,no,0,0
-CANAL 86 (TELEVISION CHICHICASTECA),,,sin_coincidencia,no,0,0
-CANAL 87 (TELEVISION CHICHICASTECA),,,sin_coincidencia,no,0,0
-CANAL 88 TELEVISION CHICHICASTECA,,,sin_coincidencia,no,0,0
-CANAL 91 TELEVISION CHICHICASTECA,,,sin_coincidencia,no,0,0
-CANAL 92 TELEVISION CHICHICASTECA,,,sin_coincidencia,no,0,0
-CANAL 94 TELEVISION CHICHICASTECA,,,sin_coincidencia,no,0,0
-CANAL 98 TELEVISION CHICHICASTECA,,,sin_coincidencia,no,0,0
-Canela TV Latinoamérica,,,sin_coincidencia,no,0,0
-Canela TV 2,,,sin_coincidencia,no,0,0
-Canela Cine Picante,,,sin_coincidencia,no,0,0
-Canela Cine Romántico,,,sin_coincidencia,no,0,0
-Canela Acción Mexicana,,,sin_coincidencia,no,0,0
-Canela Peli Mex,,,sin_coincidencia,no,0,0
-Canela Seasonal,,,sin_coincidencia,no,0,0
-Canela Narco Drama,,,sin_coincidencia,no,0,0
-Canela Clásicos,,,sin_coincidencia,no,0,0
-FreeTV Estelar,,,sin_coincidencia,no,0,0
-FreeTV Acción,,,sin_coincidencia,no,0,0
-FreeTV Familia,,,sin_coincidencia,no,0,0
-FreeTV Sureño,,,sin_coincidencia,no,0,0
-FreeTV Drama,,,sin_coincidencia,no,0,0
-FreeTV Terror,,,sin_coincidencia,no,0,0
-FreeTV Live,,,sin_coincidencia,no,0,0
-FreeTV Clásico,,,sin_coincidencia,no,0,0
-FreeTV Hits,,,sin_coincidencia,no,0,0
-FreeTV Banda,,,sin_coincidencia,no,0,0
-Mi Raza Canal,,,sin_coincidencia,no,0,0
-Mi Raza Canal Plus,,,sin_coincidencia,no,0,0
-Mi Miedo Canal,,,sin_coincidencia,no,0,0
-Gritos TV,,,sin_coincidencia,no,0,0
-Cine Sony HD,,,sin_coincidencia,no,0,0
-Sony HD (Opc.1),,,sin_coincidencia,no,0,0
-Sony HD (Opc.2),,,sin_coincidencia,no,0,0
-Sony HD (Opc.3),,,sin_coincidencia,no,0,0
-Sony Movies HD,,,sin_coincidencia,no,0,0
-Sony Movies HD [Opc.2],,,sin_coincidencia,no,0,0
-Sony Movies HD [Opc.3],,,sin_coincidencia,no,0,0
-Sony One Cinema,,,sin_coincidencia,no,0,0
-Sony One Novelas,,,sin_coincidencia,no,0,0
-Sony One Exitos,,,sin_coincidencia,no,0,0
-Sony One Hits Acción,,,sin_coincidencia,no,0,0
-Sony One Hits Comedia,,,sin_coincidencia,no,0,0
-Sony One Series Comedia,,,sin_coincidencia,no,0,0
-Sony One The Blacklist,,,sin_coincidencia,no,0,0
-Pelis Top,,,sin_coincidencia,no,0,0
-Acción,,,sin_coincidencia,no,0,0
-Comedia,,,sin_coincidencia,no,0,0
-Drama,,,nombre_ambiguo,no,0,0
-Romance,,,nombre_ambiguo,no,0,0
-Cine Español,,,sin_coincidencia,no,0,0
-Sci-Fi,,,nombre_ambiguo,no,0,0
-Thrillers,,,sin_coincidencia,no,0,0
-Crimen,,,sin_coincidencia,no,0,0
-Grjngo Western,,,sin_coincidencia,no,0,0
-Cine Friki,CineFriki.es,Cine Friki,coincidencia_exacta,sí,3,0
-LG 1,,,sin_coincidencia,no,0,0
-LG 1+1,,,sin_coincidencia,no,0,0
-LG 1:FILMS,,,sin_coincidencia,no,0,0
-LG 1: SPOTLIGHT,,,sin_coincidencia,no,0,0
-RUN:TIME Cine y Series,,,sin_coincidencia,no,0,0
-RUN:TIME Accion,,,sin_coincidencia,no,0,0
-RUN:TIME Clasicos,,,sin_coincidencia,no,0,0
-RUN:TIME Comedia,,,sin_coincidencia,no,0,0
-RUN:TIME Crimen,,,sin_coincidencia,no,0,0
-RUN:TIME Familia,,,sin_coincidencia,no,0,0
-RUN:TIME Romance,,,sin_coincidencia,no,0,0
-RUN:TIME Series,,,sin_coincidencia,no,0,0
-RUN:TIME Thriller,,,sin_coincidencia,no,0,0
-Águila Roja,,,sin_coincidencia,no,0,0
+DSports 2,DSports2.us,DSports 2,coincidencia_exacta,sí,0,0
+DSports 2,DSports2.us,DSports 2,coincidencia_exacta,sí,0,0
+DW Español (1080p),DW ESPAÑOL.ar,,sin_coincidencia,no,0,0
+DW Español (YouTube),,,sin_coincidencia,no,0,0
+E! Latin America (1080p),ELatinAmerica.us@South,,sin_coincidencia,no,0,0
+Eco TV,EcoTV.ar@SD,,nombre_ambiguo,no,0,0
+Eco TV | AR,303,Eco TV,sin_coincidencia,no,0,0
+El 10 TV Salta,281,,sin_coincidencia,no,0,0
+El Chavo del 8 (YouTube),,,sin_coincidencia,no,0,0
+El Comisario (España),ElComisario.us@Spain,,sin_coincidencia,no,0,0
+El Destape (YouTube),,,sin_coincidencia,no,0,0
+El Doce (1080p) (YouTube),,,sin_coincidencia,no,0,0
+El encantador de perros (España),Elencantadordeperros.us@Spain,,sin_coincidencia,no,0,0
+El Garage TV,GarageTV.es,Garage TV,coincidencia_exacta,sí,1,0
+El Gourmet (1080p),ElGourmet.ar@Panregional,,sin_coincidencia,no,0,0
+El Gourmet (1080p),ElGourmet.ar@Panregional,,sin_coincidencia,no,0,0
+El Gourmet South (1080p),ElGourmet.ar@South,,sin_coincidencia,no,0,0
+El Litoral (YouTube),,,sin_coincidencia,no,0,0
+El Nueve (YouTube),,,sin_coincidencia,no,0,0
+El Ocho (1080p) (YouTube),,,sin_coincidencia,no,0,0
+El Once (1080p) (YouTube),,,sin_coincidencia,no,0,0
+El Siete Mendoza (720p) (YouTube),,,sin_coincidencia,no,0,0
+El Trece,ElTrece.ar,El Trece,coincidencia_exacta,sí,2,0
+El Trece (1080p),ELTrece.ar,,sin_coincidencia,no,0,0
+El Trece (480p),ElTrece.ar@SD,,sin_coincidencia,no,0,0
+El Trece | AR,1358,El Trece,sin_coincidencia,no,0,0
+El Trece Internacional Latin America (1080p),ElTreceInternacionalLatinAmerica.ar@SD,,sin_coincidencia,no,0,0
+El Tres TV,ElTresTV.ar,,sin_coincidencia,no,0,0
+Encuentro,Encuentro.ar,Encuentro,coincidencia_exacta,sí,2,0
+Encuentro,Encuentro.ar,Encuentro,coincidencia_exacta,sí,2,0
+Encuentro (YouTube),,,sin_coincidencia,no,0,0
+ESPN,ESPN.ar,,nombre_ambiguo,no,0,0
+ESPN (Colombia),ESPN.ar,,sin_coincidencia,no,0,0
+ESPN 2 HD,ESPN2.ar,,sin_coincidencia,no,0,0
+ESPN 2,ESPN2.ar,,nombre_ambiguo,no,0,0
+ESPN 3 HD,ESPN3.ar,,sin_coincidencia,no,0,0
+ESPN 3,ESPN3.ar,,nombre_ambiguo,no,0,0
+ESPN 4,ESPN4.ar,,nombre_ambiguo,no,0,0
+ESPN 4 HD,ESPN4.ar,,sin_coincidencia,no,0,0
+ESPN 4 HD,ESPN4.ar,,sin_coincidencia,no,0,0
+ESPN 5 HD,ESPN5LatinAmerica.us,,sin_coincidencia,no,0,0
+ESPN 5,ESPN5LatinAmerica.us,,sin_coincidencia,no,0,0
+ESPN 6 HD,ESPN 6 HD.ar,,sin_coincidencia,no,0,0
+ESPN 6,ESPN 6 HD.ar,,sin_coincidencia,no,0,0
+ESPN 7 HD,ESPN7LatinAmerica.us,,sin_coincidencia,no,0,0
+ESPN 7,ESPN7LatinAmerica.us,,sin_coincidencia,no,0,0
+ESPN Premium,ESPNPremium.ar,,nombre_ambiguo,no,1,0
+ESPN8: The Ocho,ESPN8TheOcho.us,ESPN8: The Ocho,coincidencia_exacta,sí,1,0
+ESPNU HD,ESPNU.us@HD,,sin_coincidencia,no,0,0
+euronews en español (YouTube),,,sin_coincidencia,no,0,0
+Europa Europa (1080p),EuropaEuropa.ar@SD,,sin_coincidencia,no,0,0
+Europa Europa (1080p),EuropaEuropa.ar@SD,,sin_coincidencia,no,0,0
+Europa Europa (1080p),EuropaEuropa.ar@SD,,sin_coincidencia,no,0,0
+EWTN el Canal Católico (720p),EWTNEspanaLatinAmerica.us,,sin_coincidencia,no,0,0
+FIFA+ Hispanic America (720p),FIFAPlus.uk@HispanicAmerica,,sin_coincidencia,no,0,0
+FIFA+ Women,FIFAPlusWomen.uk,FIFA+ Women,coincidencia_exacta,sí,0,0
+Film & Arts (1080p) 2,filmAndarts.ar,,sin_coincidencia,no,0,0
+FITE 24/7,FITE247.us,FITE 24/7,coincidencia_exacta,sí,0,0
+FloHockey,FloHockey.us,FloHockey,coincidencia_exacta,sí,0,0
+FloRacing,FloRacing.us,FloRacing,coincidencia_exacta,sí,0,0
+FM Universo,1460,,sin_coincidencia,no,0,0
+FM Vale 97.5 (YouTube),,,sin_coincidencia,no,0,0
+FM Vida (YouTube),,,sin_coincidencia,no,0,0
+Folcloreando TV,FolcloreandoTV.ar,Folcloreando TV,coincidencia_exacta,sí,0,0
+Fox Deportes,FoxDeportes.us,Fox Deportes,coincidencia_exacta,sí,4,0
+Fox Sports 1,FoxSports1.us@HD,,nombre_ambiguo,no,0,0
+Fox Sports 1 (Argentina),FoxSports.ar,,sin_coincidencia,no,1,0
+Fox Sports 2 (Argentina),FoxSports2.ar,,sin_coincidencia,no,1,0
+Fox Sports 3 (Argentina),FoxSports3.ar,,sin_coincidencia,no,0,0
+France 24 Español (1080p),France24Espanol.fr,,sin_coincidencia,no,0,0
+France 24 Español (1080p) (YouTube),,,sin_coincidencia,no,0,0
+FTF Sports,FTFSports.us,FTF Sports,coincidencia_exacta,sí,10,0
+FTV (Bolivia),FTV.bo@SD,,sin_coincidencia,no,0,0
+Fubo Sports Network,FuboSportsNetwork.us,Fubo Sports Network,coincidencia_exacta,sí,4,0
+FUEL TV,FUELTV.pt,FUEL TV,coincidencia_exacta,sí,27,0
+FUTV,FUTV.cr,FUTV,coincidencia_exacta,sí,1,0
+FX Latin America South (720p),FXLatinAmerica.us@South,,sin_coincidencia,no,0,0
+Game+,GamePlus.ca,Game+,coincidencia_exacta,sí,0,0
+Garage TV,GarageTV.es,Garage TV,coincidencia_exacta,sí,1,0
+ge Fast,geFast.br,ge Fast,coincidencia_exacta,sí,0,0
+Glory Kickboxing Poland,GloryKickboxing.us@Poland,,sin_coincidencia,no,0,0
+Golazo Network,GolazoNetwork.us,Golazo Network,coincidencia_exacta,sí,0,0
+Golden (1080p),Golden.ar,,sin_coincidencia,no,0,0
+HBO Xtreme HD,HBOXtreme.ar,,sin_coincidencia,no,0,0
+Hipódromo de Palermo (YouTube),,,sin_coincidencia,no,0,0
+History Channel,History.hu,History,coincidencia_exacta,sí,0,0
+iCarly,iCarly.us@LatAm,,nombre_ambiguo,no,0,0
+Ingenio FM,IngenioFM.ar,Ingenio FM,coincidencia_exacta,sí,0,0
+Inminente TV,1462,,sin_coincidencia,no,0,0
+Interior Futbolero TV (YouTube),,,sin_coincidencia,no,0,0
+International House of Prayer (YouTube),,,sin_coincidencia,no,0,0
+Itel TV Canal 2,ItelTVCanal2.ar,Itel TV Canal 2,coincidencia_exacta,sí,0,0
+ITV Deportes,ITVDeportes.mx,ITV Deportes,coincidencia_exacta,sí,9,0
+Kanal D Drama (1080p),KanalDDrama.tr,,sin_coincidencia,no,3,0
+Kenan & Kel,KenanKel.us,Kenan & Kel,coincidencia_exacta,sí,2,0
+Kpop Mix (720p),KpopMix.ar@SD,,sin_coincidencia,no,0,0
+L1 Max,L1Max.pe,L1 Max,coincidencia_exacta,sí,0,0
+La 100,La100.ar,La 100,coincidencia_exacta,sí,0,0
+La 100 | AR,1470,La 100,sin_coincidencia,no,0,0
+La Biblia en vivo (YouTube),,,sin_coincidencia,no,0,0
+La Nación+ (720p) (YouTube),,,sin_coincidencia,no,0,0
+La Vitrola Tv HD TV5,1790,,sin_coincidencia,no,0,0
+Lacrosse TV,LacrosseTV.us,Lacrosse TV,coincidencia_exacta,sí,0,0
+LAMIL35 TV,LAMIL35TV.ar,LAMIL35 TV,coincidencia_exacta,sí,0,0
+Lapacho TV Canal 11,LapachoTVCanal11.ar,Lapacho TV Canal 11,coincidencia_exacta,sí,0,0
+Las Estrellas,LasEstrellas.mx,Las Estrellas,coincidencia_exacta,sí,3,0
+Las Tortugas Ninja,LasTortugasNinja.us,Las Tortugas Ninja,coincidencia_exacta,sí,1,0
+Latina Clasicos (1080p),LatinaClasicos.pe@SD,,sin_coincidencia,no,0,0
+Latina Noticias (YouTube),,,sin_coincidencia,no,0,0
+Ley de Atracción y Abundancia (YouTube),,,sin_coincidencia,no,0,0
+Lifetime,Lifetime.ar,,nombre_ambiguo,no,0,0
+Link TV,212,,nombre_ambiguo,no,0,0
+Litus TV,LitusTV.ar,Litus TV,coincidencia_exacta,sí,0,0
+LN+ (YouTube),,,sin_coincidencia,no,0,0
+LN+,LaNacionPlus.ar,La Nacion +,coincidencia_exacta,sí,4,0
+Los archivos del FBI (España),LosarchivosdelFBI.us@Spain,,sin_coincidencia,no,0,0
+Lotería de Santa Fe (YouTube),,,sin_coincidencia,no,0,0
+LTO Television,LTOTelevision.ar,LTO Television,coincidencia_exacta,sí,0,0
+LTO Television,LTOTelevision.ar,LTO Television,coincidencia_exacta,sí,0,0
+Lumpen TV,CanalShowsport.ar@SD,,sin_coincidencia,no,0,0
+Mas FM,MasFM.ar,Mas FM,coincidencia_exacta,sí,0,0
+Mas FM | AR,1130,Mas FM,sin_coincidencia,no,0,0
+MCI Television (1080p),MCITelevision.co@SD,,sin_coincidencia,no,0,0
+Mega 98.3 (YouTube),,,sin_coincidencia,no,0,0
+Mega Cine TV (1080p),MegaCineTV.do@HD,,sin_coincidencia,no,0,0
+Mercurio Noticias,MercurioNoticias.ar,Mercurio Noticias,coincidencia_exacta,sí,0,0
+Meridiano TV,MeridianoTV.ve,Meridiano TV,coincidencia_exacta,sí,1,0
+Metro TV,MetroTV.ar@SD,,nombre_ambiguo,no,0,0
+Misiones Cuatro,MisionesCuatro.ar,Misiones Cuatro,coincidencia_exacta,sí,0,0
+Misiones Cuatro | AR,1362,Misiones Cuatro,sin_coincidencia,no,0,0
+MLB,MLB.us,MLB,coincidencia_exacta,sí,2,0
+MLB Strike Zone,MLBStrikeZone.us,MLB Strike Zone,coincidencia_exacta,sí,1,0
+Monte Grande,1620,,sin_coincidencia,no,0,0
+MTV HD,MTV.ar,,sin_coincidencia,no,0,0
+Multimedios (YouTube),,,sin_coincidencia,no,0,0
+MultiPremier (1080p),MultiPremier.mx@SD,,sin_coincidencia,no,0,0
+Mundo de la Musica TV ✪ | CL,771,Mundo de la Musica TV,sin_coincidencia,no,0,0
+Music TOP,Musictop.ar,,sin_coincidencia,no,0,0
+MyTime Movie Network (España) (1080p),MyTimeMovieNetwork.es@SD,,sin_coincidencia,no,0,0
+MyTime Movie Network (México) (720p),MyTimeMovieNetwork.mx@SD,,sin_coincidencia,no,0,0
+N Sports,NSports.br@SD,,nombre_ambiguo,no,0,0
+N+ Univision (YouTube),,,sin_coincidencia,no,0,0
+Naruto en espanol,Narutoenespanol.us,Naruto en espanol,coincidencia_exacta,sí,0,0
+Nat Geo HD,NAT GEO.ar,,sin_coincidencia,no,0,0
+NBA TV,NBATV.us,NBA TV,coincidencia_exacta,sí,11,0
+NBC Sports NOW,NBCSportsNOW.us,NBC Sports NOW,coincidencia_exacta,sí,4,0
+Neo Net Music,1558,,sin_coincidencia,no,0,0
+Neo TV,NeoTV.ar@SD,,nombre_ambiguo,no,0,0
+Neo TV ✪ | AR,1006,Neo TV,sin_coincidencia,no,0,0
+Neox TV,NeoxTV.ar,Neox TV,coincidencia_exacta,sí,0,0
+Net TV,NETTV.ar@SD,,nombre_ambiguo,no,0,0
+Net TV,NETTV.ar@SD,,nombre_ambiguo,no,0,0
+Net TV,NetTV.ar,,nombre_ambiguo,no,0,0
+NET TV (720p),NETTV.ar@SD,,sin_coincidencia,no,0,0
+NET TV (720p),NETTV.ar@SD,,sin_coincidencia,no,0,0
+Net TV | AR,285,Net TV,sin_coincidencia,no,0,0
+Next HD (480p),NextHD.py@SD,,sin_coincidencia,no,0,0
+NFL Channel,NFLChannel.us,NFL Channel,coincidencia_exacta,sí,6,0
+NG Federal,NGFederal.ar,NG Federal,coincidencia_exacta,sí,0,0
+NG Federal (720p),NGFederal.ar@SD,,sin_coincidencia,no,0,0
+NHL Network,NHLNetwork.us,NHL Network,coincidencia_exacta,sí,5,0
+NHRA TV,NHRATV.us,NHRA TV,coincidencia_exacta,sí,11,0
+Nickelodeon HD,NICKELODEON.ar,,sin_coincidencia,no,0,0
+Nickelodeon Teen,NickelodeonTeen.us@LatAm,,nombre_ambiguo,no,0,0
+NMás (YouTube),,,sin_coincidencia,no,0,0
+Noticias Caracol (YouTube),,,sin_coincidencia,no,0,0
+Noticias Telemundo (YouTube),,,sin_coincidencia,no,0,0
+Nuevo Tiempo (YouTube),,,sin_coincidencia,no,0,0
+OKfm 105.7,1458,,sin_coincidencia,no,0,0
+One Piece,OnePiece.us,One Piece,coincidencia_exacta,sí,2,0
+One Piece (España),OnePiece.us@Spain,,sin_coincidencia,no,0,0
+Ovacion TV,OvacionTV.pe,Ovacion TV,coincidencia_exacta,sí,0,0
+Overtime,Overtime.us,Overtime,coincidencia_exacta,sí,3,0
+Pac-12 Insider,Pac12Insider.us,Pac-12 Insider,coincidencia_exacta,sí,10,0
+Pakapaka (YouTube),,,sin_coincidencia,no,0,0
+PANC TV,PancTV.ar,Panc TV,coincidencia_exacta,sí,0,0
+Pasiones HD,Pasiones.ar,,sin_coincidencia,no,0,0
+PBR RidePass,PBRRidePass.us,PBR RidePass,coincidencia_exacta,sí,3,0
+PFL MMA,PFLMMA.us,PFL MMA,coincidencia_exacta,sí,13,0
+PGA Tour,PGATour.us,PGA Tour,coincidencia_exacta,sí,13,0
+Platzi TV (1080p),PlatziTV.es,,sin_coincidencia,no,0,0
+Plim Plim,PlimPlim.ar,Plim Plim,coincidencia_exacta,sí,0,0
+Plim Plim,PlimPlim.ar,Plim Plim,coincidencia_exacta,sí,0,0
+Plim Plim (1080p),Plim Plim.ar,,sin_coincidencia,no,0,0
+Pluto TV A La Mexicana,PlutoTVALaMexicana.us,Pluto TV A La Mexicana,coincidencia_exacta,sí,4,0
+Pluto TV Anime,PlutoTVAnime.us,Pluto TV Anime,coincidencia_exacta,sí,13,0
+Pluto TV Cine Acción,PlutoTVCineAccion.us,Pluto TV Cine Accion,coincidencia_exacta,sí,5,0
+Pluto TV Cine Clásico,PlutoTVCineClasico.us,Pluto TV Cine Clasico,coincidencia_exacta,sí,4,0
+Pluto TV Cine Comedia,PlutoTVCineComedia.us@LatAm,,nombre_ambiguo,no,0,0
+Pluto TV Cine Crimen,PlutoTVCineCrimen.us,Pluto TV Cine Crimen,coincidencia_exacta,sí,4,0
+Pluto TV Cine Drama,PlutoTVCineDrama.us,Pluto TV Cine Drama,coincidencia_exacta,sí,6,0
+Pluto TV Cine Estelar,PlutoTVCineEstelar.us,Pluto TV Cine Estelar,coincidencia_exacta,sí,5,0
+Pluto TV Cine Familia,PlutoTVCineFamilia.us,Pluto TV Cine Familia,coincidencia_exacta,sí,6,0
+Pluto TV Cine Inspirador,PlutoTVCineInspirador.us,Pluto TV Cine Inspirador,coincidencia_exacta,sí,4,0
+Pluto TV Cine Romance,PlutoTVCineRomance.us,Pluto TV Cine Romance,coincidencia_exacta,sí,6,0
+Pluto TV Cine Suspenso,PlutoTVCineSuspenso.us,Pluto TV Cine Suspenso,coincidencia_exacta,sí,4,0
+Pluto TV Estrellas de Acción,PlutoTVEstrellasdeAccion.us,Pluto TV Estrellas de Accion,coincidencia_exacta,sí,0,0
+Pluto TV Nuestro Cine,PlutoTVNuestroCine.us,Pluto TV Nuestro Cine,coincidencia_exacta,sí,4,0
+Pluto TV Sci-Fi,PlutoTVSciFi.us@LatAm,,nombre_ambiguo,no,0,0
+Pluto TV Series,PlutoTVSeries.us@LatAm,,nombre_ambiguo,no,0,0
+PokerGo,PokerGo.us,PokerGo,coincidencia_exacta,sí,12,0
+Pop Radio 101.5 (YouTube),,,sin_coincidencia,no,0,0
+Popcorn Central (1080p),PopcornCentral.mx@SD,,sin_coincidencia,no,0,0
+Power,243,,sin_coincidencia,no,0,0
+Power Max Radio TV (720p),PowerMaxRadioTV.ar@SD,,sin_coincidencia,no,0,0
+Power Max TV,1382,,sin_coincidencia,no,0,0
+PowerHD,PowerHD.ar,PowerHD,coincidencia_exacta,sí,0,0
+PRIDEtv Latam | CL,1692,PRIDEtv Latam,sin_coincidencia,no,0,0
+Producciones Emanuel (YouTube),,,sin_coincidencia,no,0,0
+PX Sports,PXSports.mx,PX Sports,coincidencia_exacta,sí,3,0
+Quantica TV,QuanticaTV.ar,Quantica TV,coincidencia_exacta,sí,0,0
+Quiero Música TV (YouTube),,,sin_coincidencia,no,0,0
+Racer Select,RacerSelect.us,Racer Select,coincidencia_exacta,sí,5,0
+Radio 10 (YouTube),,,sin_coincidencia,no,0,0
+Radio Conexion Web TV (720p),RadioConexionWebTV.ar@SD,,sin_coincidencia,no,0,0
+Radio La Red AM 910 (YouTube),,,sin_coincidencia,no,0,0
+Radio Mitre (YouTube),,,sin_coincidencia,no,0,0
+Radio One 103.7 (YouTube),,,sin_coincidencia,no,0,0
+Radio Realpolitik (720p),RadioRealpolitik.ar@SD,,sin_coincidencia,no,0,0
+Radio Rivadavia AM 630 (YouTube),,,sin_coincidencia,no,0,0
+Radio Sublime Gracia TV (720p),RadioSublimeGraciaTV.ar@SD,,sin_coincidencia,no,0,0
+Radio TV Neuquen,RadioTVNeuquen.ar,Radio TV Neuquen,coincidencia_exacta,sí,0,0
+Radio TV Neuquen | AR,287,Radio TV Neuquen,sin_coincidencia,no,0,0
+Radio UP (1080p),RadioUP.ar@SD,,sin_coincidencia,no,0,0
+Radio Yguazu TV (480p),RadioYguazuTV.ar@SD,,sin_coincidencia,no,0,0
+Radiocanal (1080p),Radiocanal.ar@SD,,sin_coincidencia,no,0,0
+Radiocanal San Francisco,210,,sin_coincidencia,no,0,0
+Rakuten TV Action Movies (1080p),RakutenTVActionMovies.es@Spain,,sin_coincidencia,no,0,0
+Rakuten TV Comedy Movies (1080p),RakutenTVComedyMovies.es@Spain,,sin_coincidencia,no,0,0
+Rakuten TV Drama Movies (1080p),RakutenTVDramaMovies.es@Spain,,sin_coincidencia,no,0,0
+Rakuten TV Family Movies (1080p),RakutenTVFamilyMovies.es@Spain,,sin_coincidencia,no,0,0
+Rakuten TV Top Movies (1080p),RakutenTVTopMovies.es@Spain,,sin_coincidencia,no,0,0
+Rally TV,RallyTV.us,Rally TV,coincidencia_exacta,sí,0,0
+RCN Más (1080p),RCNMas.co,,sin_coincidencia,no,7,0
+Recuerdos Retro Radio TV | CL,521,Recuerdos Retro Radio TV,sin_coincidencia,no,0,0
+Red Bull TV ES,RedBullTV.at@ES,,sin_coincidencia,no,0,0
+Retro Plus TV ✪ | CL,4,Retro Plus TV,sin_coincidencia,no,0,0
+Retro Plus TV Señal 2 | CL,5,Retro Plus TV Señal 2,sin_coincidencia,no,0,0
+Retro Plus TV Señal 3 | CL,465,Retro Plus TV Señal 3,sin_coincidencia,no,0,0
+Retroclub,Retroclub.ar,Retroclub,coincidencia_exacta,sí,0,0
+Retroclub (720p),Retroclub.ar@HD,,sin_coincidencia,no,0,0
+Rewind ✪ | CL,156,Rewind,sin_coincidencia,no,0,0
+Rick and Morty LA (YouTube),,,sin_coincidencia,no,0,0
+Right Now TV,RightNowTV.us,Right Now TV,coincidencia_exacta,sí,0,0
+Romance Channel (YouTube),,,sin_coincidencia,no,0,0
+RTN (Argentina) (720p),RTN.ar@SD,,sin_coincidencia,no,0,0
+RTS,RTS.ec,RTS,coincidencia_exacta,sí,3,0
+RTVE Noticias (YouTube),,,sin_coincidencia,no,0,0
+Runtime Español (720p),RuntimeEspanol.us@SD,,sin_coincidencia,no,0,0
+San Pedro TV (1080p),SanPedroTV.ar@SD,,sin_coincidencia,no,0,0
+Santa Fe Canal (720p),SantaFeCanal.ar@SD,,sin_coincidencia,no,0,0
+SBT (Brasil),SBT BRASIL.ar,,sin_coincidencia,no,0,0
+Senal U,SenalU.ar,Senal U,coincidencia_exacta,sí,0,0
+Señal Urbana,SenalUrbana.ar,Senal Urbana,coincidencia_exacta,sí,0,0
+Senillosa TV,SenillosaTV.ar,Senillosa TV,coincidencia_exacta,sí,0,0
+Sicardi TV,SicardiTV.ar,Sicardi TV,coincidencia_exacta,sí,0,0
+Sicardi TV | AR,288,Sicardi TV,sin_coincidencia,no,0,0
+Sky Racing 1,SkyRacing1.au,Sky Racing 1,coincidencia_exacta,sí,1,0
+Sky Racing 2,SkyRacing2.au,Sky Racing 2,coincidencia_exacta,sí,2,0
+Sky Sports Cricket HD,SkySportsCricket.uk@HD,,sin_coincidencia,no,0,0
+Sky Sports Football,SkySportsFootball.ie@SD,,nombre_ambiguo,no,0,0
+Slopes TV,SlopesTV.us,Slopes TV,coincidencia_exacta,sí,10,0
+Soakstream Español (YouTube),,,sin_coincidencia,no,0,0
+Somos La Pampa,SomosLaPampa.ar,Somos La Pampa,coincidencia_exacta,sí,0,0
+Somos La Pampa | AR,1072,Somos La Pampa,sin_coincidencia,no,0,0
+Sony Channel (1080p),SonyChannel.ar@SD,,sin_coincidencia,no,0,0
+Sony Movies Latin America (1080p),SonyMoviesLatinAmerica.us@SD,,sin_coincidencia,no,0,0
+Space HD,Space.ar,,sin_coincidencia,no,9,0
+SportsGrid,SportsGrid.us,SportsGrid,coincidencia_exacta,sí,12,0
+SporTV,SporTV.br,SporTV,coincidencia_exacta,sí,2,0
+SporTV 3,SporTV3.br,SporTV 3,coincidencia_exacta,sí,2,0
+Sqala TV,SqalaTV.pe,Sqala TV,coincidencia_exacta,sí,0,0
+Stadium,Stadium.us@SD,,nombre_ambiguo,no,0,0
+Star Channel (Chile) (720p),StarChannel.cl@SD,,sin_coincidencia,no,0,0
+Star Channel (Colombia) (1080p),StarChannel.co@SD,,sin_coincidencia,no,0,0
+Strongman,Strongman.us,Strongman,coincidencia_exacta,sí,0,0
+Strongman Champions League,StrongmanChampionsLeague.uk,Strongman Champions League,coincidencia_exacta,sí,10,0
+Sublime Gracia TV,1003,,sin_coincidencia,no,0,0
+SUMtv Latino (YouTube),,,sin_coincidencia,no,0,0
+Suspenso Channel (YouTube),,,sin_coincidencia,no,0,0
+Suyai TV | CL,1288,Suyai TV,sin_coincidencia,no,0,0
+Swerve Combat,SwerveCombat.us,Swerve Combat,coincidencia_exacta,sí,0,0
+Swerve Sports,SwerveSports.us,Swerve Sports,coincidencia_exacta,sí,6,0
+T5 Satelital,T5Satelital.ar,T5 Satelital,coincidencia_exacta,sí,0,0
+T5 Satelital | AR,244,T5 Satelital,sin_coincidencia,no,0,0
+talkSPORT,talkSPORT.uk,talkSPORT,coincidencia_exacta,sí,2,0
+TDC TV Santa Fe,289,,sin_coincidencia,no,0,0
+TELE 6 (720p),TELE6.bo@SD,,sin_coincidencia,no,0,0
+Tele Posadas HD,1800,,sin_coincidencia,no,0,0
+Tele Posadas (720p),TelePosadas.ar@HD,,sin_coincidencia,no,0,0
+Telecreativa,Telecreativa.ar,Telecreativa,coincidencia_exacta,sí,0,0
+Teledeporte,Teledeporte.es,Teledeporte,coincidencia_exacta,sí,4,0
+Telediario TV (YouTube),,,sin_coincidencia,no,0,0
+Telefe,Telefe.ar,Telefe,coincidencia_exacta,sí,2,0
+Telefe (720p) (sólo escritorio),Telefe.ar@SD,,sin_coincidencia,no,0,0
+Telefe Buenos Aires (1080p),TelefeBuenosAires.ar@SD,,sin_coincidencia,no,0,0
+Telefe Córdoba (1080p) (YouTube),,,sin_coincidencia,no,0,0
+Telefe Internacional (1080p),TelefeInternacional.ar@SD,,sin_coincidencia,no,0,0
+Telefe Internacional (720p),TelefeInternacional.ar,,sin_coincidencia,no,5,0
+Telefe Noticias (YouTube),,,sin_coincidencia,no,0,0
+Telefe Rosario (YouTube),,,sin_coincidencia,no,0,0
+Telefe Salta (YouTube),,,sin_coincidencia,no,0,0
+Telefe Salta,TelefeSalta.ar,Telefe Salta,coincidencia_exacta,sí,0,0
+TeleJunin,TeleJunin.ar,TeleJunin,coincidencia_exacta,sí,0,0
+TeleJunin,TeleJunin.ar,TeleJunin,coincidencia_exacta,sí,0,0
+Telemax,Telemax.ar@SD,,nombre_ambiguo,no,0,0
+Telemax | AR,292,Telemax,sin_coincidencia,no,0,0
+Telemix,TeleMix.ar,,nombre_ambiguo,no,0,0
+Telemundo Internacional (1080p),TelemundoInternacional.ar,,sin_coincidencia,no,0,0
+Telemundo Series (YouTube),,,sin_coincidencia,no,0,0
+TeleSUR (1080p),teleSUR.ar,,sin_coincidencia,no,0,0
+TeleSUR (YouTube),,,sin_coincidencia,no,0,0
+Teletrece (YouTube),,,sin_coincidencia,no,0,0
+Televisión Pública (YouTube),,,sin_coincidencia,no,0,0
+Televisora Regional Unimar (410p),,,sin_coincidencia,no,0,0
+Tennis Channel 2,TennisChannel2.us,Tennis Channel 2,coincidencia_exacta,sí,0,0
+Tevex (720p),Tevex.cl,,sin_coincidencia,no,0,0
+The Cabbin FM,TheCabbinFM.ar,The Cabbin FM,coincidencia_exacta,sí,0,0
+The Musical World (YouTube),,,sin_coincidencia,no,0,0
+Tierramia TV,TierraMiaTV.ar,,sin_coincidencia,no,0,0
+Tigo Sports (El Salvador),TigoSports.sv@SD,,sin_coincidencia,no,0,0
+TLC,TLC.ar,,nombre_ambiguo,no,0,0
+Tlnovelas,TLNovelas.ar,,sin_coincidencia,no,0,0
+Tlnovelas Mexico (1080p),TlnovelasMexico.mx@SD,,sin_coincidencia,no,0,0
+TN,TN.ar,TN,coincidencia_exacta,sí,3,0
+TN Todo Noticias (YouTube),,,sin_coincidencia,no,0,0
+TNT Novelas HD,TNT NOVELAS.ar,,sin_coincidencia,no,0,0
+TNT Novelas (1080p),TNT NOVELAS.ar,,sin_coincidencia,no,0,0
+TNT Sports,TNTSports.ar,,nombre_ambiguo,no,1,0
+TNT Sports Premium,TNT SPORTS PREMIUM.ar,,sin_coincidencia,no,0,0
+Todo Novelas (1080p),TodoNovelas.es@SD,,sin_coincidencia,no,0,0
+Tour Spot TV,TourSpotTV.do,Tour Spot TV,coincidencia_exacta,sí,0,0
+Tribu TV,777,,sin_coincidencia,no,0,0
+TSN The Ocho,TSNTheOcho.ca,TSN The Ocho,coincidencia_exacta,sí,2,0
+Turf Movil,TurfMovil.cl,Turf Movil,coincidencia_exacta,sí,0,0
+TV Canal 72,TVCanal72.ar,TV Canal 72,coincidencia_exacta,sí,0,0
+TV Cuatro 4.3,TVCuatro43.mx,TV Cuatro 4.3,coincidencia_exacta,sí,0,0
+TV La Verdad (YouTube),,,sin_coincidencia,no,0,0
+TV Mana,297,,sin_coincidencia,no,0,0
+TV Mana Argentina (576p),TVManaArgentina.ar@SD,,sin_coincidencia,no,0,0
+TV Pública,TelevisionPublica.ar,Television Publica,coincidencia_exacta,sí,0,0
+TV Publica Fueguina (1080p),TVPublicaFueguina.ar@SD,,sin_coincidencia,no,0,0
+TV Solidaria,TVSolidaria.ar,TV Solidaria,coincidencia_exacta,sí,0,0
+TV Solidaria | AR,1370,TV Solidaria,sin_coincidencia,no,0,0
+TV Universidad,TVUniversidad.ar@SD,,nombre_ambiguo,no,0,0
+TVE Star HD (1080p),TVEStar.es@HD,,sin_coincidencia,no,0,0
+TVS Bowling Network,TVSBowlingNetwork.us,TVS Bowling Network,coincidencia_exacta,sí,0,0
+TVS Boxing,TVSBoxing.us,TVS Boxing,coincidencia_exacta,sí,1,0
+TVS Classic Sports,TVSClassicSports.us,TVS Classic Sports,coincidencia_exacta,sí,1,0
+TVS Sports,TVSSports.us,TVS Sports,coincidencia_exacta,sí,0,0
+TVS Turbo,TVSTurbo.us,TVS Turbo,coincidencia_exacta,sí,1,0
+TVS Women Sports,TVSWomenSports.us,TVS Women Sports,coincidencia_exacta,sí,1,0
+TyC Sports (1080p),TyCSports.ar@SD,,sin_coincidencia,no,0,0
+TyC Sports (720p),TyCSports.ar@SD,,sin_coincidencia,no,0,0
+TyC Sports USA,TyCSportsUSA.ar,TyC Sports USA,coincidencia_exacta,sí,0,0
+UCL Televisión LATAM ✪ | UY,494,UCL Televisión LATAM,sin_coincidencia,no,0,0
+Unbeaten,Unbeaten.us,Unbeaten,coincidencia_exacta,sí,11,0
+Uni Teve,248,,sin_coincidencia,no,0,0
+Unife TV,UnifeTV.ar@SD,,nombre_ambiguo,no,0,0
+Unife TV,UnifeTV.ar@SD,,nombre_ambiguo,no,0,0
+UNIRIO,247,,sin_coincidencia,no,0,0
+Uniteve (720p),Uniteve.ar@SD,,sin_coincidencia,no,0,0
+Universal Crime (1080p),UniversalCrime.us@East,,sin_coincidencia,no,0,0
+Universal TV HD,UniversalTVHD.np,Universal TV HD,coincidencia_exacta,sí,0,0
+UNLP TV,1371,,sin_coincidencia,no,0,0
+Urban Mix (720p),UrbanMix.ar@SD,,sin_coincidencia,no,0,0
+Urbana Tevé (YouTube),,,sin_coincidencia,no,0,0
+Venezolana de Televisión (YouTube),,,sin_coincidencia,no,0,0
+Villa Mantero TV,VillaManteroTV.ar,Villa Mantero TV,coincidencia_exacta,sí,0,0
+Volver,Volver.ar,Volver,coincidencia_exacta,sí,1,0
+Vorterix (1080p) (YouTube),,,sin_coincidencia,no,0,0
+VPItv (YouTube),,,sin_coincidencia,no,0,0
+Warner,WARNER HD.ar,,sin_coincidencia,no,0,0
+Warner TV HD,WarnerChannel.us,,sin_coincidencia,no,8,0
+WatchMojo Español (YouTube),,,sin_coincidencia,no,0,0
+Willow Sports,WillowSports.us,Willow Sports,coincidencia_exacta,sí,5,0
+Win Sports,WinSports.co@SD,,nombre_ambiguo,no,0,0
+Win+ Futbol,WinPlusFutbol.co,Win+ Futbol,coincidencia_exacta,sí,0,0
+World Poker Tour,WorldPokerTour.us,World Poker Tour,coincidencia_exacta,sí,14,0
+X Level Media (1080p),,,sin_coincidencia,no,0,0
+XFC TV,XFCTV.us,XFC TV,coincidencia_exacta,sí,9,0
+Xtrema Accion,XtremaAccion.ar,Xtrema Accion,coincidencia_exacta,sí,0,0
+Xtrema Cartoons,XtremaCartoons.ar,Xtrema Cartoons,coincidencia_exacta,sí,0,0
+Xtrema Cine Clasico,XtremaCineClasico.ar,Xtrema Cine Clasico,coincidencia_exacta,sí,0,0
+Xtrema Terror,XtremaTerror.ar,Xtrema Terror,coincidencia_exacta,sí,0,0
+Yolu TV (YouTube),,,sin_coincidencia,no,0,0
+ZN Noticias,ZNNoticias.ar,ZN Noticias,coincidencia_exacta,sí,0,0
+ZyoonTV | UY,1691,ZyoonTV,sin_coincidencia,no,0,0
+Televisión Pública,TelevisionPublica.ar,Television Publica,coincidencia_exacta,sí,0,0
+TyC Sports (YouTube),,,sin_coincidencia,no,0,0
+UNQtv (YouTube),,,sin_coincidencia,no,0,0
+Canal 79 Mar del Plata (YouTube),,,sin_coincidencia,no,0,0
+Marchi TV (YouTube),,,sin_coincidencia,no,0,0
