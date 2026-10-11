@@ -27,11 +27,10 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Proteger la copia de seguridad
+      - name: Proteger copia de seguridad anterior
         shell: bash
         run: |
           mkdir -p output
-
           if [ -f output/IejmoloV_backup.m3u ]; then
             cp output/IejmoloV_backup.m3u /tmp/IejmoloV_backup.m3u
             echo "BACKUP_EXISTE=si" >> "$GITHUB_ENV"
@@ -50,14 +49,23 @@ jobs:
         run: cp /tmp/IejmoloV_backup.m3u output/IejmoloV_backup.m3u
 
       - name: Guardar resultados en GitHub
+        shell: bash
         run: |
           git add output/
-
           if git diff --cached --quiet; then
-            echo "No hay cambios para guardar."
+            echo "No hay cambios nuevos que guardar."
           else
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git commit -m "Actualizar lista e informes EPG"
             git push
           fi
+
+      - name: Publicar resultados como artefactos
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: resultado-epg
+          path: output/
+          if-no-files-found: warn
+          retention-days: 7
