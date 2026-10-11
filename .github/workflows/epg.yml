@@ -1,0 +1,43 @@
+
+name: Actualizar identificadores EPG
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * *"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: actualizar-epg
+  cancel-in-progress: false
+
+jobs:
+  actualizar-epg:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Ejecutar analizador EPG
+        env:
+          M3U_URL: ${{ secrets.M3U_URL }}
+        run: python m3u_epg_matcher.py
+
+      - name: Publicar resultados como artefactos
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: resultado-epg
+          path: output/
+          if-no-files-found: warn
+          retention-days: 7
+          
