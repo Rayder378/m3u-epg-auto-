@@ -1,0 +1,42 @@
+[
+  {
+    "canal_lista": "",
+    "tvg_id": "AlJazeera.qa",
+    "canal_catalogo": "Al Jazeera English",
+    "sitio": "aljazeera.com",
+    "nombre_guia": "English",
+    "idioma": "en",
+    "formato": "XML",
+    "url_fuente": "https://worker-9dd4.onrender.com/guide.xml"
+  },
+  {
+    "canal_lista": "",
+    "tvg_id": "AlJazeera.qa",
+    "canal_catalogo": "Al Jazeera English",
+    "sitio": "aljazeera.com",
+    "nombre_guia": "English",
+    "idioma": "en",
+    "formato": "GZIP",
+    "url_fuente": "https://worker-9dd4.onrender.com/guide.xml.gz"
+  },
+  {
+    "canal_lista": "",
+    "tvg_id": "ANT1Europe.gr",
+    "canal_catalogo": "ANT1 Europe",
+    "sitio": "antennaeurope.gr",
+    "nombre_guia": "SD",
+    "idioma": "el",
+    "formato": "XML",
+    "url_fuente": "https://worker-9dd4.onrender.com/guide.xml"
+  },
+  {
+    "canal_lista": "",
+    "tvg_id": "ANT1Europe.gr",
+    "canal_catalogo": "ANT1 Europe",
+    "sitio": "antennaeurope.gr",
+    "nombre_guia": "SD",
+    "idioma": "el",
+    "formato": "GZIP",
+    "url_fuente": "https://worker-9dd4.onrender.com/guide.xml.gz"
+  }
+]
