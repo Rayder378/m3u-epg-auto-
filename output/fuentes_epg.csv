@@ -1,33 +1,33 @@
 ﻿url,formato,estado,canales_encontrados,programas_nuevos,error
 https://worker-9dd4.onrender.com/guide.xml,XML,XMLTV válido,0,0,
-https://worker-9dd4.onrender.com/guide.xml.gz,GZIP,XMLTV válido,0,0,
+https://worker-9dd4.onrender.com/guide.xml.gz,GZIP,duplicado de contenido,0,0,Contenido idéntico a https://worker-9dd4.onrender.com/guide.xml
 https://iptv-epg.org/files/epg-co.xml,XML,XMLTV válido,17,4539,
-https://iptv-epg.org/files/epg-co.xml.gz,GZIP,XMLTV válido,0,0,
+https://iptv-epg.org/files/epg-co.xml.gz,GZIP,duplicado de contenido,0,0,Contenido idéntico a https://iptv-epg.org/files/epg-co.xml
 https://iptv-epg.org/files/epg-cl.xml,XML,XMLTV válido,8,2969,
-https://iptv-epg.org/files/epg-cl.xml.gz,GZIP,XMLTV válido,0,0,
+https://iptv-epg.org/files/epg-cl.xml.gz,GZIP,duplicado de contenido,0,0,Contenido idéntico a https://iptv-epg.org/files/epg-cl.xml
 https://iptv-epg.org/files/epg-ar.xml,XML,XMLTV válido,0,1734,
-https://iptv-epg.org/files/epg-ar.xml.gz,GZIP,XMLTV válido,0,0,
+https://iptv-epg.org/files/epg-ar.xml.gz,GZIP,duplicado de contenido,0,0,Contenido idéntico a https://iptv-epg.org/files/epg-ar.xml
 https://iptv-epg.org/files/epg-sv.xml,XML,XMLTV válido,0,525,
-https://iptv-epg.org/files/epg-sv.xml.gz,GZIP,XMLTV válido,0,0,
+https://iptv-epg.org/files/epg-sv.xml.gz,GZIP,duplicado de contenido,0,0,Contenido idéntico a https://iptv-epg.org/files/epg-sv.xml
 https://iptv-epg.org/files/epg-mx.xml,XML,XMLTV válido,3,1803,
-https://iptv-epg.org/files/epg-mx.xml.gz,GZIP,XMLTV válido,0,0,
+https://iptv-epg.org/files/epg-mx.xml.gz,GZIP,duplicado de contenido,0,0,Contenido idéntico a https://iptv-epg.org/files/epg-mx.xml
 https://iptv-epg.org/files/epg-do.xml,XML,XMLTV válido,0,1658,
-https://iptv-epg.org/files/epg-do.xml.gz,GZIP,XMLTV válido,0,0,
+https://iptv-epg.org/files/epg-do.xml.gz,GZIP,duplicado de contenido,0,0,Contenido idéntico a https://iptv-epg.org/files/epg-do.xml
 https://iptv-epg.org/files/epg-gt.xml,XML,XMLTV válido,0,46,
-https://iptv-epg.org/files/epg-gt.xml.gz,GZIP,XMLTV válido,0,0,
+https://iptv-epg.org/files/epg-gt.xml.gz,GZIP,duplicado de contenido,0,0,Contenido idéntico a https://iptv-epg.org/files/epg-gt.xml
 https://iptv-epg.org/files/epg-ni.xml,XML,XMLTV válido,0,27,
-https://iptv-epg.org/files/epg-ni.xml.gz,GZIP,XMLTV válido,0,0,
+https://iptv-epg.org/files/epg-ni.xml.gz,GZIP,duplicado de contenido,0,0,Contenido idéntico a https://iptv-epg.org/files/epg-ni.xml
 https://iptv-epg.org/files/epg-pa.xml,XML,XMLTV válido,0,204,
-https://iptv-epg.org/files/epg-pa.xml.gz,GZIP,XMLTV válido,0,0,
+https://iptv-epg.org/files/epg-pa.xml.gz,GZIP,duplicado de contenido,0,0,Contenido idéntico a https://iptv-epg.org/files/epg-pa.xml
 https://iptv-epg.org/files/epg-py.xml,XML,XMLTV válido,0,70,
-https://iptv-epg.org/files/epg-py.xml.gz,GZIP,XMLTV válido,0,0,
+https://iptv-epg.org/files/epg-py.xml.gz,GZIP,duplicado de contenido,0,0,Contenido idéntico a https://iptv-epg.org/files/epg-py.xml
 https://iptv-epg.org/files/epg-pe.xml,XML,XMLTV válido,3,421,
-https://iptv-epg.org/files/epg-pe.xml.gz,GZIP,XMLTV válido,0,0,
+https://iptv-epg.org/files/epg-pe.xml.gz,GZIP,duplicado de contenido,0,0,Contenido idéntico a https://iptv-epg.org/files/epg-pe.xml
 https://iptv-epg.org/files/epg-es.xml,XML,XMLTV válido,0,1932,
-https://iptv-epg.org/files/epg-es.xml.gz,GZIP,XMLTV válido,0,0,
+https://iptv-epg.org/files/epg-es.xml.gz,GZIP,duplicado de contenido,0,0,Contenido idéntico a https://iptv-epg.org/files/epg-es.xml
 https://iptv-epg.org/files/epg-uy.xml,XML,XMLTV válido,5,3776,
-https://iptv-epg.org/files/epg-uy.xml.gz,GZIP,XMLTV válido,0,0,
+https://iptv-epg.org/files/epg-uy.xml.gz,GZIP,duplicado de contenido,0,0,Contenido idéntico a https://iptv-epg.org/files/epg-uy.xml
 https://iptv-epg.org/files/epg-ve.xml,XML,XMLTV válido,0,238,
-https://iptv-epg.org/files/epg-ve.xml.gz,GZIP,XMLTV válido,0,0,
-https://iptv-epg.org/files/epg-us.xml,XML,fallo,0,0,Descarga superior a 35 MB.
-https://iptv-epg.org/files/epg-us.xml.gz,GZIP,fallo,0,0,Descarga superior a 35 MB.
+https://iptv-epg.org/files/epg-ve.xml.gz,GZIP,duplicado de contenido,0,0,Contenido idéntico a https://iptv-epg.org/files/epg-ve.xml
+https://iptv-epg.org/files/epg-us.xml,XML,fallo,0,0,Descarga comprimida o directa superior a 100 MB.
+https://iptv-epg.org/files/epg-us.xml.gz,GZIP,fallo,0,0,XML descomprimido superior a 200 MB.

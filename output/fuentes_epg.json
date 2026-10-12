@@ -10,10 +10,10 @@
   {
     "url": "https://worker-9dd4.onrender.com/guide.xml.gz",
     "formato": "GZIP",
-    "estado": "XMLTV válido",
+    "estado": "duplicado de contenido",
     "canales_encontrados": 0,
     "programas_nuevos": 0,
-    "error": ""
+    "error": "Contenido idéntico a https://worker-9dd4.onrender.com/guide.xml"
   },
   {
     "url": "https://iptv-epg.org/files/epg-co.xml",
@@ -26,10 +26,10 @@
   {
     "url": "https://iptv-epg.org/files/epg-co.xml.gz",
     "formato": "GZIP",
-    "estado": "XMLTV válido",
+    "estado": "duplicado de contenido",
     "canales_encontrados": 0,
     "programas_nuevos": 0,
-    "error": ""
+    "error": "Contenido idéntico a https://iptv-epg.org/files/epg-co.xml"
   },
   {
     "url": "https://iptv-epg.org/files/epg-cl.xml",
@@ -42,10 +42,10 @@
   {
     "url": "https://iptv-epg.org/files/epg-cl.xml.gz",
     "formato": "GZIP",
-    "estado": "XMLTV válido",
+    "estado": "duplicado de contenido",
     "canales_encontrados": 0,
     "programas_nuevos": 0,
-    "error": ""
+    "error": "Contenido idéntico a https://iptv-epg.org/files/epg-cl.xml"
   },
   {
     "url": "https://iptv-epg.org/files/epg-ar.xml",
@@ -58,10 +58,10 @@
   {
     "url": "https://iptv-epg.org/files/epg-ar.xml.gz",
     "formato": "GZIP",
-    "estado": "XMLTV válido",
+    "estado": "duplicado de contenido",
     "canales_encontrados": 0,
     "programas_nuevos": 0,
-    "error": ""
+    "error": "Contenido idéntico a https://iptv-epg.org/files/epg-ar.xml"
   },
   {
     "url": "https://iptv-epg.org/files/epg-sv.xml",
@@ -74,10 +74,10 @@
   {
     "url": "https://iptv-epg.org/files/epg-sv.xml.gz",
     "formato": "GZIP",
-    "estado": "XMLTV válido",
+    "estado": "duplicado de contenido",
     "canales_encontrados": 0,
     "programas_nuevos": 0,
-    "error": ""
+    "error": "Contenido idéntico a https://iptv-epg.org/files/epg-sv.xml"
   },
   {
     "url": "https://iptv-epg.org/files/epg-mx.xml",
@@ -90,10 +90,10 @@
   {
     "url": "https://iptv-epg.org/files/epg-mx.xml.gz",
     "formato": "GZIP",
-    "estado": "XMLTV válido",
+    "estado": "duplicado de contenido",
     "canales_encontrados": 0,
     "programas_nuevos": 0,
-    "error": ""
+    "error": "Contenido idéntico a https://iptv-epg.org/files/epg-mx.xml"
   },
   {
     "url": "https://iptv-epg.org/files/epg-do.xml",
@@ -106,10 +106,10 @@
   {
     "url": "https://iptv-epg.org/files/epg-do.xml.gz",
     "formato": "GZIP",
-    "estado": "XMLTV válido",
+    "estado": "duplicado de contenido",
     "canales_encontrados": 0,
     "programas_nuevos": 0,
-    "error": ""
+    "error": "Contenido idéntico a https://iptv-epg.org/files/epg-do.xml"
   },
   {
     "url": "https://iptv-epg.org/files/epg-gt.xml",
@@ -122,10 +122,10 @@
   {
     "url": "https://iptv-epg.org/files/epg-gt.xml.gz",
     "formato": "GZIP",
-    "estado": "XMLTV válido",
+    "estado": "duplicado de contenido",
     "canales_encontrados": 0,
     "programas_nuevos": 0,
-    "error": ""
+    "error": "Contenido idéntico a https://iptv-epg.org/files/epg-gt.xml"
   },
   {
     "url": "https://iptv-epg.org/files/epg-ni.xml",
@@ -138,10 +138,10 @@
   {
     "url": "https://iptv-epg.org/files/epg-ni.xml.gz",
     "formato": "GZIP",
-    "estado": "XMLTV válido",
+    "estado": "duplicado de contenido",
     "canales_encontrados": 0,
     "programas_nuevos": 0,
-    "error": ""
+    "error": "Contenido idéntico a https://iptv-epg.org/files/epg-ni.xml"
   },
   {
     "url": "https://iptv-epg.org/files/epg-pa.xml",
@@ -154,10 +154,10 @@
   {
     "url": "https://iptv-epg.org/files/epg-pa.xml.gz",
     "formato": "GZIP",
-    "estado": "XMLTV válido",
+    "estado": "duplicado de contenido",
     "canales_encontrados": 0,
     "programas_nuevos": 0,
-    "error": ""
+    "error": "Contenido idéntico a https://iptv-epg.org/files/epg-pa.xml"
   },
   {
     "url": "https://iptv-epg.org/files/epg-py.xml",
@@ -170,10 +170,10 @@
   {
     "url": "https://iptv-epg.org/files/epg-py.xml.gz",
     "formato": "GZIP",
-    "estado": "XMLTV válido",
+    "estado": "duplicado de contenido",
     "canales_encontrados": 0,
     "programas_nuevos": 0,
-    "error": ""
+    "error": "Contenido idéntico a https://iptv-epg.org/files/epg-py.xml"
   },
   {
     "url": "https://iptv-epg.org/files/epg-pe.xml",
@@ -186,10 +186,10 @@
   {
     "url": "https://iptv-epg.org/files/epg-pe.xml.gz",
     "formato": "GZIP",
-    "estado": "XMLTV válido",
+    "estado": "duplicado de contenido",
     "canales_encontrados": 0,
     "programas_nuevos": 0,
-    "error": ""
+    "error": "Contenido idéntico a https://iptv-epg.org/files/epg-pe.xml"
   },
   {
     "url": "https://iptv-epg.org/files/epg-es.xml",
@@ -202,10 +202,10 @@
   {
     "url": "https://iptv-epg.org/files/epg-es.xml.gz",
     "formato": "GZIP",
-    "estado": "XMLTV válido",
+    "estado": "duplicado de contenido",
     "canales_encontrados": 0,
     "programas_nuevos": 0,
-    "error": ""
+    "error": "Contenido idéntico a https://iptv-epg.org/files/epg-es.xml"
   },
   {
     "url": "https://iptv-epg.org/files/epg-uy.xml",
@@ -218,10 +218,10 @@
   {
     "url": "https://iptv-epg.org/files/epg-uy.xml.gz",
     "formato": "GZIP",
-    "estado": "XMLTV válido",
+    "estado": "duplicado de contenido",
     "canales_encontrados": 0,
     "programas_nuevos": 0,
-    "error": ""
+    "error": "Contenido idéntico a https://iptv-epg.org/files/epg-uy.xml"
   },
   {
     "url": "https://iptv-epg.org/files/epg-ve.xml",
@@ -234,10 +234,10 @@
   {
     "url": "https://iptv-epg.org/files/epg-ve.xml.gz",
     "formato": "GZIP",
-    "estado": "XMLTV válido",
+    "estado": "duplicado de contenido",
     "canales_encontrados": 0,
     "programas_nuevos": 0,
-    "error": ""
+    "error": "Contenido idéntico a https://iptv-epg.org/files/epg-ve.xml"
   },
   {
     "url": "https://iptv-epg.org/files/epg-us.xml",
@@ -245,7 +245,7 @@
     "estado": "fallo",
     "canales_encontrados": 0,
     "programas_nuevos": 0,
-    "error": "Descarga superior a 35 MB."
+    "error": "Descarga comprimida o directa superior a 100 MB."
   },
   {
     "url": "https://iptv-epg.org/files/epg-us.xml.gz",
@@ -253,6 +253,6 @@
     "estado": "fallo",
     "canales_encontrados": 0,
     "programas_nuevos": 0,
-    "error": "Descarga superior a 35 MB."
+    "error": "XML descomprimido superior a 200 MB."
   }
 ]
