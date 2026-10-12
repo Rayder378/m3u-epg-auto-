@@ -1,0 +1,277 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Rayder378/m3u-epg-auto-/main/output/epg.xml"
+#EXTINF:-1 tvg-id="m3u-auto-82342bf9a331" tvg-name="A&E HD",A&E HD
+http://38.210.3.64:8090/play/a0nn/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-221c9153457c" tvg-name="AMC",AMC
+http://38.210.3.64:8090/play/a0n5/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-bfc9fe7f42f3" tvg-name="AMC HD",AMC HD
+http://38.210.3.64:8090/play/a0hp/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-6f5c0112d3be" tvg-name="ATV",ATV
+http://38.210.3.64:8090/play/a0da/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-0b224da89762" tvg-name="AXN HD",AXN HD
+http://38.210.3.64:8090/play/a0iz/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-ae8b04691700" tvg-name="Adult Swim",Adult Swim
+http://38.210.3.64:8090/play/a0jx/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-9575224e7e77" tvg-name="America TV HD",America TV HD
+http://38.210.3.64:8090/play/a0bw/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-fec7b4990182" tvg-name="Animal Planet HD",Animal Planet HD
+http://38.210.3.64:8090/play/a0j4/index.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News",BBC News
+http://38.210.3.64:8090/play/a0oz/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-99019ff39947" tvg-name="BETHEL TV",BETHEL TV
+http://38.210.3.64:8090/play/a0dy/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-ae2db515226d" tvg-name="Baby TV",Baby TV
+http://38.210.3.64:8090/play/a0km/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-4dfd291df3c4" tvg-name="CHV HD",CHV HD
+http://38.210.3.64:8090/play/a0o8/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-c1844735e78e" tvg-name="CNN Espaæol",CNN Espaæol
+http://38.210.3.64:8090/play/a0el/index.m3u8
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International",CNN International
+http://38.210.3.64:8090/play/a0o1/index.m3u8
+#EXTINF:-1 tvg-id="CanalN.pe" tvg-name="Canal N",Canal N
+http://38.210.3.64:8090/play/a0ns/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in" tvg-name="Cartoon Network HD+",Cartoon Network HD
+http://38.210.3.64:8090/play/a0ny/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-84b51d4988c3" tvg-name="Cartoonito",Cartoonito
+http://38.210.3.64:8090/play/a0oa/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-60f42f4f2bb4" tvg-name="Cinecanal HD",Cinecanal HD
+http://38.210.3.64:8090/play/a0iy/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-d0af5a2872ca" tvg-name="Cinemax",Cinemax
+http://38.210.3.64:8090/play/a0gt/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-70e826809bba" tvg-name="Comedy Central HD",Comedy Central HD
+http://38.210.3.64:8090/play/a0do/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-9856b3d7caa6" tvg-name="DAYSTAR",DAYSTAR
+http://38.210.3.64:8090/play/a0ni/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-332c0e962000" tvg-name="DW Espaæol",DW Espaæol
+http://38.210.3.64:8090/play/a0kk/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-d80fc56149a7" tvg-name="De PelŦcula",De PelŦcula
+http://38.210.3.64:8090/play/a0m8/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-ea5ad22f4b2b" tvg-name="Direc tv",Direc tv
+http://38.210.3.64:8090/play/a0p5/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-6312e1ce845b" tvg-name="Direc tvplus",Direc tvplus
+http://38.210.3.64:8090/play/a0p6/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-951bc44f4dcb" tvg-name="Discovery Channel  HD",Discovery Channel  HD
+http://38.210.3.64:8090/play/a0j5/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-8e7f8ee246e8" tvg-name="Discovery Kids HD",Discovery Kids HD
+http://38.210.3.64:8090/play/a0o2/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-21b0980319ef" tvg-name="Discovery Theater HD",Discovery Theater HD
+http://38.210.3.64:8090/play/a0cx/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-66ed80d69357" tvg-name="Disney HD",Disney HD
+http://38.210.3.64:8090/play/a0j9/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-77b8d663b169" tvg-name="Disney Junior",Disney Junior
+http://38.210.3.64:8090/play/a0eo/index.m3u8
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia",Distrito Comedia
+http://38.210.3.64:8090/play/a0cu/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-57b3dedab59f" tvg-name="E! Entertainment TV",E! Entertainment TV
+http://38.210.3.64:8090/play/a0js/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-82500d90af0e" tvg-name="ESPN 2 HD",ESPN 2 HD
+http://38.210.3.64:8090/play/a0pb/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-82500d90af0e-2" tvg-name="ESPN 2 HD",ESPN 2 HD
+http://38.210.3.64:8090/play/a0k8/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-6f0c35b01698" tvg-name="ESPN 3 HD",ESPN 3 HD
+http://38.210.3.64:8090/play/a0jb/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-3742307bfdd1" tvg-name="ESPN 4HD",ESPN 4HD
+http://38.210.3.64:8090/play/a0jc/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-51a5d1c7fc68" tvg-name="ESPN 5HD",ESPN 5HD
+http://38.210.3.64:8090/play/a0jd/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-f56a2209a559" tvg-name="ESPN 6HD",ESPN 6HD
+http://38.210.3.64:8090/play/a0dj/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-28030b7bfe1e" tvg-name="ESPN 7HD",ESPN 7HD
+http://38.210.3.64:8090/play/a0e6/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-fee94263c7f0" tvg-name="ESPN HD",ESPN HD
+http://38.210.3.64:8090/play/a0np/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-fee94263c7f0-2" tvg-name="ESPN HD",ESPN HD
+http://38.210.3.64:8090/play/a0pc/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-fee94263c7f0-3" tvg-name="ESPN HD",ESPN HD
+http://38.210.3.64:8090/play/a0bu/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-27515ca5336e" tvg-name="ESPN Premium HD",ESPN Premium HD
+http://38.210.3.64:8090/play/a0ke/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-ddb558ae5668" tvg-name="EWTN",EWTN
+http://38.210.3.64:8090/play/a0l5/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-20165b729245" tvg-name="El Gourmet HD",El Gourmet HD
+http://38.210.3.64:8090/play/a0ob/index.m3u8
+#EXTINF:-1 tvg-id="Enlace.cr" tvg-name="Enlace",Enlace
+http://38.210.3.64:8090/play/a0jw/index.m3u8
+#EXTINF:-1 tvg-id="EuropaEuropa.ar" tvg-name="Europa Europa",Europa Europa
+http://38.210.3.64:8090/play/a0ks/index.m3u8
+#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-name="Exitosa TV",Exitosa TV
+http://38.210.3.64:8090/play/a0ms/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-95a05f8e7102" tvg-name="FMH FAMILY",FMH FAMILY
+http://38.210.3.64:8090/play/a0gj/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-66a1d5e0db66" tvg-name="FMH FAMILY KIDS",FMH FAMILY KIDS
+http://38.210.3.64:8090/play/a0gk/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-2d68589e7c35" tvg-name="FMH FAMILY MOVIE",FMH FAMILY MOVIE
+http://38.210.3.64:8090/play/a0gl/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-9eb5e115d293" tvg-name="FOX SPORT PREMIUM",FOX SPORT PREMIUM
+http://38.210.3.64:8090/play/a083/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-04790b89d710" tvg-name="FX HD",FX HD
+http://38.210.3.64:8090/play/a0kv/index.m3u8
+#EXTINF:-1 tvg-id="FilmArts.ar" tvg-name="Film & Arts",Film&Arts
+http://38.210.3.64:8090/play/a0nj/index.m3u8
+#EXTINF:-1 tvg-id="FilmArts.ar" tvg-name="Film & Arts",Film&Arts
+http://38.210.3.64:8090/play/a0kq/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-775ceee05cf8" tvg-name="Food Network",Food Network
+http://38.210.3.64:8090/play/a0o0/index.m3u8
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24",France 24
+http://38.210.3.64:8090/play/a0kj/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-9027cc5a2c13" tvg-name="GLOBAL",GLOBAL
+http://38.210.3.64:8090/play/a0dc/index.m3u8
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="Golden Edge",Golden Edge
+http://38.210.3.64:8090/play/a0co/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-5b8a7b29f477" tvg-name="Golden HD",Golden HD
+http://38.210.3.64:8090/play/a0kp/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-675eb86635d6" tvg-name="HBO Family HD",HBO Family HD
+http://38.210.3.64:8090/play/a0h5/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-9a9e7f594ecc" tvg-name="HBO HD",HBO HD
+http://38.210.3.64:8090/play/a0h9/index.m3u8
+#EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="HBO Mundi",HBO Mundi
+http://38.210.3.64:8090/play/a0p0/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-be48a42bdee3" tvg-name="HBO Plus",HBO Plus
+http://38.210.3.64:8090/play/a0cs/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-88677614db8f" tvg-name="HBO Signature",HBO Signature
+http://38.210.3.64:8090/play/a0ht/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-b72312046bd9" tvg-name="HBO XTREME HD",HBO XTREME HD
+http://38.210.3.64:8090/play/a0j0/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-005d2744f839" tvg-name="HTV",HTV
+http://38.210.3.64:8090/play/a0nk/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-005d2744f839-2" tvg-name="HTV",HTV
+http://38.210.3.64:8090/play/a0cj/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-175c750451c2" tvg-name="History 2",History 2
+http://38.210.3.64:8090/play/a0c6/index.m3u8
+#EXTINF:-1 tvg-id="History.si" tvg-name="History",History Channel HD
+http://38.210.3.64:8090/play/a0j6/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-280d8a25a26e" tvg-name="Home & Health HD",Home & Health HD
+http://38.210.3.64:8090/play/a0o7/index.m3u8
+#EXTINF:-1 tvg-id="IDHD.si" tvg-name="ID HD",ID HD
+http://38.210.3.64:8090/play/a0j8/index.m3u8
+#EXTINF:-1 tvg-id="Karibena.pe" tvg-name="Karibena",KARIBEÑA
+http://38.210.3.64:8090/play/a08c/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-76857581d9fa" tvg-name="Kanal D Drama",Kanal D Drama
+http://38.210.3.64:8090/play/a0oo/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-39a89dd158c8" tvg-name="L1",L1
+http://38.210.3.64:8090/play/a0p3/index.m3u8
+#EXTINF:-1 tvg-id="L1Max.pe" tvg-name="L1 Max",L1 MAX
+http://38.210.3.64:8090/play/a0nv/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-b7a7be302bd8" tvg-name="La Red",La Red
+http://38.210.3.64:8090/play/a0li/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-52036cd7f970" tvg-name="Las Estrellas HD",Las Estrellas HD
+http://38.210.3.64:8090/play/a0o6/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-d7a4d0aeeac9" tvg-name="Latina HD",Latina HD
+http://38.210.3.64:8090/play/a0c0/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-ba1d32fcf830" tvg-name="Lifetime",Lifetime
+http://38.210.3.64:8090/play/a0ly/index.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature",Love Nature
+http://38.210.3.64:8090/play/a0op/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-80f851569da5" tvg-name="MEGA HD",MEGA HD
+http://38.210.3.64:8090/play/a0lh/index.m3u8
+#EXTINF:-1 tvg-id="MiMusicaHits.us" tvg-name="Mi Musica Hits",MI MUSICA HITS
+http://38.210.3.64:8090/play/a0ge/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-3de007343ba3" tvg-name="MI MUSICA PERU",MI MUSICA PERU
+http://38.210.3.64:8090/play/a0gg/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-94ed6a9aa594" tvg-name="MTV HD",MTV HD
+http://38.210.3.64:8090/play/a0ew/index.m3u8
+#EXTINF:-1 tvg-id="MundodelaMusica.cl" tvg-name="Mundo de la Musica",MUNDO DE LA MUSICA
+http://38.210.3.64:8090/play/a0lt/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-63e9151d9095" tvg-name="MUSICA VENE",MUSICA VENE
+http://38.210.3.64:8090/play/a0lw/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-4228bcdf50c6" tvg-name="Mega",Mega
+http://38.210.3.64:8090/play/a0mi/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-f7ee5bf4469c" tvg-name="Movistar Deportes",Movistar Deportes
+http://38.210.3.64:8090/play/a0nr/index.m3u8
+#EXTINF:-1 tvg-id="NuevoTiempo.br" tvg-name="Nuevo Tiempo",NUEVO TIEMPO
+http://38.210.3.64:8090/play/AS01/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-0d9d3d9edd8e" tvg-name="Nat Geo HD",Nat Geo HD
+http://38.210.3.64:8090/play/a0j7/index.m3u8
+#EXTINF:-1 tvg-id="NickHDPlus.in" tvg-name="Nick HD+",Nick HD
+http://38.210.3.64:8090/play/a0d3/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-2b5c1eb2dc6b" tvg-name="Nick Jr.",Nick Jr.
+http://38.210.3.64:8090/play/a0nx/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-4bc4d0f36d38" tvg-name="Nick Music",Nick Music
+http://38.210.3.64:8090/play/a0cc/index.m3u8
+#EXTINF:-1 tvg-id="NuestraTeleInternacional.co" tvg-name="Nuestra Tele Internacional",Nuestra Tele
+http://38.210.3.64:8090/play/a0mj/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-d538b1f5f513" tvg-name="OROMAR TV",OROMAR TV
+http://38.210.3.64:8090/play/a0oe/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-c150ca753e69" tvg-name="Panamericana",Panamericana
+http://38.210.3.64:8090/play/a0d8/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-68aefe4b9ecd" tvg-name="Pasiones HD",Pasiones HD
+http://38.210.3.64:8090/play/a0kb/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-243ba0974514" tvg-name="Plim Plim TV",Plim Plim TV
+http://38.210.3.64:8090/play/a0oi/index.m3u8
+#EXTINF:-1 tvg-id="RaiItalia.it" tvg-name="Rai Italia",RAI Italia
+http://38.210.3.64:8090/play/a0od/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-2bebb895611a" tvg-name="REC TV",REC TV
+http://38.210.3.64:8090/play/a0o9/index.m3u8
+#EXTINF:-1 tvg-id="RPPTV.pe" tvg-name="RPP TV",RPP
+http://38.210.3.64:8090/play/a0db/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-8ef912a8a602" tvg-name="SOMOS TV VENEZUELA",SOMOS TV VENEZUELA
+http://38.210.3.64:8090/play/a0lv/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-8fc66813baed" tvg-name="STAR CHANNEL",STAR CHANNEL
+http://38.210.3.64:8090/play/a0or/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-86caf66f6587" tvg-name="STAR CHANNEL HD",STAR CHANNEL HD
+http://38.210.3.64:8090/play/a0iw/index.m3u8
+#EXTINF:-1 tvg-id="Sextreme.br" tvg-name="Sextreme",Sextreme
+http://38.210.3.64:8090/play/a0oh/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-2fc46a9c06f1" tvg-name="Sony HD",Sony HD
+http://38.210.3.64:8090/play/a0it/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-6841c88be7fe" tvg-name="Sony Movies",Sony Movies
+http://38.210.3.64:8090/play/a0o3/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-9bf7e5f989f7" tvg-name="Space HD",Space HD
+http://38.210.3.64:8090/play/a0iu/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-020066b6f30d" tvg-name="Stingray Concerts HD",Stingray Concerts HD
+http://38.210.3.64:8090/play/a0m5/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-54fac72e0665" tvg-name="Studio Universal HD",Studio Universal HD
+http://38.210.3.64:8090/play/a0bt/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-6105171674b9" tvg-name="TCM",TCM
+http://38.210.3.64:8090/play/a0kr/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-ab0c6d1732fe" tvg-name="TNT HD",TNT HD
+http://38.210.3.64:8090/play/a0is/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-585eb039bfbc" tvg-name="TNT Novelas HD",TNT Novelas HD
+http://38.210.3.64:8090/play/a0ir/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-8ac2487f5fdb" tvg-name="TNT Series HD",TNT Series HD
+http://38.210.3.64:8090/play/a0ix/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-1f8a81d1f67e" tvg-name="TNT Sports Premiun HD",TNT Sports Premiun HD
+http://38.210.3.64:8090/play/a0kl/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-86670c6d5205" tvg-name="TOP LATINO",TOP LATINO
+http://38.210.3.64:8090/play/a0lm/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-c205f06c41d9" tvg-name="TV ARAGUA",TV ARAGUA
+http://38.210.3.64:8090/play/a0lu/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-9d7d05195e11" tvg-name="TV Perœ",TV Perœ
+http://38.210.3.64:8090/play/a0ok/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-3e9edf6b413c" tvg-name="TVE",TVE
+http://38.210.3.64:8090/play/a0p1/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-4514ebfb6dbd" tvg-name="TVS MACARAY",TVS MACARAY
+http://38.210.3.64:8090/play/a0lr/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-ba32557ea82e" tvg-name="Teen Nick",Teen Nick
+http://38.210.3.64:8090/play/a0et/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-4141eb387734" tvg-name="TelefØ",TelefØ
+http://38.210.3.64:8090/play/a0ou/index.m3u8
+#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo",Telemundo
+http://38.210.3.64:8090/play/a0jt/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-4fa0cb42bfcf" tvg-name="Tlnovelas",Tlnovelas
+http://38.210.3.64:8090/play/a0m7/index.m3u8
+#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast",Tooncast
+http://38.210.3.64:8090/play/a0ju/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-35e9bf634d23" tvg-name="UFC",UFC
+http://38.210.3.64:8090/play/A01E/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-d4d5f957d2c9" tvg-name="UNIVERSAL CHANNEL HD",UNIVERSAL CHANNEL HD
+http://38.210.3.64:8090/play/a0og/index.m3u8
+#EXTINF:-1 tvg-id="SanskarUSA.in" tvg-name="Sanskar USA",USA
+http://38.210.3.64:8090/play/a0cn/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-de8e7137a0e6" tvg-name="VISION MUSICA",VISION MUSICA
+http://38.210.3.64:8090/play/a0ln/index.m3u8
+#EXTINF:-1 tvg-id="ViaXEsports.cl" tvg-name="Via X Esports",Via X Esports
+http://38.210.3.64:8090/play/a0i3/index.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel.us" tvg-name="Warner Channel",Warner Channel
+http://38.210.3.64:8090/play/a0os/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-be58101a4b94" tvg-name="Warner Channel HD",Warner Channel HD
+http://38.210.3.64:8090/play/a0j1/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-b2508d22af6e" tvg-name="Willax",Willax
+http://38.210.3.64:8090/play/a0on/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-6ab09b8733ed" tvg-name="fib music",fib music
+http://38.210.3.64:8090/play/a0p7/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-7f4e0cd49003" tvg-name="fib peliculas",fib peliculas
+http://38.210.3.64:8090/play/a0p9/index.m3u8
+#EXTINF:-1 tvg-id="m3u-auto-c6ea06452e72" tvg-name="vclassic musica",vclassic musica
+http://38.210.3.64:8090/play/a0kd/index.m3u8
+#EXTINF:-1 tvg-id="WestTV.ke" tvg-name="West TV",west tv
+http://38.210.3.64:8090/play/a0p8/index.m3u8
