@@ -1,0 +1,21 @@
+
+https://worker-9dd4.onrender.com/guide.xml
+https://worker-9dd4.onrender.com/guide.xml.gz
+
+https://iptv-epg.org/files/epg-co.xml
+https://iptv-epg.org/files/epg-co.xml.gz
+
+https://iptv-epg.org/files/epg-cl.xml
+https://iptv-epg.org/files/epg-cl.xml.gz
+
+https://iptv-epg.org/files/epg-ar.xml
+https://iptv-epg.org/files/epg-ar.xml.gz
+
+https://iptv-epg.org/files/epg-sv.xml
+https://iptv-epg.org/files/epg-sv.xml.gz
+
+https://iptv-epg.org/files/epg-mx.xml
+https://iptv-epg.org/files/epg-mx.xml.gz
+
+# Puedees añadir otras fuentes debajo
+# Una URL por línea
