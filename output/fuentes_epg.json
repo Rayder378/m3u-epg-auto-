@@ -14,5 +14,85 @@
     "canales_encontrados": 0,
     "programas_nuevos": 0,
     "error": ""
+  },
+  {
+    "url": "https://iptv-epg.org/files/epg-co.xml",
+    "formato": "XML",
+    "estado": "XMLTV válido",
+    "canales_encontrados": 17,
+    "programas_nuevos": 4539,
+    "error": ""
+  },
+  {
+    "url": "https://iptv-epg.org/files/epg-co.xml.gz",
+    "formato": "GZIP",
+    "estado": "XMLTV válido",
+    "canales_encontrados": 0,
+    "programas_nuevos": 0,
+    "error": ""
+  },
+  {
+    "url": "https://iptv-epg.org/files/epg-cl.xml",
+    "formato": "XML",
+    "estado": "XMLTV válido",
+    "canales_encontrados": 8,
+    "programas_nuevos": 2969,
+    "error": ""
+  },
+  {
+    "url": "https://iptv-epg.org/files/epg-cl.xml.gz",
+    "formato": "GZIP",
+    "estado": "XMLTV válido",
+    "canales_encontrados": 0,
+    "programas_nuevos": 0,
+    "error": ""
+  },
+  {
+    "url": "https://iptv-epg.org/files/epg-ar.xml",
+    "formato": "XML",
+    "estado": "XMLTV válido",
+    "canales_encontrados": 0,
+    "programas_nuevos": 1734,
+    "error": ""
+  },
+  {
+    "url": "https://iptv-epg.org/files/epg-ar.xml.gz",
+    "formato": "GZIP",
+    "estado": "XMLTV válido",
+    "canales_encontrados": 0,
+    "programas_nuevos": 0,
+    "error": ""
+  },
+  {
+    "url": "https://iptv-epg.org/files/epg-sv.xml",
+    "formato": "XML",
+    "estado": "XMLTV válido",
+    "canales_encontrados": 0,
+    "programas_nuevos": 525,
+    "error": ""
+  },
+  {
+    "url": "https://iptv-epg.org/files/epg-sv.xml.gz",
+    "formato": "GZIP",
+    "estado": "XMLTV válido",
+    "canales_encontrados": 0,
+    "programas_nuevos": 0,
+    "error": ""
+  },
+  {
+    "url": "https://iptv-epg.org/files/epg-mx.xml",
+    "formato": "XML",
+    "estado": "XMLTV válido",
+    "canales_encontrados": 3,
+    "programas_nuevos": 1803,
+    "error": ""
+  },
+  {
+    "url": "https://iptv-epg.org/files/epg-mx.xml.gz",
+    "formato": "GZIP",
+    "estado": "XMLTV válido",
+    "canales_encontrados": 0,
+    "programas_nuevos": 0,
+    "error": ""
   }
 ]

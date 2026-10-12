@@ -1,3 +1,13 @@
 ﻿url,formato,estado,canales_encontrados,programas_nuevos,error
 https://worker-9dd4.onrender.com/guide.xml,XML,XMLTV válido,0,0,
 https://worker-9dd4.onrender.com/guide.xml.gz,GZIP,XMLTV válido,0,0,
+https://iptv-epg.org/files/epg-co.xml,XML,XMLTV válido,17,4539,
+https://iptv-epg.org/files/epg-co.xml.gz,GZIP,XMLTV válido,0,0,
+https://iptv-epg.org/files/epg-cl.xml,XML,XMLTV válido,8,2969,
+https://iptv-epg.org/files/epg-cl.xml.gz,GZIP,XMLTV válido,0,0,
+https://iptv-epg.org/files/epg-ar.xml,XML,XMLTV válido,0,1734,
+https://iptv-epg.org/files/epg-ar.xml.gz,GZIP,XMLTV válido,0,0,
+https://iptv-epg.org/files/epg-sv.xml,XML,XMLTV válido,0,525,
+https://iptv-epg.org/files/epg-sv.xml.gz,GZIP,XMLTV válido,0,0,
+https://iptv-epg.org/files/epg-mx.xml,XML,XMLTV válido,3,1803,
+https://iptv-epg.org/files/epg-mx.xml.gz,GZIP,XMLTV válido,0,0,
