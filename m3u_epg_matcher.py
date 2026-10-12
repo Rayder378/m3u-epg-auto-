@@ -7,6 +7,8 @@
 import argparse
 import csv
 import gzip
+import hashlib
+import io
 import json
 import os
 import re
@@ -21,9 +23,10 @@ from urllib.parse import urlparse
 
 CHANNELS_URL = "https://iptv-org.github.io/api/channels.json"
 GUIDES_URL = "https://iptv-org.github.io/api/guides.json"
-USER_AGENT = "m3u-epg-auto/3.2"
-TIMEOUT = 45
-MAX_DOWNLOAD = 35 * 1024 * 1024
+USER_AGENT = "m3u-epg-auto/3.3"
+TIMEOUT = 60
+MAX_DOWNLOAD = 100 * 1024 * 1024
+MAX_DECOMPRESSED = 200 * 1024 * 1024
 
 PUBLIC_EPG_URL = (
     "https://raw.githubusercontent.com/"
@@ -32,37 +35,64 @@ PUBLIC_EPG_URL = (
 
 
 def download(url):
+    """Descarga con límites para evitar archivos excesivos o bombas gzip."""
     request = urllib.request.Request(
         url,
-        headers={"User-Agent": USER_AGENT, "Accept-Encoding": "gzip"},
+        headers={
+            "User-Agent": USER_AGENT,
+            "Accept-Encoding": "identity",
+        },
     )
+
     with urllib.request.urlopen(request, timeout=TIMEOUT) as response:
         data = response.read(MAX_DOWNLOAD + 1)
 
         if len(data) > MAX_DOWNLOAD:
-            raise ValueError("Descarga superior a 35 MB.")
+            raise ValueError(
+                "Descarga comprimida o directa superior a 100 MB."
+            )
 
-        if (
+        is_gzip = (
             response.headers.get("Content-Encoding", "").lower() == "gzip"
             or data[:2] == b"\x1f\x8b"
-        ):
-            data = gzip.decompress(data)
+        )
+
+        if is_gzip:
+            try:
+                with gzip.GzipFile(fileobj=io.BytesIO(data)) as zipped:
+                    data = zipped.read(MAX_DECOMPRESSED + 1)
+            except (OSError, EOFError) as exc:
+                raise ValueError(f"GZIP inválido: {exc}") from exc
+
+            if len(data) > MAX_DECOMPRESSED:
+                raise ValueError(
+                    "XML descomprimido superior a 200 MB."
+                )
+        elif len(data) > MAX_DECOMPRESSED:
+            raise ValueError("Archivo XML superior a 200 MB.")
 
         return data
 
 
 def get_json(url):
     result = json.loads(download(url).decode("utf-8-sig"))
+
     if not isinstance(result, list):
         raise ValueError("El catálogo no contiene una lista JSON.")
+
     return result
 
 
 def norm(value):
-    value = unicodedata.normalize("NFKD", str(value or "").casefold())
-    value = "".join(c for c in value if not unicodedata.combining(c))
+    value = unicodedata.normalize(
+        "NFKD", str(value or "").casefold()
+    )
+    value = "".join(
+        c for c in value if not unicodedata.combining(c)
+    )
     value = value.replace("&", " and ")
     value = re.sub(r"[^a-z0-9]+", " ", value)
+
     return " ".join(value.split())
 
 
@@ -123,7 +153,9 @@ def set_attr(header, key, value):
 
 
 def write_csv(path, fields, rows):
-    with path.open("w", encoding="utf-8-sig", newline="") as file:
+    with path.open(
+        "w", encoding="utf-8-sig", newline=""
+    ) as file:
         writer = csv.DictWriter(
             file,
             fieldnames=fields,
@@ -173,7 +205,9 @@ def custom_source_urls(path="url XML/urls.txt"):
     seen = set()
 
     if not file_path.exists():
-        print(f"No existe {path}; se usarán las fuentes de IPTV-org.")
+        print(
+            f"No existe {path}; se usarán las fuentes de IPTV-org."
+        )
         return sources
 
     for line in file_path.read_text(
@@ -201,7 +235,9 @@ def custom_source_urls(path="url XML/urls.txt"):
             "guide_channels": set(),
         })
 
-    print(f"Fuentes XMLTV manuales encontradas: {len(sources)}")
+    print(
+        f"Fuentes XMLTV manuales encontradas: {len(sources)}"
+    )
     return sources
 
 
@@ -262,14 +298,14 @@ def resolve_by_name(channel, name_to_ids):
         if node.tag.split("}")[-1].lower() == "display-name"
     ]
 
-    # Primero, coincidencia exacta.
+    # Coincidencia exacta primero.
     for display_name in display_names:
         ids = name_to_ids.get(norm(display_name), set())
 
         if len(ids) == 1:
             return next(iter(ids))
 
-    # Coincidencia parcial solo cuando no es ambigua.
+    # Coincidencia parcial solo si no es ambigua.
     possible = set()
 
     for display_name in display_names:
@@ -299,7 +335,10 @@ def main():
     m3u_url = os.environ.get("M3U_URL", "").strip()
 
     if not m3u_url:
-        print("ERROR: falta el secreto M3U_URL.", file=sys.stderr)
+        print(
+            "ERROR: falta el secreto M3U_URL.",
+            file=sys.stderr,
+        )
         return 1
 
     out = Path(args.out)
@@ -309,8 +348,12 @@ def main():
     playlist_text = download(m3u_url).decode("utf-8-sig")
     lines = playlist_text.splitlines()
 
-    if not any(line.strip().startswith("#EXTM3U") for line in lines):
-        raise ValueError("La URL no devolvió una playlist M3U válida.")
+    if not any(
+        line.strip().startswith("#EXTM3U") for line in lines
+    ):
+        raise ValueError(
+            "La URL no devolvió una playlist M3U válida."
+        )
 
     print("Descargando catálogos...")
     channels = get_json(CHANNELS_URL)
@@ -331,10 +374,12 @@ def main():
     matched = 0
     reserved_ids = set()
 
-    # Reservar identificadores que ya existan en la playlist original.
+    # Reservar IDs ya existentes en la playlist original.
     for original_line in lines:
         if original_line.strip().startswith("#EXTINF:"):
-            original_header, _ = split_extinf(original_line.strip())
+            original_header, _ = split_extinf(
+                original_line.strip()
+            )
             original_id = attributes(original_header).get(
                 "tvg-id", ""
             ).strip()
@@ -342,7 +387,7 @@ def main():
             if original_id:
                 reserved_ids.add(original_id)
 
-    # Conservar canales y completar sus identificadores.
+    # Conservar canales y completar identificadores.
     for line in lines:
         stripped = line.strip()
 
@@ -362,30 +407,26 @@ def main():
             matched += 1
 
             if not channel_id:
-                channel_id = str(match.get("id") or "").strip()
+                channel_id = str(
+                    match.get("id") or ""
+                ).strip()
 
             if not tvg_name:
                 tvg_name = str(
                     match.get("name") or display_name
                 ).strip()
 
-        # Crear un ID propio cuando no haya uno fiable.
+        # Crear un ID propio si el canal no tiene ID.
         if not channel_id:
-            slug = re.sub(
-                r"[^a-z0-9]+",
-                "-",
-                norm(display_name),
-            ).strip("-")[:60]
+            base = "m3u-auto-" + hashlib.sha1(
+                norm(display_name).encode("utf-8")
+            ).hexdigest()[:12]
 
-            if not slug:
-                slug = f"canal-{total}"
-
-            base_id = f"m3u-auto-{slug}"
-            channel_id = base_id
+            channel_id = base
             suffix = 2
 
             while channel_id in reserved_ids:
-                channel_id = f"{base_id}-{suffix}"
+                channel_id = f"{base}-{suffix}"
                 suffix += 1
 
             reserved_ids.add(channel_id)
@@ -400,11 +441,13 @@ def main():
             "name": display_name,
             "id": channel_id,
             "tvg_name": tvg_name,
-            "catalog_id": str((match or {}).get("id") or ""),
+            "catalog_id": str(
+                (match or {}).get("id") or ""
+            ),
             "catalog_names": names_for(match),
         })
 
-        # No modificar la URL original de reproducción.
+        # No modificar la URL de reproducción.
         rewritten.append(
             "#EXTINF:" + header + "," + display_name
         )
@@ -428,7 +471,7 @@ def main():
             if name:
                 name_to_ids[norm(name)].add(channel_id)
 
-    # Publicar la dirección de la guía en el encabezado M3U.
+    # Publicar la URL de la guía en el encabezado M3U.
     for i, line in enumerate(rewritten):
         if line.strip().startswith("#EXTM3U"):
             header = line.strip()
@@ -451,7 +494,6 @@ def main():
     # Consultar IPTV-org y las fuentes manuales.
     print("Buscando fuentes XMLTV...")
     sources = source_urls(guides)
-
     known_urls = {source["url"] for source in sources}
 
     for source in custom_source_urls():
@@ -459,36 +501,65 @@ def main():
             sources.append(source)
             known_urls.add(source["url"])
 
-    print(f"Total de fuentes XMLTV a consultar: {len(sources)}")
+    print(
+        f"Total de fuentes XMLTV a consultar: {len(sources)}"
+    )
 
     xml_channels = {}
     programmes = {}
     successful_sources = []
     source_report = []
     failures = 0
+    content_hashes = {}
 
     for source in sources:
         url = source["url"]
 
         try:
             print("Probando fuente:", urlparse(url).netloc)
-            root = parse_xmltv(download(url))
+            source_data = download(url)
+            digest = hashlib.sha256(source_data).hexdigest()
+
+            # Evitar procesar dos veces XML idénticos.
+            if digest in content_hashes:
+                source_report.append({
+                    "url": url,
+                    "formato": source["format"],
+                    "estado": "duplicado de contenido",
+                    "canales_encontrados": 0,
+                    "programas_nuevos": 0,
+                    "error": (
+                        "Contenido idéntico a "
+                        + content_hashes[digest]
+                    ),
+                })
+                print(
+                    "Fuente duplicada; se omite el segundo procesamiento."
+                )
+                continue
+
+            content_hashes[digest] = url
+            root = parse_xmltv(source_data)
 
             local_id_map = {}
             found_channels = 0
             found_programmes = 0
 
-            # Relacionar canales de la guía con canales de la playlist.
+            # Relacionar canales de la guía con la playlist.
             for channel in root:
                 if channel.tag.split("}")[-1].lower() != "channel":
                     continue
 
-                xml_id = str(channel.get("id") or "").strip()
+                xml_id = str(
+                    channel.get("id") or ""
+                ).strip()
 
                 if not xml_id:
                     continue
 
-                target_id = resolve_target_id(xml_id, valid_ids)
+                target_id = resolve_target_id(
+                    xml_id, valid_ids
+                )
 
                 if not target_id:
                     target_id = resolve_by_name(
@@ -501,12 +572,14 @@ def main():
                 local_id_map[xml_id] = target_id
 
                 if target_id not in xml_channels:
-                    clone = ET.fromstring(ET.tostring(channel))
+                    clone = ET.fromstring(
+                        ET.tostring(channel)
+                    )
                     clone.set("id", target_id)
                     xml_channels[target_id] = clone
                     found_channels += 1
 
-            # Incorporar programas de los canales que sí coincidieron.
+            # Incorporar programas de canales relacionados.
             for programme in root:
                 if programme.tag.split("}")[-1].lower() != "programme":
                     continue
@@ -519,7 +592,9 @@ def main():
                 if not target_id:
                     continue
 
-                clone = ET.fromstring(ET.tostring(programme))
+                clone = ET.fromstring(
+                    ET.tostring(programme)
+                )
                 clone.set("channel", target_id)
 
                 start = clone.get("start", "")
@@ -610,7 +685,7 @@ def main():
             xml_declaration=True,
         )
 
-    # Crear informe por canal.
+    # Informe por canal.
     report = []
 
     for entry in entries:
@@ -676,16 +751,32 @@ def main():
     )
 
     (out / "fuentes_epg.json").write_text(
-        json.dumps(source_report, ensure_ascii=False, indent=2),
+        json.dumps(
+            source_report,
+            ensure_ascii=False,
+            indent=2,
+        ),
         encoding="utf-8",
     )
 
     print(f"Canales analizados: {total}")
-    print(f"Canales con coincidencia de catálogo: {matched}")
+    print(
+        f"Canales con coincidencia de catálogo: {matched}"
+    )
     print(f"Fuentes XMLTV probadas: {len(sources)}")
-    print(f"Fuentes con XMLTV válido: {len(successful_sources)}")
-    print(f"Canales en la guía generada: {len(xml_channels)}")
-    print(f"Programas en la guía generada: {len(programmes)}")
+    print(
+        f"Fuentes con XMLTV válido: {len(successful_sources)}"
+    )
+    print(
+        "Fuentes duplicadas omitidas: "
+        f"{sum(1 for row in source_report if row['estado'] == 'duplicado de contenido')}"
+    )
+    print(
+        f"Canales en la guía generada: {len(xml_channels)}"
+    )
+    print(
+        f"Programas en la guía generada: {len(programmes)}"
+    )
     print(f"Fuentes con error: {failures}")
     print(f"Playlist generada: {playlist_path}")
     print(f"XMLTV generado: {xml_path}")
