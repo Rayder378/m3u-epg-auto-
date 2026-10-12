@@ -1,139 +1,139 @@
 ﻿canal_lista,tvg_id,tvg_name,coincidencia,guias_catalogo,programas_encontrados
-A&E HD,,,sin coincidencia de catálogo,0,0
-AMC,,,sin coincidencia de catálogo,0,0
-AMC HD,,,sin coincidencia de catálogo,0,0
-ATV,,,sin coincidencia de catálogo,0,0
-AXN HD,,,sin coincidencia de catálogo,0,0
-Adult Swim,,,sin coincidencia de catálogo,0,0
-America TV HD,,,sin coincidencia de catálogo,0,0
-Animal Planet HD,,,sin coincidencia de catálogo,0,0
+A&E HD,m3u-auto-a-and-e-hd,A&E HD,sin coincidencia de catálogo,0,0
+AMC,m3u-auto-amc,AMC,sin coincidencia de catálogo,0,0
+AMC HD,m3u-auto-amc-hd,AMC HD,sin coincidencia de catálogo,0,0
+ATV,m3u-auto-atv,ATV,sin coincidencia de catálogo,0,0
+AXN HD,m3u-auto-axn-hd,AXN HD,sin coincidencia de catálogo,0,0
+Adult Swim,m3u-auto-adult-swim,Adult Swim,sin coincidencia de catálogo,0,0
+America TV HD,m3u-auto-america-tv-hd,America TV HD,sin coincidencia de catálogo,0,0
+Animal Planet HD,m3u-auto-animal-planet-hd,Animal Planet HD,sin coincidencia de catálogo,0,0
 BBC News,BBCNews.uk,BBC News,sí,80,0
-BETHEL TV,,,sin coincidencia de catálogo,0,0
-Baby TV,,,sin coincidencia de catálogo,0,0
-CHV HD,,,sin coincidencia de catálogo,0,0
-CNN Espaæol,,,sin coincidencia de catálogo,0,0
+BETHEL TV,m3u-auto-bethel-tv,BETHEL TV,sin coincidencia de catálogo,0,0
+Baby TV,m3u-auto-baby-tv,Baby TV,sin coincidencia de catálogo,0,0
+CHV HD,m3u-auto-chv-hd,CHV HD,sin coincidencia de catálogo,0,0
+CNN Espaæol,m3u-auto-cnn-espa-ol,CNN Espaæol,sin coincidencia de catálogo,0,0
 CNN International,CNNInternational.us,CNN International,sí,77,0
 Canal N,CanalN.pe,Canal N,sí,1,0
 Cartoon Network HD,CartoonNetworkHDPlus.in,Cartoon Network HD+,sí,2,0
-Cartoonito,,,sin coincidencia de catálogo,0,0
-Cinecanal HD,,,sin coincidencia de catálogo,0,0
-Cinemax,,,sin coincidencia de catálogo,0,0
-Comedy Central HD,,,sin coincidencia de catálogo,0,0
-DAYSTAR,,,sin coincidencia de catálogo,0,0
-DW Espaæol,,,sin coincidencia de catálogo,0,0
-De PelŦcula,,,sin coincidencia de catálogo,0,0
-Direc tv,,,sin coincidencia de catálogo,0,0
-Direc tvplus,,,sin coincidencia de catálogo,0,0
-Discovery Channel  HD,,,sin coincidencia de catálogo,0,0
-Discovery Kids HD,,,sin coincidencia de catálogo,0,0
-Discovery Theater HD,,,sin coincidencia de catálogo,0,0
-Disney HD,,,sin coincidencia de catálogo,0,0
-Disney Junior,,,sin coincidencia de catálogo,0,0
+Cartoonito,m3u-auto-cartoonito,Cartoonito,sin coincidencia de catálogo,0,0
+Cinecanal HD,m3u-auto-cinecanal-hd,Cinecanal HD,sin coincidencia de catálogo,0,0
+Cinemax,m3u-auto-cinemax,Cinemax,sin coincidencia de catálogo,0,0
+Comedy Central HD,m3u-auto-comedy-central-hd,Comedy Central HD,sin coincidencia de catálogo,0,0
+DAYSTAR,m3u-auto-daystar,DAYSTAR,sin coincidencia de catálogo,0,0
+DW Espaæol,m3u-auto-dw-espa-ol,DW Espaæol,sin coincidencia de catálogo,0,0
+De PelŦcula,m3u-auto-de-pel-cula,De PelŦcula,sin coincidencia de catálogo,0,0
+Direc tv,m3u-auto-direc-tv,Direc tv,sin coincidencia de catálogo,0,0
+Direc tvplus,m3u-auto-direc-tvplus,Direc tvplus,sin coincidencia de catálogo,0,0
+Discovery Channel  HD,m3u-auto-discovery-channel-hd,Discovery Channel  HD,sin coincidencia de catálogo,0,0
+Discovery Kids HD,m3u-auto-discovery-kids-hd,Discovery Kids HD,sin coincidencia de catálogo,0,0
+Discovery Theater HD,m3u-auto-discovery-theater-hd,Discovery Theater HD,sin coincidencia de catálogo,0,0
+Disney HD,m3u-auto-disney-hd,Disney HD,sin coincidencia de catálogo,0,0
+Disney Junior,m3u-auto-disney-junior,Disney Junior,sin coincidencia de catálogo,0,0
 Distrito Comedia,DistritoComedia.mx,Distrito Comedia,sí,3,0
-E! Entertainment TV,,,sin coincidencia de catálogo,0,0
-ESPN 2 HD,,,sin coincidencia de catálogo,0,0
-ESPN 2 HD,,,sin coincidencia de catálogo,0,0
-ESPN 3 HD,,,sin coincidencia de catálogo,0,0
-ESPN 4HD,,,sin coincidencia de catálogo,0,0
-ESPN 5HD,,,sin coincidencia de catálogo,0,0
-ESPN 6HD,,,sin coincidencia de catálogo,0,0
-ESPN 7HD,,,sin coincidencia de catálogo,0,0
-ESPN HD,,,sin coincidencia de catálogo,0,0
-ESPN HD,,,sin coincidencia de catálogo,0,0
-ESPN HD,,,sin coincidencia de catálogo,0,0
-ESPN Premium HD,,,sin coincidencia de catálogo,0,0
-EWTN,,,sin coincidencia de catálogo,0,0
-El Gourmet HD,,,sin coincidencia de catálogo,0,0
+E! Entertainment TV,m3u-auto-e-entertainment-tv,E! Entertainment TV,sin coincidencia de catálogo,0,0
+ESPN 2 HD,m3u-auto-espn-2-hd,ESPN 2 HD,sin coincidencia de catálogo,0,0
+ESPN 2 HD,m3u-auto-espn-2-hd-2,ESPN 2 HD,sin coincidencia de catálogo,0,0
+ESPN 3 HD,m3u-auto-espn-3-hd,ESPN 3 HD,sin coincidencia de catálogo,0,0
+ESPN 4HD,m3u-auto-espn-4hd,ESPN 4HD,sin coincidencia de catálogo,0,0
+ESPN 5HD,m3u-auto-espn-5hd,ESPN 5HD,sin coincidencia de catálogo,0,0
+ESPN 6HD,m3u-auto-espn-6hd,ESPN 6HD,sin coincidencia de catálogo,0,0
+ESPN 7HD,m3u-auto-espn-7hd,ESPN 7HD,sin coincidencia de catálogo,0,0
+ESPN HD,m3u-auto-espn-hd,ESPN HD,sin coincidencia de catálogo,0,0
+ESPN HD,m3u-auto-espn-hd-2,ESPN HD,sin coincidencia de catálogo,0,0
+ESPN HD,m3u-auto-espn-hd-3,ESPN HD,sin coincidencia de catálogo,0,0
+ESPN Premium HD,m3u-auto-espn-premium-hd,ESPN Premium HD,sin coincidencia de catálogo,0,0
+EWTN,m3u-auto-ewtn,EWTN,sin coincidencia de catálogo,0,0
+El Gourmet HD,m3u-auto-el-gourmet-hd,El Gourmet HD,sin coincidencia de catálogo,0,0
 Enlace,Enlace.cr,Enlace,sí,4,0
 Europa Europa,EuropaEuropa.ar,Europa Europa,sí,5,0
 Exitosa TV,ExitosaTV.pe,Exitosa TV,sí,1,0
-FMH FAMILY,,,sin coincidencia de catálogo,0,0
-FMH FAMILY KIDS,,,sin coincidencia de catálogo,0,0
-FMH FAMILY MOVIE,,,sin coincidencia de catálogo,0,0
-FOX SPORT PREMIUM,,,sin coincidencia de catálogo,0,0
-FX HD,,,sin coincidencia de catálogo,0,0
+FMH FAMILY,m3u-auto-fmh-family,FMH FAMILY,sin coincidencia de catálogo,0,0
+FMH FAMILY KIDS,m3u-auto-fmh-family-kids,FMH FAMILY KIDS,sin coincidencia de catálogo,0,0
+FMH FAMILY MOVIE,m3u-auto-fmh-family-movie,FMH FAMILY MOVIE,sin coincidencia de catálogo,0,0
+FOX SPORT PREMIUM,m3u-auto-fox-sport-premium,FOX SPORT PREMIUM,sin coincidencia de catálogo,0,0
+FX HD,m3u-auto-fx-hd,FX HD,sin coincidencia de catálogo,0,0
 Film&Arts,FilmArts.ar,Film & Arts,sí,3,0
 Film&Arts,FilmArts.ar,Film & Arts,sí,3,0
-Food Network,,,sin coincidencia de catálogo,0,0
+Food Network,m3u-auto-food-network,Food Network,sin coincidencia de catálogo,0,0
 France 24,France24.fr,France 24,sí,117,0
-GLOBAL,,,sin coincidencia de catálogo,0,0
+GLOBAL,m3u-auto-global,GLOBAL,sin coincidencia de catálogo,0,0
 Golden Edge,GoldenEdge.mx,Golden Edge,sí,3,0
-Golden HD,,,sin coincidencia de catálogo,0,0
-HBO Family HD,,,sin coincidencia de catálogo,0,0
-HBO HD,,,sin coincidencia de catálogo,0,0
+Golden HD,m3u-auto-golden-hd,Golden HD,sin coincidencia de catálogo,0,0
+HBO Family HD,m3u-auto-hbo-family-hd,HBO Family HD,sin coincidencia de catálogo,0,0
+HBO HD,m3u-auto-hbo-hd,HBO HD,sin coincidencia de catálogo,0,0
 HBO Mundi,HBOMundi.br,HBO Mundi,sí,1,0
-HBO Plus,,,sin coincidencia de catálogo,0,0
-HBO Signature,,,sin coincidencia de catálogo,0,0
-HBO XTREME HD,,,sin coincidencia de catálogo,0,0
-HTV,,,sin coincidencia de catálogo,0,0
-HTV,,,sin coincidencia de catálogo,0,0
-History 2,,,sin coincidencia de catálogo,0,0
+HBO Plus,m3u-auto-hbo-plus,HBO Plus,sin coincidencia de catálogo,0,0
+HBO Signature,m3u-auto-hbo-signature,HBO Signature,sin coincidencia de catálogo,0,0
+HBO XTREME HD,m3u-auto-hbo-xtreme-hd,HBO XTREME HD,sin coincidencia de catálogo,0,0
+HTV,m3u-auto-htv,HTV,sin coincidencia de catálogo,0,0
+HTV,m3u-auto-htv-2,HTV,sin coincidencia de catálogo,0,0
+History 2,m3u-auto-history-2,History 2,sin coincidencia de catálogo,0,0
 History Channel HD,History.si,History,sí,0,0
-Home & Health HD,,,sin coincidencia de catálogo,0,0
+Home & Health HD,m3u-auto-home-and-health-hd,Home & Health HD,sin coincidencia de catálogo,0,0
 ID HD,IDHD.si,ID HD,sí,0,0
 KARIBEÑA,Karibena.pe,Karibena,sí,0,0
-Kanal D Drama,,,sin coincidencia de catálogo,0,0
-L1,,,sin coincidencia de catálogo,0,0
+Kanal D Drama,m3u-auto-kanal-d-drama,Kanal D Drama,sin coincidencia de catálogo,0,0
+L1,m3u-auto-l1,L1,sin coincidencia de catálogo,0,0
 L1 MAX,L1Max.pe,L1 Max,sí,0,0
-La Red,,,sin coincidencia de catálogo,0,0
-Las Estrellas HD,,,sin coincidencia de catálogo,0,0
-Latina HD,,,sin coincidencia de catálogo,0,0
-Lifetime,,,sin coincidencia de catálogo,0,0
+La Red,m3u-auto-la-red,La Red,sin coincidencia de catálogo,0,0
+Las Estrellas HD,m3u-auto-las-estrellas-hd,Las Estrellas HD,sin coincidencia de catálogo,0,0
+Latina HD,m3u-auto-latina-hd,Latina HD,sin coincidencia de catálogo,0,0
+Lifetime,m3u-auto-lifetime,Lifetime,sin coincidencia de catálogo,0,0
 Love Nature,LoveNature.ca,Love Nature,sí,41,0
-MEGA HD,,,sin coincidencia de catálogo,0,0
+MEGA HD,m3u-auto-mega-hd,MEGA HD,sin coincidencia de catálogo,0,0
 MI MUSICA HITS,MiMusicaHits.us,Mi Musica Hits,sí,0,0
-MI MUSICA PERU,,,sin coincidencia de catálogo,0,0
-MTV HD,,,sin coincidencia de catálogo,0,0
+MI MUSICA PERU,m3u-auto-mi-musica-peru,MI MUSICA PERU,sin coincidencia de catálogo,0,0
+MTV HD,m3u-auto-mtv-hd,MTV HD,sin coincidencia de catálogo,0,0
 MUNDO DE LA MUSICA,MundodelaMusica.cl,Mundo de la Musica,sí,0,0
-MUSICA VENE,,,sin coincidencia de catálogo,0,0
-Mega,,,sin coincidencia de catálogo,0,0
-Movistar Deportes,,,sin coincidencia de catálogo,0,0
+MUSICA VENE,m3u-auto-musica-vene,MUSICA VENE,sin coincidencia de catálogo,0,0
+Mega,m3u-auto-mega,Mega,sin coincidencia de catálogo,0,0
+Movistar Deportes,m3u-auto-movistar-deportes,Movistar Deportes,sin coincidencia de catálogo,0,0
 NUEVO TIEMPO,NuevoTiempo.br,Nuevo Tiempo,sí,1,0
-Nat Geo HD,,,sin coincidencia de catálogo,0,0
+Nat Geo HD,m3u-auto-nat-geo-hd,Nat Geo HD,sin coincidencia de catálogo,0,0
 Nick HD,NickHDPlus.in,Nick HD+,sí,3,0
-Nick Jr.,,,sin coincidencia de catálogo,0,0
-Nick Music,,,sin coincidencia de catálogo,0,0
+Nick Jr.,m3u-auto-nick-jr,Nick Jr.,sin coincidencia de catálogo,0,0
+Nick Music,m3u-auto-nick-music,Nick Music,sin coincidencia de catálogo,0,0
 Nuestra Tele,NuestraTeleInternacional.co,Nuestra Tele Internacional,sí,1,0
-OROMAR TV,,,sin coincidencia de catálogo,0,0
-Panamericana,,,sin coincidencia de catálogo,0,0
-Pasiones HD,,,sin coincidencia de catálogo,0,0
-Plim Plim TV,,,sin coincidencia de catálogo,0,0
+OROMAR TV,m3u-auto-oromar-tv,OROMAR TV,sin coincidencia de catálogo,0,0
+Panamericana,m3u-auto-panamericana,Panamericana,sin coincidencia de catálogo,0,0
+Pasiones HD,m3u-auto-pasiones-hd,Pasiones HD,sin coincidencia de catálogo,0,0
+Plim Plim TV,m3u-auto-plim-plim-tv,Plim Plim TV,sin coincidencia de catálogo,0,0
 RAI Italia,RaiItalia.it,Rai Italia,sí,5,0
-REC TV,,,sin coincidencia de catálogo,0,0
+REC TV,m3u-auto-rec-tv,REC TV,sin coincidencia de catálogo,0,0
 RPP,RPPTV.pe,RPP TV,sí,1,0
-SOMOS TV VENEZUELA,,,sin coincidencia de catálogo,0,0
-STAR CHANNEL,,,sin coincidencia de catálogo,0,0
-STAR CHANNEL HD,,,sin coincidencia de catálogo,0,0
+SOMOS TV VENEZUELA,m3u-auto-somos-tv-venezuela,SOMOS TV VENEZUELA,sin coincidencia de catálogo,0,0
+STAR CHANNEL,m3u-auto-star-channel,STAR CHANNEL,sin coincidencia de catálogo,0,0
+STAR CHANNEL HD,m3u-auto-star-channel-hd,STAR CHANNEL HD,sin coincidencia de catálogo,0,0
 Sextreme,Sextreme.br,Sextreme,sí,5,0
-Sony HD,,,sin coincidencia de catálogo,0,0
-Sony Movies,,,sin coincidencia de catálogo,0,0
-Space HD,,,sin coincidencia de catálogo,0,0
-Stingray Concerts HD,,,sin coincidencia de catálogo,0,0
-Studio Universal HD,,,sin coincidencia de catálogo,0,0
-TCM,,,sin coincidencia de catálogo,0,0
-TNT HD,,,sin coincidencia de catálogo,0,0
-TNT Novelas HD,,,sin coincidencia de catálogo,0,0
-TNT Series HD,,,sin coincidencia de catálogo,0,0
-TNT Sports Premiun HD,,,sin coincidencia de catálogo,0,0
-TOP LATINO,,,sin coincidencia de catálogo,0,0
-TV ARAGUA,,,sin coincidencia de catálogo,0,0
-TV Perœ,,,sin coincidencia de catálogo,0,0
-TVE,,,sin coincidencia de catálogo,0,0
-TVS MACARAY,,,sin coincidencia de catálogo,0,0
-Teen Nick,,,sin coincidencia de catálogo,0,0
-TelefØ,,,sin coincidencia de catálogo,0,0
+Sony HD,m3u-auto-sony-hd,Sony HD,sin coincidencia de catálogo,0,0
+Sony Movies,m3u-auto-sony-movies,Sony Movies,sin coincidencia de catálogo,0,0
+Space HD,m3u-auto-space-hd,Space HD,sin coincidencia de catálogo,0,0
+Stingray Concerts HD,m3u-auto-stingray-concerts-hd,Stingray Concerts HD,sin coincidencia de catálogo,0,0
+Studio Universal HD,m3u-auto-studio-universal-hd,Studio Universal HD,sin coincidencia de catálogo,0,0
+TCM,m3u-auto-tcm,TCM,sin coincidencia de catálogo,0,0
+TNT HD,m3u-auto-tnt-hd,TNT HD,sin coincidencia de catálogo,0,0
+TNT Novelas HD,m3u-auto-tnt-novelas-hd,TNT Novelas HD,sin coincidencia de catálogo,0,0
+TNT Series HD,m3u-auto-tnt-series-hd,TNT Series HD,sin coincidencia de catálogo,0,0
+TNT Sports Premiun HD,m3u-auto-tnt-sports-premiun-hd,TNT Sports Premiun HD,sin coincidencia de catálogo,0,0
+TOP LATINO,m3u-auto-top-latino,TOP LATINO,sin coincidencia de catálogo,0,0
+TV ARAGUA,m3u-auto-tv-aragua,TV ARAGUA,sin coincidencia de catálogo,0,0
+TV Perœ,m3u-auto-tv-per,TV Perœ,sin coincidencia de catálogo,0,0
+TVE,m3u-auto-tve,TVE,sin coincidencia de catálogo,0,0
+TVS MACARAY,m3u-auto-tvs-macaray,TVS MACARAY,sin coincidencia de catálogo,0,0
+Teen Nick,m3u-auto-teen-nick,Teen Nick,sin coincidencia de catálogo,0,0
+TelefØ,m3u-auto-telef,TelefØ,sin coincidencia de catálogo,0,0
 Telemundo,Telemundo.us,Telemundo,sí,5,0
-Tlnovelas,,,sin coincidencia de catálogo,0,0
+Tlnovelas,m3u-auto-tlnovelas,Tlnovelas,sin coincidencia de catálogo,0,0
 Tooncast,Tooncast.us,Tooncast,sí,9,0
-UFC,,,sin coincidencia de catálogo,0,0
-UNIVERSAL CHANNEL HD,,,sin coincidencia de catálogo,0,0
+UFC,m3u-auto-ufc,UFC,sin coincidencia de catálogo,0,0
+UNIVERSAL CHANNEL HD,m3u-auto-universal-channel-hd,UNIVERSAL CHANNEL HD,sin coincidencia de catálogo,0,0
 USA,SanskarUSA.in,Sanskar USA,sí,0,0
-VISION MUSICA,,,sin coincidencia de catálogo,0,0
+VISION MUSICA,m3u-auto-vision-musica,VISION MUSICA,sin coincidencia de catálogo,0,0
 Via X Esports,ViaXEsports.cl,Via X Esports,sí,0,0
 Warner Channel,WarnerChannel.us,Warner Channel,sí,8,0
-Warner Channel HD,,,sin coincidencia de catálogo,0,0
-Willax,,,sin coincidencia de catálogo,0,0
-fib music,,,sin coincidencia de catálogo,0,0
-fib peliculas,,,sin coincidencia de catálogo,0,0
-vclassic musica,,,sin coincidencia de catálogo,0,0
+Warner Channel HD,m3u-auto-warner-channel-hd,Warner Channel HD,sin coincidencia de catálogo,0,0
+Willax,m3u-auto-willax,Willax,sin coincidencia de catálogo,0,0
+fib music,m3u-auto-fib-music,fib music,sin coincidencia de catálogo,0,0
+fib peliculas,m3u-auto-fib-peliculas,fib peliculas,sin coincidencia de catálogo,0,0
+vclassic musica,m3u-auto-vclassic-musica,vclassic musica,sin coincidencia de catálogo,0,0
 west tv,WestTV.ke,West TV,sí,0,0
