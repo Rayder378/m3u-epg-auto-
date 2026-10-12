@@ -17,5 +17,37 @@ https://iptv-epg.org/files/epg-sv.xml.gz
 https://iptv-epg.org/files/epg-mx.xml
 https://iptv-epg.org/files/epg-mx.xml.gz
 
+https://iptv-epg.org/files/epg-do.xml
+https://iptv-epg.org/files/epg-do.xml.gz
+
+https://iptv-epg.org/files/epg-do.xml
+https://iptv-epg.org/files/epg-do.xml.gz
+
+https://iptv-epg.org/files/epg-gt.xml
+https://iptv-epg.org/files/epg-gt.xml.gz
+
+https://iptv-epg.org/files/epg-ni.xml
+https://iptv-epg.org/files/epg-ni.xml.gz
+
+https://iptv-epg.org/files/epg-pa.xml
+https://iptv-epg.org/files/epg-pa.xml.gz
+
+https://iptv-epg.org/files/epg-py.xml
+https://iptv-epg.org/files/epg-py.xml.gz
+
+https://iptv-epg.org/files/epg-pe.xml
+https://iptv-epg.org/files/epg-pe.xml.gz
+
+https://iptv-epg.org/files/epg-es.xml
+https://iptv-epg.org/files/epg-es.xml.gz
+
+https://iptv-epg.org/files/epg-uy.xml
+https://iptv-epg.org/files/epg-uy.xml.gz
+
+https://iptv-epg.org/files/epg-ve.xml
+https://iptv-epg.org/files/epg-ve.xml.gz
+
+https://iptv-epg.org/files/epg-us.xml
+https://iptv-epg.org/files/epg-us.xml.gz
 # Puedees añadir otras fuentes debajo
 # Una URL por línea
