@@ -20,6 +20,8 @@ timeout-minutes: 20
 steps:
   - name: Descargar repositorio
     uses: actions/checkout@v4
+    with:
+      fetch-depth: 0
 
   - name: Preparar Python
     uses: actions/setup-python@v5
@@ -53,20 +55,29 @@ steps:
 
   - name: Conservar copia de seguridad anterior
     if: env.BACKUP_EXISTE == 'si'
+    shell: bash
     run: cp /tmp/IejmoloV_backup.m3u output/IejmoloV_backup.m3u
 
   - name: Guardar resultados en GitHub
     shell: bash
     run: |
+      set -e
+      git config user.name "github-actions[bot]"
+      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
       git add output/
+
       if git diff --cached --quiet; then
         echo "No hay cambios nuevos que guardar."
-      else
-        git config user.name "github-actions[bot]"
-        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git commit -m "Actualizar lista e informes EPG"
-        git push
+        exit 0
       fi
+
+      git commit -m "Actualizar lista e informes EPG"
+
+      git fetch origin main
+      git rebase origin/main
+
+      git push origin HEAD:main
 
   - name: Publicar resultados como artefactos
     if: always()
