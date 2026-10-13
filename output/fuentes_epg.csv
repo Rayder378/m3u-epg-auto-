@@ -1,33 +1,33 @@
 ﻿url,formato,estado,canales_encontrados,programas_nuevos,error
 https://worker-9dd4.onrender.com/guide.xml,XML,XMLTV válido,0,0,
 https://worker-9dd4.onrender.com/guide.xml.gz,GZIP,duplicado de contenido,0,0,Contenido idéntico a https://worker-9dd4.onrender.com/guide.xml
-https://iptv-epg.org/files/epg-co.xml,XML,XMLTV válido,29,6627,
+https://iptv-epg.org/files/epg-co.xml,XML,XMLTV válido,34,9852,
 https://iptv-epg.org/files/epg-co.xml.gz,GZIP,duplicado de contenido,0,0,Contenido idéntico a https://iptv-epg.org/files/epg-co.xml
-https://iptv-epg.org/files/epg-cl.xml,XML,XMLTV válido,6,5458,
+https://iptv-epg.org/files/epg-cl.xml,XML,XMLTV válido,8,10620,
 https://iptv-epg.org/files/epg-cl.xml.gz,GZIP,duplicado de contenido,0,0,Contenido idéntico a https://iptv-epg.org/files/epg-cl.xml
-https://iptv-epg.org/files/epg-ar.xml,XML,XMLTV válido,3,4602,
+https://iptv-epg.org/files/epg-ar.xml,XML,XMLTV válido,3,8252,
 https://iptv-epg.org/files/epg-ar.xml.gz,GZIP,duplicado de contenido,0,0,Contenido idéntico a https://iptv-epg.org/files/epg-ar.xml
-https://iptv-epg.org/files/epg-sv.xml,XML,XMLTV válido,1,2500,
+https://iptv-epg.org/files/epg-sv.xml,XML,XMLTV válido,0,5010,
 https://iptv-epg.org/files/epg-sv.xml.gz,GZIP,duplicado de contenido,0,0,Contenido idéntico a https://iptv-epg.org/files/epg-sv.xml
-https://iptv-epg.org/files/epg-mx.xml,XML,XMLTV válido,10,4947,
+https://iptv-epg.org/files/epg-mx.xml,XML,XMLTV válido,5,7016,
 https://iptv-epg.org/files/epg-mx.xml.gz,GZIP,duplicado de contenido,0,0,Contenido idéntico a https://iptv-epg.org/files/epg-mx.xml
-https://iptv-epg.org/files/epg-do.xml,XML,XMLTV válido,4,2450,
+https://iptv-epg.org/files/epg-do.xml,XML,XMLTV válido,0,4793,
 https://iptv-epg.org/files/epg-do.xml.gz,GZIP,duplicado de contenido,0,0,Contenido idéntico a https://iptv-epg.org/files/epg-do.xml
-https://iptv-epg.org/files/epg-gt.xml,XML,XMLTV válido,2,3524,
+https://iptv-epg.org/files/epg-gt.xml,XML,XMLTV válido,0,5417,
 https://iptv-epg.org/files/epg-gt.xml.gz,GZIP,duplicado de contenido,0,0,Contenido idéntico a https://iptv-epg.org/files/epg-gt.xml
-https://iptv-epg.org/files/epg-ni.xml,XML,XMLTV válido,1,2485,
+https://iptv-epg.org/files/epg-ni.xml,XML,XMLTV válido,0,4401,
 https://iptv-epg.org/files/epg-ni.xml.gz,GZIP,duplicado de contenido,0,0,Contenido idéntico a https://iptv-epg.org/files/epg-ni.xml
-https://iptv-epg.org/files/epg-pa.xml,XML,XMLTV válido,1,3214,
+https://iptv-epg.org/files/epg-pa.xml,XML,XMLTV válido,0,5458,
 https://iptv-epg.org/files/epg-pa.xml.gz,GZIP,duplicado de contenido,0,0,Contenido idéntico a https://iptv-epg.org/files/epg-pa.xml
-https://iptv-epg.org/files/epg-py.xml,XML,XMLTV válido,3,3120,
+https://iptv-epg.org/files/epg-py.xml,XML,XMLTV válido,1,5048,
 https://iptv-epg.org/files/epg-py.xml.gz,GZIP,duplicado de contenido,0,0,Contenido idéntico a https://iptv-epg.org/files/epg-py.xml
-https://iptv-epg.org/files/epg-pe.xml,XML,XMLTV válido,1,2843,
+https://iptv-epg.org/files/epg-pe.xml,XML,XMLTV válido,3,6448,
 https://iptv-epg.org/files/epg-pe.xml.gz,GZIP,duplicado de contenido,0,0,Contenido idéntico a https://iptv-epg.org/files/epg-pe.xml
-https://iptv-epg.org/files/epg-es.xml,XML,XMLTV válido,7,2006,
+https://iptv-epg.org/files/epg-es.xml,XML,XMLTV válido,0,2208,
 https://iptv-epg.org/files/epg-es.xml.gz,GZIP,duplicado de contenido,0,0,Contenido idéntico a https://iptv-epg.org/files/epg-es.xml
-https://iptv-epg.org/files/epg-uy.xml,XML,XMLTV válido,1,4182,
+https://iptv-epg.org/files/epg-uy.xml,XML,XMLTV válido,5,10985,
 https://iptv-epg.org/files/epg-uy.xml.gz,GZIP,duplicado de contenido,0,0,Contenido idéntico a https://iptv-epg.org/files/epg-uy.xml
-https://iptv-epg.org/files/epg-ve.xml,XML,XMLTV válido,0,922,
+https://iptv-epg.org/files/epg-ve.xml,XML,XMLTV válido,0,2841,
 https://iptv-epg.org/files/epg-ve.xml.gz,GZIP,duplicado de contenido,0,0,Contenido idéntico a https://iptv-epg.org/files/epg-ve.xml
 https://iptv-epg.org/files/epg-us.xml,XML,fallo,0,0,Descarga comprimida o directa superior a 100 MB.
 https://iptv-epg.org/files/epg-us.xml.gz,GZIP,fallo,0,0,XML descomprimido superior a 200 MB.
