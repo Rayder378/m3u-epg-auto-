@@ -1,71 +1,78 @@
-
 name: Actualizar lista y resultados EPG
 
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: "20 6 * * *"
+workflow_dispatch:
+schedule:
+- cron: "20 6 * * *"
 
 permissions:
-  contents: write
+contents: write
 
 concurrency:
-  group: actualizar-epg
-  cancel-in-progress: false
+group: actualizar-epg
+cancel-in-progress: false
 
 jobs:
-  actualizar:
-    runs-on: ubuntu-latest
-    timeout-minutes: 20
+actualizar:
+runs-on: ubuntu-latest
+timeout-minutes: 20
 
-    steps:
-      - name: Descargar repositorio
-        uses: actions/checkout@v4
+steps:
+  - name: Descargar repositorio
+    uses: actions/checkout@v4
 
-      - name: Preparar Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
+  - name: Preparar Python
+    uses: actions/setup-python@v5
+    with:
+      python-version: "3.12"
 
-      - name: Proteger copia de seguridad anterior
-        shell: bash
-        run: |
-          mkdir -p output
-          if [ -f output/IejmoloV_backup.m3u ]; then
-            cp output/IejmoloV_backup.m3u /tmp/IejmoloV_backup.m3u
-            echo "BACKUP_EXISTE=si" >> "$GITHUB_ENV"
-          else
-            echo "BACKUP_EXISTE=no" >> "$GITHUB_ENV"
-          fi
+  - name: Proteger copia de seguridad anterior
+    shell: bash
+    run: |
+      mkdir -p output
+      if [ -f output/IejmoloV_backup.m3u ]; then
+        cp output/IejmoloV_backup.m3u /tmp/IejmoloV_backup.m3u
+        echo "BACKUP_EXISTE=si" >> "$GITHUB_ENV"
+      else
+        echo "BACKUP_EXISTE=no" >> "$GITHUB_ENV"
+      fi
 
-      - name: Generar lista e informes
-        env:
-          M3U_URL: ${{ secrets.M3U_URL }}
-          XMLTV_URL: ${{ secrets.XMLTV_URL }}
-        run: python m3u_epg_matcher.py --out output
+  - name: Generar lista e informes
+    env:
+      M3U_URL: ${{ secrets.M3U_URL }}
+      XMLTV_URL: ${{ secrets.XMLTV_URL }}
+    run: python m3u_epg_matcher.py --out output
 
-      - name: Conservar copia de seguridad anterior
-        if: env.BACKUP_EXISTE == 'si'
-        run: cp /tmp/IejmoloV_backup.m3u output/IejmoloV_backup.m3u
+  - name: Verificar archivos generados
+    shell: bash
+    run: |
+      set -e
+      test -s output/playlist_epg.m3u
+      test -s output/epg.xml
+      echo "Lista y guía EPG generadas correctamente."
 
-      - name: Guardar resultados en GitHub
-        shell: bash
-        run: |
-          git add output/
-          if git diff --cached --quiet; then
-            echo "No hay cambios nuevos que guardar."
-          else
-            git config user.name "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git commit -m "Actualizar lista e informes EPG"
-            git push
-          fi
+  - name: Conservar copia de seguridad anterior
+    if: env.BACKUP_EXISTE == 'si'
+    run: cp /tmp/IejmoloV_backup.m3u output/IejmoloV_backup.m3u
 
-      - name: Publicar resultados como artefactos
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: resultado-epg
-          path: output/
-          if-no-files-found: warn
-          retention-days: 7
+  - name: Guardar resultados en GitHub
+    shell: bash
+    run: |
+      git add output/
+      if git diff --cached --quiet; then
+        echo "No hay cambios nuevos que guardar."
+      else
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git commit -m "Actualizar lista e informes EPG"
+        git push
+      fi
+
+  - name: Publicar resultados como artefactos
+    if: always()
+    uses: actions/upload-artifact@v4
+    with:
+      name: resultado-epg
+      path: output/
+      if-no-files-found: warn
+      retention-days: 7
