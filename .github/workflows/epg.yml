@@ -1,4 +1,4 @@
-name: Actualizar lista y resultados EPG
+name: Actualizar lista y resultados EPG automático
 
 on:
 workflow_dispatch:
