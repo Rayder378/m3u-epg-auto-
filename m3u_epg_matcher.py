@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
@@ -83,7 +82,18 @@ def get_json(url):
     return result
 
 
+# Se eliminan únicamente etiquetas técnicas reconocidas al final del nombre.
+# No se eliminan países, idiomas ni sufijos como +1.
+TECHNICAL_SUFFIXES = re.compile(
+    r"(?:\s*\((?:opc\.?\s*\d+|backup|copia|alternativo)\)\s*$)"
+    r"|(?:\s+\((?:hd|fhd|uhd|4k|sd)\)\s*$)"
+    r"|(?:\s+(?:hd|fhd|uhd|4k|sd)\s*$)",
+    re.IGNORECASE,
+)
+
+
 def norm(value):
+    """Normaliza texto sin eliminar diferencias regionales o +1."""
     value = unicodedata.normalize(
         "NFKD", str(value or "").casefold()
     )
@@ -91,9 +101,31 @@ def norm(value):
         c for c in value if not unicodedata.combining(c)
     )
     value = value.replace("&", " and ")
-    value = re.sub(r"[^a-z0-9]+", " ", value)
-
+    value = re.sub(r"[^a-z0-9+]+", " ", value)
     return " ".join(value.split())
+
+
+def norm_variants(value):
+    """Devuelve normalizaciones conservadora y sin etiquetas técnicas."""
+    raw = str(value or "").strip()
+    variants = []
+
+    first = norm(raw)
+    if first:
+        variants.append(first)
+
+    cleaned = raw
+    for _ in range(2):
+        newer = TECHNICAL_SUFFIXES.sub("", cleaned).strip()
+        if newer == cleaned:
+            break
+        cleaned = newer
+
+    second = norm(cleaned)
+    if second and second not in variants:
+        variants.append(second)
+
+    return variants
 
 
 def names_for(channel):
@@ -166,7 +198,7 @@ def write_csv(path, fields, rows):
 
 
 def source_urls(guides):
-    """Recoge las fuentes XMLTV declaradas en IPTV-org."""
+    """Recoge fuentes XMLTV declaradas en IPTV-org."""
     found = {}
 
     for guide in guides:
@@ -199,7 +231,7 @@ def source_urls(guides):
 
 
 def custom_source_urls(path="url XML/urls.txt"):
-    """Lee las fuentes XMLTV que el usuario añade al repositorio."""
+    """Lee las fuentes XMLTV añadidas manualmente al repositorio."""
     file_path = Path(path)
     sources = []
     seen = set()
@@ -233,11 +265,10 @@ def custom_source_urls(path="url XML/urls.txt"):
             "url": url,
             "format": fmt,
             "guide_channels": set(),
+            "manual": True,
         })
 
-    print(
-        f"Fuentes XMLTV manuales encontradas: {len(sources)}"
-    )
+    print(f"Fuentes XMLTV manuales encontradas: {len(sources)}")
     return sources
 
 
@@ -259,15 +290,17 @@ def child_text(element, wanted):
 
 
 def match_channel(name, index):
-    candidates = index.get(norm(name), [])
-    unique = {
-        str(channel.get("id")): channel
-        for channel in candidates
-        if channel.get("id")
-    }
+    """Solo devuelve una coincidencia exacta si es inequívoca."""
+    for key in norm_variants(name):
+        candidates = index.get(key, [])
+        unique = {
+            str(channel.get("id")): channel
+            for channel in candidates
+            if channel.get("id")
+        }
 
-    if len(unique) == 1:
-        return next(iter(unique.values()))
+        if len(unique) == 1:
+            return next(iter(unique.values()))
 
     return None
 
@@ -291,40 +324,125 @@ def resolve_target_id(source_id, valid_ids):
 
 
 def resolve_by_name(channel, name_to_ids):
-    """Relaciona un canal XMLTV con un único canal de la playlist."""
+    """Relaciona un canal XMLTV solo si la coincidencia es inequívoca."""
     display_names = [
         (node.text or "").strip()
         for node in channel
         if node.tag.split("}")[-1].lower() == "display-name"
     ]
 
-    # Coincidencia exacta primero.
     for display_name in display_names:
-        ids = name_to_ids.get(norm(display_name), set())
+        for key in norm_variants(display_name):
+            ids = name_to_ids.get(key, set())
 
-        if len(ids) == 1:
-            return next(iter(ids))
+            if len(ids) == 1:
+                return next(iter(ids))
 
-    # Coincidencia parcial solo si no es ambigua.
+    # Coincidencia parcial: solo cuando todos los candidatos
+    # apuntan al mismo ID. Nunca elegir entre IDs diferentes.
     possible = set()
 
     for display_name in display_names:
-        name = norm(display_name)
-
-        if len(name) < 5:
-            continue
-
-        for known_name, ids in name_to_ids.items():
-            if len(known_name) < 5:
+        for name in norm_variants(display_name):
+            if len(name) < 6:
                 continue
 
-            if name in known_name or known_name in name:
-                possible.update(ids)
+            for known_name, ids in name_to_ids.items():
+                if len(known_name) < 6 or name == known_name:
+                    continue
+
+                if name in known_name or known_name in name:
+                    possible.update(ids)
 
     if len(possible) == 1:
         return next(iter(possible))
 
     return None
+
+
+def parse_xmltv_time(value):
+    """Convierte timestamps XMLTV en minutos UTC comparables."""
+    value = str(value or "").strip()
+    match = re.match(
+        r"^(\d{14})(?:\s*([+-])(\d{2})(\d{2}))?",
+        value,
+    )
+
+    if not match:
+        return None
+
+    from datetime import datetime, timedelta, timezone
+
+    try:
+        dt = datetime.strptime(match.group(1), "%Y%m%d%H%M%S")
+
+        if match.group(2):
+            offset = int(match.group(3)) * 60 + int(match.group(4))
+
+            if match.group(2) == "-":
+                offset = -offset
+
+            dt = dt.replace(
+                tzinfo=timezone(timedelta(minutes=offset))
+            )
+        else:
+            # Sin zona horaria, XMLTV no permite inferir el huso real.
+            # Se usa UTC como referencia técnica consistente.
+            dt = dt.replace(tzinfo=timezone.utc)
+
+        return int(dt.timestamp() // 60)
+
+    except (ValueError, OverflowError):
+        return None
+
+
+def resolve_programme_conflicts(candidates):
+    """Resuelve solapamientos dando prioridad a las fuentes mejor clasificadas."""
+    by_channel = defaultdict(list)
+    invalid = 0
+
+    for item in candidates:
+        programme = item["programme"]
+        start = parse_xmltv_time(programme.get("start"))
+        stop = parse_xmltv_time(programme.get("stop"))
+
+        if start is None or stop is None or stop <= start:
+            invalid += 1
+            continue
+
+        by_channel[programme.get("channel", "")].append(
+            (item["priority"], start, stop, programme)
+        )
+
+    chosen = []
+    conflicts = 0
+
+    for channel_id, records in by_channel.items():
+        records.sort(key=lambda record: (
+            record[0], record[1], record[2]
+        ))
+
+        accepted = []
+
+        for priority, start, stop, programme in records:
+            overlap = any(
+                start < other_stop and stop > other_start
+                for _, other_start, other_stop, _ in accepted
+            )
+
+            if overlap:
+                conflicts += 1
+                continue
+
+            accepted.append((priority, start, stop, programme))
+
+        accepted.sort(key=lambda record: (
+            record[1], record[2]
+        ))
+
+        chosen.extend(record[3] for record in accepted)
+
+    return chosen, conflicts, invalid
 
 
 def main():
@@ -335,10 +453,7 @@ def main():
     m3u_url = os.environ.get("M3U_URL", "").strip()
 
     if not m3u_url:
-        print(
-            "ERROR: falta el secreto M3U_URL.",
-            file=sys.stderr,
-        )
+        print("ERROR: falta el secreto M3U_URL.", file=sys.stderr)
         return 1
 
     out = Path(args.out)
@@ -348,12 +463,8 @@ def main():
     playlist_text = download(m3u_url).decode("utf-8-sig")
     lines = playlist_text.splitlines()
 
-    if not any(
-        line.strip().startswith("#EXTM3U") for line in lines
-    ):
-        raise ValueError(
-            "La URL no devolvió una playlist M3U válida."
-        )
+    if not any(line.strip().startswith("#EXTM3U") for line in lines):
+        raise ValueError("La URL no devolvió una playlist M3U válida.")
 
     print("Descargando catálogos...")
     channels = get_json(CHANNELS_URL)
@@ -363,10 +474,9 @@ def main():
 
     for channel in channels:
         for name in names_for(channel):
-            key = norm(name)
-
-            if key and channel not in index[key]:
-                index[key].append(channel)
+            for key in norm_variants(name):
+                if key and channel not in index[key]:
+                    index[key].append(channel)
 
     entries = []
     rewritten = []
@@ -374,12 +484,10 @@ def main():
     matched = 0
     reserved_ids = set()
 
-    # Reservar IDs ya existentes en la playlist original.
+    # Reservar los IDs que ya existen en la playlist original.
     for original_line in lines:
         if original_line.strip().startswith("#EXTINF:"):
-            original_header, _ = split_extinf(
-                original_line.strip()
-            )
+            original_header, _ = split_extinf(original_line.strip())
             original_id = attributes(original_header).get(
                 "tvg-id", ""
             ).strip()
@@ -387,7 +495,6 @@ def main():
             if original_id:
                 reserved_ids.add(original_id)
 
-    # Conservar canales y completar identificadores.
     for line in lines:
         stripped = line.strip()
 
@@ -407,16 +514,14 @@ def main():
             matched += 1
 
             if not channel_id:
-                channel_id = str(
-                    match.get("id") or ""
-                ).strip()
+                channel_id = str(match.get("id") or "").strip()
 
             if not tvg_name:
                 tvg_name = str(
                     match.get("name") or display_name
                 ).strip()
 
-        # Crear un ID propio si el canal no tiene ID.
+        # Si no hay ID oficial, se crea un ID local estable.
         if not channel_id:
             base = "m3u-auto-" + hashlib.sha1(
                 norm(display_name).encode("utf-8")
@@ -441,16 +546,12 @@ def main():
             "name": display_name,
             "id": channel_id,
             "tvg_name": tvg_name,
-            "catalog_id": str(
-                (match or {}).get("id") or ""
-            ),
+            "catalog_id": str((match or {}).get("id") or ""),
             "catalog_names": names_for(match),
         })
 
-        # No modificar la URL de reproducción.
-        rewritten.append(
-            "#EXTINF:" + header + "," + display_name
-        )
+        # No se modifica la URL de reproducción.
+        rewritten.append("#EXTINF:" + header + "," + display_name)
 
     name_to_ids = defaultdict(set)
     valid_ids = set()
@@ -469,20 +570,15 @@ def main():
             *entry["catalog_names"],
         ):
             if name:
-                name_to_ids[norm(name)].add(channel_id)
+                for key in norm_variants(name):
+                    name_to_ids[key].add(channel_id)
 
     # Publicar la URL de la guía en el encabezado M3U.
     for i, line in enumerate(rewritten):
         if line.strip().startswith("#EXTM3U"):
             header = line.strip()
-            header = re.sub(
-                r'\s+x-tvg-url="[^"]*"',
-                "",
-                header,
-            )
-            rewritten[i] = (
-                header + f' x-tvg-url="{PUBLIC_EPG_URL}"'
-            )
+            header = re.sub(r'\s+x-tvg-url="[^"]*"', "", header)
+            rewritten[i] = header + f' x-tvg-url="{PUBLIC_EPG_URL}"'
             break
 
     playlist_path = out / "playlist_epg.m3u"
@@ -491,26 +587,51 @@ def main():
         encoding="utf-8",
     )
 
-    # Consultar IPTV-org y las fuentes manuales.
     print("Buscando fuentes XMLTV...")
     sources = source_urls(guides)
     known_urls = {source["url"] for source in sources}
+
+    # Fuente adicional opcional configurada mediante XMLTV_URL.
+    env_xmltv_url = os.environ.get("XMLTV_URL", "").strip()
+
+    if env_xmltv_url:
+        for url in env_xmltv_url.splitlines():
+            url = url.strip()
+
+            if (
+                url.startswith(("http://", "https://"))
+                and url not in known_urls
+            ):
+                fmt = (
+                    "GZIP"
+                    if url.lower().split("?", 1)[0].endswith(".gz")
+                    else "XML"
+                )
+
+                sources.append({
+                    "url": url,
+                    "format": fmt,
+                    "guide_channels": set(),
+                    "manual": True,
+                })
+                known_urls.add(url)
 
     for source in custom_source_urls():
         if source["url"] not in known_urls:
             sources.append(source)
             known_urls.add(source["url"])
 
-    print(
-        f"Total de fuentes XMLTV a consultar: {len(sources)}"
-    )
+    print(f"Total de fuentes XMLTV a consultar: {len(sources)}")
 
     xml_channels = {}
-    programmes = {}
+    programme_candidates = []
     successful_sources = []
     source_report = []
     failures = 0
     content_hashes = {}
+    source_rank = {
+        source["url"]: i for i, source in enumerate(sources)
+    }
 
     for source in sources:
         url = source["url"]
@@ -529,13 +650,10 @@ def main():
                     "canales_encontrados": 0,
                     "programas_nuevos": 0,
                     "error": (
-                        "Contenido idéntico a "
-                        + content_hashes[digest]
+                        "Contenido idéntico a " + content_hashes[digest]
                     ),
                 })
-                print(
-                    "Fuente duplicada; se omite el segundo procesamiento."
-                )
+                print("Fuente duplicada; se omite.")
                 continue
 
             content_hashes[digest] = url
@@ -545,26 +663,19 @@ def main():
             found_channels = 0
             found_programmes = 0
 
-            # Relacionar canales de la guía con la playlist.
             for channel in root:
                 if channel.tag.split("}")[-1].lower() != "channel":
                     continue
 
-                xml_id = str(
-                    channel.get("id") or ""
-                ).strip()
+                xml_id = str(channel.get("id") or "").strip()
 
                 if not xml_id:
                     continue
 
-                target_id = resolve_target_id(
-                    xml_id, valid_ids
-                )
+                target_id = resolve_target_id(xml_id, valid_ids)
 
                 if not target_id:
-                    target_id = resolve_by_name(
-                        channel, name_to_ids
-                    )
+                    target_id = resolve_by_name(channel, name_to_ids)
 
                 if not target_id:
                     continue
@@ -572,14 +683,11 @@ def main():
                 local_id_map[xml_id] = target_id
 
                 if target_id not in xml_channels:
-                    clone = ET.fromstring(
-                        ET.tostring(channel)
-                    )
+                    clone = ET.fromstring(ET.tostring(channel))
                     clone.set("id", target_id)
                     xml_channels[target_id] = clone
                     found_channels += 1
 
-            # Incorporar programas de canales relacionados.
             for programme in root:
                 if programme.tag.split("}")[-1].lower() != "programme":
                     continue
@@ -592,19 +700,44 @@ def main():
                 if not target_id:
                     continue
 
-                clone = ET.fromstring(
-                    ET.tostring(programme)
-                )
+                clone = ET.fromstring(ET.tostring(programme))
                 clone.set("channel", target_id)
 
-                start = clone.get("start", "")
-                stop = clone.get("stop", "")
-                title = child_text(clone, "title")
-                key = (target_id, start, stop, title)
+                start = parse_xmltv_time(clone.get("start"))
+                stop = parse_xmltv_time(clone.get("stop"))
 
-                if key not in programmes:
-                    programmes[key] = clone
-                    found_programmes += 1
+                if start is None or stop is None or stop <= start:
+                    continue
+
+                # Priorizar fuentes oficialmente asociadas al canal.
+                catalog_id = next((
+                    entry["catalog_id"]
+                    for entry in entries
+                    if (
+                        entry["id"] == target_id
+                        and entry.get("catalog_id")
+                    )
+                ), "")
+
+                associated = bool(
+                    catalog_id
+                    and catalog_id in source.get("guide_channels", set())
+                )
+                manual = bool(source.get("manual"))
+
+                priority = (
+                    0 if associated else (2 if manual else 1),
+                    source_rank.get(url, 9999),
+                )
+
+                programme_candidates.append({
+                    "programme": clone,
+                    "priority": priority,
+                    "source": url,
+                    "target_id": target_id,
+                })
+
+                found_programmes += 1
 
             successful_sources.append(url)
 
@@ -636,7 +769,24 @@ def main():
                 str(exc)[:200],
             )
 
-    # Crear la guía XMLTV unificada.
+    resolved_programmes, conflict_count, invalid_count = (
+        resolve_programme_conflicts(programme_candidates)
+    )
+
+    programmes = {}
+
+    for programme in resolved_programmes:
+        key = (
+            programme.get("channel", ""),
+            programme.get("start", ""),
+            programme.get("stop", ""),
+            child_text(programme, "title"),
+        )
+        programmes[key] = programme
+
+    print(f"Conflictos de horario descartados: {conflict_count}")
+    print(f"Programas con horarios inválidos descartados: {invalid_count}")
+
     tv = ET.Element("tv", {
         "generator-info-name": "m3u-epg-auto",
     })
@@ -699,9 +849,7 @@ def main():
             1 for guide in guides
             if (
                 str(guide.get("channel") or "") == channel_id
-                or str(
-                    guide.get("channel") or ""
-                ).split("@", 1)[0]
+                or str(guide.get("channel") or "").split("@", 1)[0]
                 == channel_id.split("@", 1)[0]
             )
         )
@@ -711,12 +859,15 @@ def main():
             "tvg_id": channel_id,
             "tvg_name": entry["tvg_name"],
             "coincidencia": (
-                "sí"
-                if entry["catalog_id"]
+                "sí" if entry["catalog_id"]
                 else "sin coincidencia de catálogo"
             ),
             "guias_catalogo": guide_count,
             "programas_encontrados": program_count,
+            "estado_epg": (
+                "con EPG" if program_count
+                else "sin programas coincidentes"
+            ),
         })
 
     write_csv(
@@ -728,6 +879,7 @@ def main():
             "coincidencia",
             "guias_catalogo",
             "programas_encontrados",
+            "estado_epg",
         ],
         report,
     )
@@ -751,32 +903,20 @@ def main():
     )
 
     (out / "fuentes_epg.json").write_text(
-        json.dumps(
-            source_report,
-            ensure_ascii=False,
-            indent=2,
-        ),
+        json.dumps(source_report, ensure_ascii=False, indent=2),
         encoding="utf-8",
     )
 
     print(f"Canales analizados: {total}")
-    print(
-        f"Canales con coincidencia de catálogo: {matched}"
-    )
+    print(f"Canales con coincidencia de catálogo: {matched}")
     print(f"Fuentes XMLTV probadas: {len(sources)}")
-    print(
-        f"Fuentes con XMLTV válido: {len(successful_sources)}"
-    )
+    print(f"Fuentes con XMLTV válido: {len(successful_sources)}")
     print(
         "Fuentes duplicadas omitidas: "
         f"{sum(1 for row in source_report if row['estado'] == 'duplicado de contenido')}"
     )
-    print(
-        f"Canales en la guía generada: {len(xml_channels)}"
-    )
-    print(
-        f"Programas en la guía generada: {len(programmes)}"
-    )
+    print(f"Canales en la guía generada: {len(xml_channels)}")
+    print(f"Programas en la guía generada: {len(programmes)}")
     print(f"Fuentes con error: {failures}")
     print(f"Playlist generada: {playlist_path}")
     print(f"XMLTV generado: {xml_path}")
