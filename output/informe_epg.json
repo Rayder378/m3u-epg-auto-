@@ -5,7 +5,8 @@
     "tvg_name": "A&E HD",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 292,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "AMC",
@@ -13,7 +14,8 @@
     "tvg_name": "AMC",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "AMC HD",
@@ -21,7 +23,8 @@
     "tvg_name": "AMC HD",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "ATV",
@@ -29,7 +32,8 @@
     "tvg_name": "ATV",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "AXN HD",
@@ -37,7 +41,8 @@
     "tvg_name": "AXN HD",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "Adult Swim",
@@ -45,7 +50,8 @@
     "tvg_name": "Adult Swim",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 357
+    "programas_encontrados": 358,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "America TV HD",
@@ -53,7 +59,8 @@
     "tvg_name": "America TV HD",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 116,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "Animal Planet HD",
@@ -61,7 +68,8 @@
     "tvg_name": "Animal Planet HD",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 230,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "BBC News",
@@ -69,7 +77,8 @@
     "tvg_name": "BBC News",
     "coincidencia": "sí",
     "guias_catalogo": 80,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "BETHEL TV",
@@ -77,7 +86,8 @@
     "tvg_name": "BETHEL TV",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "Baby TV",
@@ -85,7 +95,8 @@
     "tvg_name": "Baby TV",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 3196
+    "programas_encontrados": 1171,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "CHV HD",
@@ -93,7 +104,8 @@
     "tvg_name": "CHV HD",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "CNN Espaæol",
@@ -101,7 +113,8 @@
     "tvg_name": "CNN Espaæol",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "CNN International",
@@ -109,7 +122,8 @@
     "tvg_name": "CNN International",
     "coincidencia": "sí",
     "guias_catalogo": 77,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "Canal N",
@@ -117,15 +131,17 @@
     "tvg_name": "Canal N",
     "coincidencia": "sí",
     "guias_catalogo": 1,
-    "programas_encontrados": 38
+    "programas_encontrados": 34,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "Cartoon Network HD",
-    "tvg_id": "CartoonNetworkHDPlus.in",
-    "tvg_name": "Cartoon Network HD+",
-    "coincidencia": "sí",
-    "guias_catalogo": 2,
-    "programas_encontrados": 0
+    "tvg_id": "m3u-auto-93284506c8b5",
+    "tvg_name": "Cartoon Network HD",
+    "coincidencia": "sin coincidencia de catálogo",
+    "guias_catalogo": 0,
+    "programas_encontrados": 906,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "Cartoonito",
@@ -133,15 +149,17 @@
     "tvg_name": "Cartoonito",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 1658
+    "programas_encontrados": 1081,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "Cinecanal HD",
-    "tvg_id": "m3u-auto-60f42f4f2bb4",
-    "tvg_name": "Cinecanal HD",
-    "coincidencia": "sin coincidencia de catálogo",
-    "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "tvg_id": "Cinecanal.us",
+    "tvg_name": "Cinecanal",
+    "coincidencia": "sí",
+    "guias_catalogo": 8,
+    "programas_encontrados": 81,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "Cinemax",
@@ -149,7 +167,8 @@
     "tvg_name": "Cinemax",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 420
+    "programas_encontrados": 107,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "Comedy Central HD",
@@ -157,15 +176,17 @@
     "tvg_name": "Comedy Central HD",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 481,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "DAYSTAR",
-    "tvg_id": "m3u-auto-9856b3d7caa6",
-    "tvg_name": "DAYSTAR",
-    "coincidencia": "sin coincidencia de catálogo",
+    "tvg_id": "DaystarHD.us",
+    "tvg_name": "Daystar HD",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "DW Espaæol",
@@ -173,7 +194,8 @@
     "tvg_name": "DW Espaæol",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "De PelŦcula",
@@ -181,7 +203,8 @@
     "tvg_name": "De PelŦcula",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "Direc tv",
@@ -189,7 +212,8 @@
     "tvg_name": "Direc tv",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "Direc tvplus",
@@ -197,7 +221,8 @@
     "tvg_name": "Direc tvplus",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "Discovery Channel  HD",
@@ -205,7 +230,8 @@
     "tvg_name": "Discovery Channel  HD",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 218,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "Discovery Kids HD",
@@ -213,23 +239,26 @@
     "tvg_name": "Discovery Kids HD",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 674,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "Discovery Theater HD",
-    "tvg_id": "m3u-auto-21b0980319ef",
-    "tvg_name": "Discovery Theater HD",
-    "coincidencia": "sin coincidencia de catálogo",
-    "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "tvg_id": "DiscoveryTheater.br",
+    "tvg_name": "Discovery Theater",
+    "coincidencia": "sí",
+    "guias_catalogo": 2,
+    "programas_encontrados": 232,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "Disney HD",
-    "tvg_id": "m3u-auto-66ed80d69357",
-    "tvg_name": "Disney HD",
-    "coincidencia": "sin coincidencia de catálogo",
+    "tvg_id": "DisneyChannel.ru",
+    "tvg_name": "Disney Channel",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 391,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "Disney Junior",
@@ -237,7 +266,8 @@
     "tvg_name": "Disney Junior",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 1402
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "Distrito Comedia",
@@ -245,7 +275,8 @@
     "tvg_name": "Distrito Comedia",
     "coincidencia": "sí",
     "guias_catalogo": 3,
-    "programas_encontrados": 155
+    "programas_encontrados": 115,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "E! Entertainment TV",
@@ -253,7 +284,8 @@
     "tvg_name": "E! Entertainment TV",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "ESPN 2 HD",
@@ -261,7 +293,8 @@
     "tvg_name": "ESPN 2 HD",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "ESPN 2 HD",
@@ -269,7 +302,8 @@
     "tvg_name": "ESPN 2 HD",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "ESPN 3 HD",
@@ -277,7 +311,8 @@
     "tvg_name": "ESPN 3 HD",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 121,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "ESPN 4HD",
@@ -285,7 +320,8 @@
     "tvg_name": "ESPN 4HD",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "ESPN 5HD",
@@ -293,7 +329,8 @@
     "tvg_name": "ESPN 5HD",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "ESPN 6HD",
@@ -301,7 +338,8 @@
     "tvg_name": "ESPN 6HD",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "ESPN 7HD",
@@ -309,7 +347,8 @@
     "tvg_name": "ESPN 7HD",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "ESPN HD",
@@ -317,7 +356,8 @@
     "tvg_name": "ESPN HD",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "ESPN HD",
@@ -325,7 +365,8 @@
     "tvg_name": "ESPN HD",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "ESPN HD",
@@ -333,7 +374,8 @@
     "tvg_name": "ESPN HD",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "ESPN Premium HD",
@@ -341,7 +383,8 @@
     "tvg_name": "ESPN Premium HD",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 72,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "EWTN",
@@ -349,15 +392,17 @@
     "tvg_name": "EWTN",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "El Gourmet HD",
-    "tvg_id": "m3u-auto-20165b729245",
-    "tvg_name": "El Gourmet HD",
-    "coincidencia": "sin coincidencia de catálogo",
-    "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "tvg_id": "ElGourmet.ar",
+    "tvg_name": "El Gourmet",
+    "coincidencia": "sí",
+    "guias_catalogo": 4,
+    "programas_encontrados": 346,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "Enlace",
@@ -365,7 +410,8 @@
     "tvg_name": "Enlace",
     "coincidencia": "sí",
     "guias_catalogo": 4,
-    "programas_encontrados": 546
+    "programas_encontrados": 322,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "Europa Europa",
@@ -373,7 +419,8 @@
     "tvg_name": "Europa Europa",
     "coincidencia": "sí",
     "guias_catalogo": 5,
-    "programas_encontrados": 102
+    "programas_encontrados": 101,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "Exitosa TV",
@@ -381,7 +428,8 @@
     "tvg_name": "Exitosa TV",
     "coincidencia": "sí",
     "guias_catalogo": 1,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "FMH FAMILY",
@@ -389,7 +437,8 @@
     "tvg_name": "FMH FAMILY",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "FMH FAMILY KIDS",
@@ -397,7 +446,8 @@
     "tvg_name": "FMH FAMILY KIDS",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "FMH FAMILY MOVIE",
@@ -405,7 +455,8 @@
     "tvg_name": "FMH FAMILY MOVIE",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "FOX SPORT PREMIUM",
@@ -413,7 +464,8 @@
     "tvg_name": "FOX SPORT PREMIUM",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "FX HD",
@@ -421,7 +473,8 @@
     "tvg_name": "FX HD",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "Film&Arts",
@@ -429,7 +482,8 @@
     "tvg_name": "Film & Arts",
     "coincidencia": "sí",
     "guias_catalogo": 3,
-    "programas_encontrados": 306
+    "programas_encontrados": 179,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "Film&Arts",
@@ -437,7 +491,8 @@
     "tvg_name": "Film & Arts",
     "coincidencia": "sí",
     "guias_catalogo": 3,
-    "programas_encontrados": 306
+    "programas_encontrados": 179,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "Food Network",
@@ -445,7 +500,8 @@
     "tvg_name": "Food Network",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 272
+    "programas_encontrados": 270,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "France 24",
@@ -453,7 +509,8 @@
     "tvg_name": "France 24",
     "coincidencia": "sí",
     "guias_catalogo": 117,
-    "programas_encontrados": 1585
+    "programas_encontrados": 908,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "GLOBAL",
@@ -461,7 +518,8 @@
     "tvg_name": "GLOBAL",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "Golden Edge",
@@ -469,15 +527,17 @@
     "tvg_name": "Golden Edge",
     "coincidencia": "sí",
     "guias_catalogo": 3,
-    "programas_encontrados": 155
+    "programas_encontrados": 70,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "Golden HD",
-    "tvg_id": "m3u-auto-5b8a7b29f477",
-    "tvg_name": "Golden HD",
-    "coincidencia": "sin coincidencia de catálogo",
-    "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "tvg_id": "Golden.mx",
+    "tvg_name": "Golden",
+    "coincidencia": "sí",
+    "guias_catalogo": 5,
+    "programas_encontrados": 97,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "HBO Family HD",
@@ -485,7 +545,8 @@
     "tvg_name": "HBO Family HD",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 105,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "HBO HD",
@@ -493,7 +554,8 @@
     "tvg_name": "HBO HD",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "HBO Mundi",
@@ -501,7 +563,8 @@
     "tvg_name": "HBO Mundi",
     "coincidencia": "sí",
     "guias_catalogo": 1,
-    "programas_encontrados": 143
+    "programas_encontrados": 95,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "HBO Plus",
@@ -509,7 +572,8 @@
     "tvg_name": "HBO Plus",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 205
+    "programas_encontrados": 132,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "HBO Signature",
@@ -517,15 +581,17 @@
     "tvg_name": "HBO Signature",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 239
+    "programas_encontrados": 141,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "HBO XTREME HD",
-    "tvg_id": "m3u-auto-b72312046bd9",
-    "tvg_name": "HBO XTREME HD",
-    "coincidencia": "sin coincidencia de catálogo",
-    "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "tvg_id": "HBOXtreme.br",
+    "tvg_name": "HBO Xtreme",
+    "coincidencia": "sí",
+    "guias_catalogo": 1,
+    "programas_encontrados": 126,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "HTV",
@@ -533,7 +599,8 @@
     "tvg_name": "HTV",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "HTV",
@@ -541,7 +608,8 @@
     "tvg_name": "HTV",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "History 2",
@@ -549,7 +617,8 @@
     "tvg_name": "History 2",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "History Channel HD",
@@ -557,7 +626,8 @@
     "tvg_name": "History",
     "coincidencia": "sí",
     "guias_catalogo": 0,
-    "programas_encontrados": 903
+    "programas_encontrados": 231,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "Home & Health HD",
@@ -565,7 +635,8 @@
     "tvg_name": "Home & Health HD",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 199,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "ID HD",
@@ -573,7 +644,8 @@
     "tvg_name": "ID HD",
     "coincidencia": "sí",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "KARIBEÑA",
@@ -581,7 +653,8 @@
     "tvg_name": "Karibena",
     "coincidencia": "sí",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "Kanal D Drama",
@@ -589,7 +662,8 @@
     "tvg_name": "Kanal D Drama",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "L1",
@@ -597,7 +671,8 @@
     "tvg_name": "L1",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "L1 MAX",
@@ -605,7 +680,8 @@
     "tvg_name": "L1 Max",
     "coincidencia": "sí",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "La Red",
@@ -613,23 +689,26 @@
     "tvg_name": "La Red",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 89
+    "programas_encontrados": 95,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "Las Estrellas HD",
-    "tvg_id": "m3u-auto-52036cd7f970",
-    "tvg_name": "Las Estrellas HD",
-    "coincidencia": "sin coincidencia de catálogo",
-    "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "tvg_id": "LasEstrellas.mx",
+    "tvg_name": "Las Estrellas",
+    "coincidencia": "sí",
+    "guias_catalogo": 3,
+    "programas_encontrados": 139,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "Latina HD",
-    "tvg_id": "m3u-auto-d7a4d0aeeac9",
-    "tvg_name": "Latina HD",
-    "coincidencia": "sin coincidencia de catálogo",
-    "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "tvg_id": "Latina.pe",
+    "tvg_name": "Latina",
+    "coincidencia": "sí",
+    "guias_catalogo": 3,
+    "programas_encontrados": 131,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "Lifetime",
@@ -637,7 +716,8 @@
     "tvg_name": "Lifetime",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 310
+    "programas_encontrados": 139,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "Love Nature",
@@ -645,7 +725,8 @@
     "tvg_name": "Love Nature",
     "coincidencia": "sí",
     "guias_catalogo": 41,
-    "programas_encontrados": 162
+    "programas_encontrados": 162,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "MEGA HD",
@@ -653,7 +734,8 @@
     "tvg_name": "MEGA HD",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "MI MUSICA HITS",
@@ -661,7 +743,8 @@
     "tvg_name": "Mi Musica Hits",
     "coincidencia": "sí",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "MI MUSICA PERU",
@@ -669,7 +752,8 @@
     "tvg_name": "MI MUSICA PERU",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "MTV HD",
@@ -677,7 +761,8 @@
     "tvg_name": "MTV HD",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "MUNDO DE LA MUSICA",
@@ -685,7 +770,8 @@
     "tvg_name": "Mundo de la Musica",
     "coincidencia": "sí",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "MUSICA VENE",
@@ -693,7 +779,8 @@
     "tvg_name": "MUSICA VENE",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "Mega",
@@ -701,7 +788,8 @@
     "tvg_name": "Mega",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "Movistar Deportes",
@@ -709,7 +797,8 @@
     "tvg_name": "Movistar Deportes",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "NUEVO TIEMPO",
@@ -717,23 +806,26 @@
     "tvg_name": "Nuevo Tiempo",
     "coincidencia": "sí",
     "guias_catalogo": 1,
-    "programas_encontrados": 217
+    "programas_encontrados": 224,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "Nat Geo HD",
-    "tvg_id": "m3u-auto-0d9d3d9edd8e",
-    "tvg_name": "Nat Geo HD",
-    "coincidencia": "sin coincidencia de catálogo",
-    "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "tvg_id": "NationalGeographic.uk",
+    "tvg_name": "National Geographic",
+    "coincidencia": "sí",
+    "guias_catalogo": 12,
+    "programas_encontrados": 195,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "Nick HD",
-    "tvg_id": "NickHDPlus.in",
-    "tvg_name": "Nick HD+",
-    "coincidencia": "sí",
-    "guias_catalogo": 3,
-    "programas_encontrados": 0
+    "tvg_id": "m3u-auto-e61a21a82a17",
+    "tvg_name": "Nick HD",
+    "coincidencia": "sin coincidencia de catálogo",
+    "guias_catalogo": 0,
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "Nick Jr.",
@@ -741,7 +833,8 @@
     "tvg_name": "Nick Jr.",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 1494
+    "programas_encontrados": 532,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "Nick Music",
@@ -749,7 +842,8 @@
     "tvg_name": "Nick Music",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "Nuestra Tele",
@@ -757,15 +851,17 @@
     "tvg_name": "Nuestra Tele Internacional",
     "coincidencia": "sí",
     "guias_catalogo": 1,
-    "programas_encontrados": 462
+    "programas_encontrados": 175,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "OROMAR TV",
-    "tvg_id": "m3u-auto-d538b1f5f513",
-    "tvg_name": "OROMAR TV",
-    "coincidencia": "sin coincidencia de catálogo",
+    "tvg_id": "OromarTV.ec",
+    "tvg_name": "Oromar TV",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "Panamericana",
@@ -773,15 +869,17 @@
     "tvg_name": "Panamericana",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 112
+    "programas_encontrados": 111,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "Pasiones HD",
-    "tvg_id": "m3u-auto-68aefe4b9ecd",
-    "tvg_name": "Pasiones HD",
-    "coincidencia": "sin coincidencia de catálogo",
-    "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "tvg_id": "Pasiones.us",
+    "tvg_name": "Pasiones",
+    "coincidencia": "sí",
+    "guias_catalogo": 2,
+    "programas_encontrados": 183,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "Plim Plim TV",
@@ -789,7 +887,8 @@
     "tvg_name": "Plim Plim TV",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "RAI Italia",
@@ -797,7 +896,8 @@
     "tvg_name": "Rai Italia",
     "coincidencia": "sí",
     "guias_catalogo": 5,
-    "programas_encontrados": 204
+    "programas_encontrados": 183,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "REC TV",
@@ -805,7 +905,8 @@
     "tvg_name": "REC TV",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 153
+    "programas_encontrados": 163,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "RPP",
@@ -813,7 +914,8 @@
     "tvg_name": "RPP TV",
     "coincidencia": "sí",
     "guias_catalogo": 1,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "SOMOS TV VENEZUELA",
@@ -821,7 +923,8 @@
     "tvg_name": "SOMOS TV VENEZUELA",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "STAR CHANNEL",
@@ -829,7 +932,8 @@
     "tvg_name": "STAR CHANNEL",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 549
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "STAR CHANNEL HD",
@@ -837,7 +941,8 @@
     "tvg_name": "STAR CHANNEL HD",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "Sextreme",
@@ -845,7 +950,8 @@
     "tvg_name": "Sextreme",
     "coincidencia": "sí",
     "guias_catalogo": 5,
-    "programas_encontrados": 109
+    "programas_encontrados": 111,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "Sony HD",
@@ -853,7 +959,8 @@
     "tvg_name": "Sony HD",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "Sony Movies",
@@ -861,15 +968,17 @@
     "tvg_name": "Sony Movies",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 125
+    "programas_encontrados": 123,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "Space HD",
-    "tvg_id": "m3u-auto-9bf7e5f989f7",
-    "tvg_name": "Space HD",
-    "coincidencia": "sin coincidencia de catálogo",
-    "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "tvg_id": "Space.ar",
+    "tvg_name": "Space",
+    "coincidencia": "sí",
+    "guias_catalogo": 9,
+    "programas_encontrados": 86,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "Stingray Concerts HD",
@@ -877,7 +986,8 @@
     "tvg_name": "Stingray Concerts HD",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "Studio Universal HD",
@@ -885,7 +995,8 @@
     "tvg_name": "Studio Universal HD",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 114,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "TCM",
@@ -893,7 +1004,8 @@
     "tvg_name": "TCM",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "TNT HD",
@@ -901,15 +1013,17 @@
     "tvg_name": "TNT HD",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "TNT Novelas HD",
-    "tvg_id": "m3u-auto-585eb039bfbc",
-    "tvg_name": "TNT Novelas HD",
-    "coincidencia": "sin coincidencia de catálogo",
+    "tvg_id": "TNTNovelas.us",
+    "tvg_name": "TNT Novelas",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 178,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "TNT Series HD",
@@ -917,7 +1031,8 @@
     "tvg_name": "TNT Series HD",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 231,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "TNT Sports Premiun HD",
@@ -925,7 +1040,8 @@
     "tvg_name": "TNT Sports Premiun HD",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "TOP LATINO",
@@ -933,7 +1049,8 @@
     "tvg_name": "TOP LATINO",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "TV ARAGUA",
@@ -941,7 +1058,8 @@
     "tvg_name": "TV ARAGUA",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "TV Perœ",
@@ -949,7 +1067,8 @@
     "tvg_name": "TV Perœ",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 146
+    "programas_encontrados": 147,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "TVE",
@@ -957,7 +1076,8 @@
     "tvg_name": "TVE",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "TVS MACARAY",
@@ -965,7 +1085,8 @@
     "tvg_name": "TVS MACARAY",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "Teen Nick",
@@ -973,7 +1094,8 @@
     "tvg_name": "Teen Nick",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "TelefØ",
@@ -981,7 +1103,8 @@
     "tvg_name": "TelefØ",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 830
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "Telemundo",
@@ -989,7 +1112,8 @@
     "tvg_name": "Telemundo",
     "coincidencia": "sí",
     "guias_catalogo": 5,
-    "programas_encontrados": 267
+    "programas_encontrados": 138,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "Tlnovelas",
@@ -997,7 +1121,8 @@
     "tvg_name": "Tlnovelas",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 540
+    "programas_encontrados": 112,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "Tooncast",
@@ -1005,7 +1130,8 @@
     "tvg_name": "Tooncast",
     "coincidencia": "sí",
     "guias_catalogo": 9,
-    "programas_encontrados": 1379
+    "programas_encontrados": 857,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "UFC",
@@ -1013,7 +1139,8 @@
     "tvg_name": "UFC",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "UNIVERSAL CHANNEL HD",
@@ -1021,7 +1148,8 @@
     "tvg_name": "UNIVERSAL CHANNEL HD",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 164,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "USA",
@@ -1029,7 +1157,8 @@
     "tvg_name": "Sanskar USA",
     "coincidencia": "sí",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "VISION MUSICA",
@@ -1037,7 +1166,8 @@
     "tvg_name": "VISION MUSICA",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "Via X Esports",
@@ -1045,7 +1175,8 @@
     "tvg_name": "Via X Esports",
     "coincidencia": "sí",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "Warner Channel",
@@ -1053,15 +1184,17 @@
     "tvg_name": "Warner Channel",
     "coincidencia": "sí",
     "guias_catalogo": 8,
-    "programas_encontrados": 991
+    "programas_encontrados": 231,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "Warner Channel HD",
-    "tvg_id": "m3u-auto-be58101a4b94",
-    "tvg_name": "Warner Channel HD",
-    "coincidencia": "sin coincidencia de catálogo",
-    "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "tvg_id": "WarnerChannel.us",
+    "tvg_name": "Warner Channel",
+    "coincidencia": "sí",
+    "guias_catalogo": 8,
+    "programas_encontrados": 231,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "Willax",
@@ -1069,7 +1202,8 @@
     "tvg_name": "Willax",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 121
+    "programas_encontrados": 119,
+    "estado_epg": "con EPG"
   },
   {
     "canal_lista": "fib music",
@@ -1077,7 +1211,8 @@
     "tvg_name": "fib music",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "fib peliculas",
@@ -1085,7 +1220,8 @@
     "tvg_name": "fib peliculas",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "vclassic musica",
@@ -1093,7 +1229,8 @@
     "tvg_name": "vclassic musica",
     "coincidencia": "sin coincidencia de catálogo",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   },
   {
     "canal_lista": "west tv",
@@ -1101,6 +1238,7 @@
     "tvg_name": "West TV",
     "coincidencia": "sí",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 0,
+    "estado_epg": "sin programas coincidentes"
   }
 ]

@@ -29,17 +29,17 @@ http://38.210.3.64:8090/play/a0el/index.m3u8
 http://38.210.3.64:8090/play/a0o1/index.m3u8
 #EXTINF:-1 tvg-id="CanalN.pe" tvg-name="Canal N",Canal N
 http://38.210.3.64:8090/play/a0ns/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in" tvg-name="Cartoon Network HD+",Cartoon Network HD
+#EXTINF:-1 tvg-id="m3u-auto-93284506c8b5" tvg-name="Cartoon Network HD",Cartoon Network HD
 http://38.210.3.64:8090/play/a0ny/index.m3u8
 #EXTINF:-1 tvg-id="m3u-auto-84b51d4988c3" tvg-name="Cartoonito",Cartoonito
 http://38.210.3.64:8090/play/a0oa/index.m3u8
-#EXTINF:-1 tvg-id="m3u-auto-60f42f4f2bb4" tvg-name="Cinecanal HD",Cinecanal HD
+#EXTINF:-1 tvg-id="Cinecanal.us" tvg-name="Cinecanal",Cinecanal HD
 http://38.210.3.64:8090/play/a0iy/index.m3u8
 #EXTINF:-1 tvg-id="m3u-auto-d0af5a2872ca" tvg-name="Cinemax",Cinemax
 http://38.210.3.64:8090/play/a0gt/index.m3u8
 #EXTINF:-1 tvg-id="m3u-auto-70e826809bba" tvg-name="Comedy Central HD",Comedy Central HD
 http://38.210.3.64:8090/play/a0do/index.m3u8
-#EXTINF:-1 tvg-id="m3u-auto-9856b3d7caa6" tvg-name="DAYSTAR",DAYSTAR
+#EXTINF:-1 tvg-id="DaystarHD.us" tvg-name="Daystar HD",DAYSTAR
 http://38.210.3.64:8090/play/a0ni/index.m3u8
 #EXTINF:-1 tvg-id="m3u-auto-332c0e962000" tvg-name="DW Espaæol",DW Espaæol
 http://38.210.3.64:8090/play/a0kk/index.m3u8
@@ -53,9 +53,9 @@ http://38.210.3.64:8090/play/a0p6/index.m3u8
 http://38.210.3.64:8090/play/a0j5/index.m3u8
 #EXTINF:-1 tvg-id="m3u-auto-8e7f8ee246e8" tvg-name="Discovery Kids HD",Discovery Kids HD
 http://38.210.3.64:8090/play/a0o2/index.m3u8
-#EXTINF:-1 tvg-id="m3u-auto-21b0980319ef" tvg-name="Discovery Theater HD",Discovery Theater HD
+#EXTINF:-1 tvg-id="DiscoveryTheater.br" tvg-name="Discovery Theater",Discovery Theater HD
 http://38.210.3.64:8090/play/a0cx/index.m3u8
-#EXTINF:-1 tvg-id="m3u-auto-66ed80d69357" tvg-name="Disney HD",Disney HD
+#EXTINF:-1 tvg-id="DisneyChannel.ru" tvg-name="Disney Channel",Disney HD
 http://38.210.3.64:8090/play/a0j9/index.m3u8
 #EXTINF:-1 tvg-id="m3u-auto-77b8d663b169" tvg-name="Disney Junior",Disney Junior
 http://38.210.3.64:8090/play/a0eo/index.m3u8
@@ -87,7 +87,7 @@ http://38.210.3.64:8090/play/a0bu/index.m3u8
 http://38.210.3.64:8090/play/a0ke/index.m3u8
 #EXTINF:-1 tvg-id="m3u-auto-ddb558ae5668" tvg-name="EWTN",EWTN
 http://38.210.3.64:8090/play/a0l5/index.m3u8
-#EXTINF:-1 tvg-id="m3u-auto-20165b729245" tvg-name="El Gourmet HD",El Gourmet HD
+#EXTINF:-1 tvg-id="ElGourmet.ar" tvg-name="El Gourmet",El Gourmet HD
 http://38.210.3.64:8090/play/a0ob/index.m3u8
 #EXTINF:-1 tvg-id="Enlace.cr" tvg-name="Enlace",Enlace
 http://38.210.3.64:8090/play/a0jw/index.m3u8
@@ -117,7 +117,7 @@ http://38.210.3.64:8090/play/a0kj/index.m3u8
 http://38.210.3.64:8090/play/a0dc/index.m3u8
 #EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="Golden Edge",Golden Edge
 http://38.210.3.64:8090/play/a0co/index.m3u8
-#EXTINF:-1 tvg-id="m3u-auto-5b8a7b29f477" tvg-name="Golden HD",Golden HD
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden",Golden HD
 http://38.210.3.64:8090/play/a0kp/index.m3u8
 #EXTINF:-1 tvg-id="m3u-auto-675eb86635d6" tvg-name="HBO Family HD",HBO Family HD
 http://38.210.3.64:8090/play/a0h5/index.m3u8
@@ -129,7 +129,7 @@ http://38.210.3.64:8090/play/a0p0/index.m3u8
 http://38.210.3.64:8090/play/a0cs/index.m3u8
 #EXTINF:-1 tvg-id="m3u-auto-88677614db8f" tvg-name="HBO Signature",HBO Signature
 http://38.210.3.64:8090/play/a0ht/index.m3u8
-#EXTINF:-1 tvg-id="m3u-auto-b72312046bd9" tvg-name="HBO XTREME HD",HBO XTREME HD
+#EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="HBO Xtreme",HBO XTREME HD
 http://38.210.3.64:8090/play/a0j0/index.m3u8
 #EXTINF:-1 tvg-id="m3u-auto-005d2744f839" tvg-name="HTV",HTV
 http://38.210.3.64:8090/play/a0nk/index.m3u8
@@ -153,9 +153,9 @@ http://38.210.3.64:8090/play/a0p3/index.m3u8
 http://38.210.3.64:8090/play/a0nv/index.m3u8
 #EXTINF:-1 tvg-id="m3u-auto-b7a7be302bd8" tvg-name="La Red",La Red
 http://38.210.3.64:8090/play/a0li/index.m3u8
-#EXTINF:-1 tvg-id="m3u-auto-52036cd7f970" tvg-name="Las Estrellas HD",Las Estrellas HD
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas",Las Estrellas HD
 http://38.210.3.64:8090/play/a0o6/index.m3u8
-#EXTINF:-1 tvg-id="m3u-auto-d7a4d0aeeac9" tvg-name="Latina HD",Latina HD
+#EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina",Latina HD
 http://38.210.3.64:8090/play/a0c0/index.m3u8
 #EXTINF:-1 tvg-id="m3u-auto-ba1d32fcf830" tvg-name="Lifetime",Lifetime
 http://38.210.3.64:8090/play/a0ly/index.m3u8
@@ -179,9 +179,9 @@ http://38.210.3.64:8090/play/a0mi/index.m3u8
 http://38.210.3.64:8090/play/a0nr/index.m3u8
 #EXTINF:-1 tvg-id="NuevoTiempo.br" tvg-name="Nuevo Tiempo",NUEVO TIEMPO
 http://38.210.3.64:8090/play/AS01/index.m3u8
-#EXTINF:-1 tvg-id="m3u-auto-0d9d3d9edd8e" tvg-name="Nat Geo HD",Nat Geo HD
+#EXTINF:-1 tvg-id="NationalGeographic.uk" tvg-name="National Geographic",Nat Geo HD
 http://38.210.3.64:8090/play/a0j7/index.m3u8
-#EXTINF:-1 tvg-id="NickHDPlus.in" tvg-name="Nick HD+",Nick HD
+#EXTINF:-1 tvg-id="m3u-auto-e61a21a82a17" tvg-name="Nick HD",Nick HD
 http://38.210.3.64:8090/play/a0d3/index.m3u8
 #EXTINF:-1 tvg-id="m3u-auto-2b5c1eb2dc6b" tvg-name="Nick Jr.",Nick Jr.
 http://38.210.3.64:8090/play/a0nx/index.m3u8
@@ -189,11 +189,11 @@ http://38.210.3.64:8090/play/a0nx/index.m3u8
 http://38.210.3.64:8090/play/a0cc/index.m3u8
 #EXTINF:-1 tvg-id="NuestraTeleInternacional.co" tvg-name="Nuestra Tele Internacional",Nuestra Tele
 http://38.210.3.64:8090/play/a0mj/index.m3u8
-#EXTINF:-1 tvg-id="m3u-auto-d538b1f5f513" tvg-name="OROMAR TV",OROMAR TV
+#EXTINF:-1 tvg-id="OromarTV.ec" tvg-name="Oromar TV",OROMAR TV
 http://38.210.3.64:8090/play/a0oe/index.m3u8
 #EXTINF:-1 tvg-id="m3u-auto-c150ca753e69" tvg-name="Panamericana",Panamericana
 http://38.210.3.64:8090/play/a0d8/index.m3u8
-#EXTINF:-1 tvg-id="m3u-auto-68aefe4b9ecd" tvg-name="Pasiones HD",Pasiones HD
+#EXTINF:-1 tvg-id="Pasiones.us" tvg-name="Pasiones",Pasiones HD
 http://38.210.3.64:8090/play/a0kb/index.m3u8
 #EXTINF:-1 tvg-id="m3u-auto-243ba0974514" tvg-name="Plim Plim TV",Plim Plim TV
 http://38.210.3.64:8090/play/a0oi/index.m3u8
@@ -215,7 +215,7 @@ http://38.210.3.64:8090/play/a0oh/index.m3u8
 http://38.210.3.64:8090/play/a0it/index.m3u8
 #EXTINF:-1 tvg-id="m3u-auto-6841c88be7fe" tvg-name="Sony Movies",Sony Movies
 http://38.210.3.64:8090/play/a0o3/index.m3u8
-#EXTINF:-1 tvg-id="m3u-auto-9bf7e5f989f7" tvg-name="Space HD",Space HD
+#EXTINF:-1 tvg-id="Space.ar" tvg-name="Space",Space HD
 http://38.210.3.64:8090/play/a0iu/index.m3u8
 #EXTINF:-1 tvg-id="m3u-auto-020066b6f30d" tvg-name="Stingray Concerts HD",Stingray Concerts HD
 http://38.210.3.64:8090/play/a0m5/index.m3u8
@@ -225,7 +225,7 @@ http://38.210.3.64:8090/play/a0bt/index.m3u8
 http://38.210.3.64:8090/play/a0kr/index.m3u8
 #EXTINF:-1 tvg-id="m3u-auto-ab0c6d1732fe" tvg-name="TNT HD",TNT HD
 http://38.210.3.64:8090/play/a0is/index.m3u8
-#EXTINF:-1 tvg-id="m3u-auto-585eb039bfbc" tvg-name="TNT Novelas HD",TNT Novelas HD
+#EXTINF:-1 tvg-id="TNTNovelas.us" tvg-name="TNT Novelas",TNT Novelas HD
 http://38.210.3.64:8090/play/a0ir/index.m3u8
 #EXTINF:-1 tvg-id="m3u-auto-8ac2487f5fdb" tvg-name="TNT Series HD",TNT Series HD
 http://38.210.3.64:8090/play/a0ix/index.m3u8
@@ -263,7 +263,7 @@ http://38.210.3.64:8090/play/a0ln/index.m3u8
 http://38.210.3.64:8090/play/a0i3/index.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel.us" tvg-name="Warner Channel",Warner Channel
 http://38.210.3.64:8090/play/a0os/index.m3u8
-#EXTINF:-1 tvg-id="m3u-auto-be58101a4b94" tvg-name="Warner Channel HD",Warner Channel HD
+#EXTINF:-1 tvg-id="WarnerChannel.us" tvg-name="Warner Channel",Warner Channel HD
 http://38.210.3.64:8090/play/a0j1/index.m3u8
 #EXTINF:-1 tvg-id="m3u-auto-b2508d22af6e" tvg-name="Willax",Willax
 http://38.210.3.64:8090/play/a0on/index.m3u8

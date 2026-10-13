@@ -19,8 +19,8 @@
     "url": "https://iptv-epg.org/files/epg-co.xml",
     "formato": "XML",
     "estado": "XMLTV válido",
-    "canales_encontrados": 17,
-    "programas_nuevos": 4539,
+    "canales_encontrados": 34,
+    "programas_nuevos": 9852,
     "error": ""
   },
   {
@@ -36,7 +36,7 @@
     "formato": "XML",
     "estado": "XMLTV válido",
     "canales_encontrados": 8,
-    "programas_nuevos": 2969,
+    "programas_nuevos": 11108,
     "error": ""
   },
   {
@@ -51,8 +51,8 @@
     "url": "https://iptv-epg.org/files/epg-ar.xml",
     "formato": "XML",
     "estado": "XMLTV válido",
-    "canales_encontrados": 0,
-    "programas_nuevos": 1734,
+    "canales_encontrados": 3,
+    "programas_nuevos": 8672,
     "error": ""
   },
   {
@@ -68,7 +68,7 @@
     "formato": "XML",
     "estado": "XMLTV válido",
     "canales_encontrados": 0,
-    "programas_nuevos": 525,
+    "programas_nuevos": 5316,
     "error": ""
   },
   {
@@ -83,8 +83,8 @@
     "url": "https://iptv-epg.org/files/epg-mx.xml",
     "formato": "XML",
     "estado": "XMLTV válido",
-    "canales_encontrados": 3,
-    "programas_nuevos": 1803,
+    "canales_encontrados": 5,
+    "programas_nuevos": 7509,
     "error": ""
   },
   {
@@ -100,7 +100,7 @@
     "formato": "XML",
     "estado": "XMLTV válido",
     "canales_encontrados": 0,
-    "programas_nuevos": 1658,
+    "programas_nuevos": 5297,
     "error": ""
   },
   {
@@ -116,7 +116,7 @@
     "formato": "XML",
     "estado": "XMLTV válido",
     "canales_encontrados": 0,
-    "programas_nuevos": 46,
+    "programas_nuevos": 5784,
     "error": ""
   },
   {
@@ -132,7 +132,7 @@
     "formato": "XML",
     "estado": "XMLTV válido",
     "canales_encontrados": 0,
-    "programas_nuevos": 27,
+    "programas_nuevos": 4869,
     "error": ""
   },
   {
@@ -148,7 +148,7 @@
     "formato": "XML",
     "estado": "XMLTV válido",
     "canales_encontrados": 0,
-    "programas_nuevos": 204,
+    "programas_nuevos": 6008,
     "error": ""
   },
   {
@@ -163,8 +163,8 @@
     "url": "https://iptv-epg.org/files/epg-py.xml",
     "formato": "XML",
     "estado": "XMLTV válido",
-    "canales_encontrados": 0,
-    "programas_nuevos": 70,
+    "canales_encontrados": 1,
+    "programas_nuevos": 5387,
     "error": ""
   },
   {
@@ -180,7 +180,7 @@
     "formato": "XML",
     "estado": "XMLTV válido",
     "canales_encontrados": 3,
-    "programas_nuevos": 421,
+    "programas_nuevos": 6448,
     "error": ""
   },
   {
@@ -196,7 +196,7 @@
     "formato": "XML",
     "estado": "XMLTV válido",
     "canales_encontrados": 0,
-    "programas_nuevos": 1932,
+    "programas_nuevos": 2336,
     "error": ""
   },
   {
@@ -212,7 +212,7 @@
     "formato": "XML",
     "estado": "XMLTV válido",
     "canales_encontrados": 5,
-    "programas_nuevos": 3776,
+    "programas_nuevos": 10985,
     "error": ""
   },
   {
@@ -228,7 +228,7 @@
     "formato": "XML",
     "estado": "XMLTV válido",
     "canales_encontrados": 0,
-    "programas_nuevos": 238,
+    "programas_nuevos": 3076,
     "error": ""
   },
   {
