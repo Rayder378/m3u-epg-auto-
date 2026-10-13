@@ -1,4 +1,4 @@
-name: Actualizar lista y resultados EPG automático
+name: Actualizar lista y resultados EPG
 
 on:
 workflow_dispatch:
@@ -73,10 +73,8 @@ steps:
       fi
 
       git commit -m "Actualizar lista e informes EPG"
-
       git fetch origin main
       git rebase origin/main
-
       git push origin HEAD:main
 
   - name: Publicar resultados como artefactos
