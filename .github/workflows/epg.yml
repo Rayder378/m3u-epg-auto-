@@ -1,6 +1,6 @@
 name: Actualizar lista y resultados EPG
 
-on:
+"on":
 workflow_dispatch:
 schedule:
 - cron: "20 6 * * *"
