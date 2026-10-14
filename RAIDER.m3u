@@ -1,0 +1,248 @@
+#EXTM3U
+#EXTINF:-1,canal 1
+http://181.143.237.211:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="colombia",RCN
+http://181.143.237.211:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="colombia",Señal colombia
+http://181.143.237.211:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="colombia",canal institucional
+http://181.143.237.211:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="colombia",canal congreso
+http://181.143.237.211:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="colombia",teleislas
+http://181.143.237.211:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="colombia",citytv
+http://181.143.237.211:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="colombia",canal capital
+http://181.143.237.211:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="colombia",rcnHD2
+http://181.143.237.211:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="colombia",caracol hd
+http://181.143.237.211:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="discovery",Discovery turbo
+http://181.143.237.211:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="colombia",telepacifico
+http://181.143.237.211:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="discovery",discovery hyh
+http://181.143.237.211:85/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="colombia",Gol Caracol HD
+http://181.143.237.211:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="discovery",discovery ID
+http://181.143.237.211:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="mx",las estrellas
+http://181.143.237.211:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Paraguay",América paraguay
+http://181.143.237.211:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="discovery",animal planet
+http://181.143.237.211:85/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="entregenimiento",tlnovelas
+http://181.143.237.211:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="colombia",canal Tro
+http://181.143.237.211:85/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="colombia",TV zoom
+http://181.143.237.211:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Historia",History channel
+http://181.143.237.211:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="discovery",discovery channel
+http://181.143.237.211:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="colombia",Caracol TV
+http://181.143.237.211:85/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Historia",nacional geografy
+http://181.143.237.211:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="claro",claro musica
+http://181.143.237.211:85/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="colombia",RCN HD
+http://181.143.237.211:85/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,g
+http://181.143.237.211:85/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="peliculas",usa
+http://181.143.237.211:85/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="peliculas",Cinemax
+http://181.143.237.211:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="peliculas",Sony channel
+http://181.143.237.211:85/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="peliculas",axn
+http://181.143.237.211:85/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="peliculas",fx
+http://181.143.237.211:85/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="peliculas",wb TV
+http://181.143.237.211:85/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,Golden
+http://181.143.237.211:85/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="entregenimiento",tlc
+http://181.143.237.211:85/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="peliculas",HBO FAMILY
+http://181.143.237.211:85/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,HBO 2
+http://181.143.237.211:85/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="peliculas",SPACE HD
+http://181.143.237.211:85/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="discovery",DISCOVERY EI
+http://181.143.237.211:85/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="colombia",Origen Telepacifico
+http://181.143.237.211:85/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="deportes",win sport colombia
+http://181.143.237.211:85/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="deportes",ESPN 6
+http://181.143.237.211:85/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="deportes",ESPN 7
+http://181.143.237.211:85/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="deportes",ESPN
+http://181.143.237.211:85/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="deportes",ESPN
+http://181.143.237.211:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="deportes",ESPN7
+http://181.143.237.211:85/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="deportes",ESPN 3
+http://181.143.237.211:85/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="deportes",ESPN
+http://181.143.237.211:85/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="entregenimiento",A&E
+http://181.143.237.211:85/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="colombia",RCN NOVELAs
+http://181.143.237.211:85/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="musica",La Kalle
+http://181.143.237.211:85/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="deportes",ESPN 2
+http://181.143.237.211:85/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,g
+http://181.143.237.211:85/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="peliculas",Cine Hispano
+http://181.143.237.211:85/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,Teleantioquia
+http://181.143.237.211:85/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,g
+http://181.143.237.211:85/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,g
+http://181.143.237.211:85/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="musica",trece
+http://181.143.237.211:85/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,g
+http://181.143.237.211:85/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,h
+http://181.143.237.211:85/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,g
+http://181.143.237.211:85/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Infantiles",Disney channel HD
+http://181.143.237.211:85/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Infantiles",Disney JR
+http://181.143.237.211:85/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,g
+http://181.143.237.211:85/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Infantiles",Discovery Kids
+http://181.143.237.211:85/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,h
+http://181.143.237.211:85/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Infantiles",tooncast
+http://181.143.237.211:85/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=2
+#EXTINF:-1,Nick jr
+http://181.143.237.211:85/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,g
+http://181.143.237.211:85/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,g
+http://181.143.237.211:85/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="musica",tin
+http://181.143.237.211:85/tsfile/live/1072_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,h
+http://181.143.237.211:85/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,h
+http://181.143.237.211:85/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="peliculas",estudio universal
+http://181.143.237.211:85/tsfile/live/1075_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="entregenimiento",Telemundo internacional
+http://181.143.237.211:85/tsfile/live/1076_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,g
+http://181.143.237.211:85/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="entregenimiento",vía X
+http://181.143.237.211:85/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,g
+http://181.143.237.211:85/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="peliculas",TNT Novelas
+http://181.143.237.211:85/tsfile/live/1080_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="peliculas",Universal Tv
+http://181.143.237.211:85/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,g
+http://181.143.237.211:85/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="entregenimiento",cnn
+http://181.143.237.211:85/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="entregenimiento",esne
+http://181.143.237.211:85/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,h
+http://181.143.237.211:85/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,g
+http://181.143.237.211:85/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="anime",bitme
+http://181.143.237.211:85/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="musica",MiMusicaHits
+http://181.143.237.211:85/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="colombia",telepacifico
+http://181.143.237.211:85/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="anime",Bitme
+http://181.143.237.211:85/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="deportes",Win sport colombia
+http://181.143.237.211:85/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Infantiles",BabyFirst
+http://181.143.237.211:85/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Infantiles",Cartoon network
+http://181.143.237.211:85/tsfile/live/1093_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="Infantiles",Nick jr
+http://181.143.237.211:85/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,g
+http://181.143.237.211:85/tsfile/live/1095_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,g
+http://181.143.237.211:85/tsfile/live/1096_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,g
+http://181.143.237.211:85/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,t
+http://181.143.237.211:85/tsfile/live/1098_1.m3u8?key=txiptv&playlive=2&authid=0
+#EXTINF:-1,h
+http://181.143.237.211:85/tsfile/live/1099_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="ESPN",ESPN 2 opc
+https://khala.futlivehd.com/global/espn2/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Disney-Channel-Logo.png" group-title="Infantiles",Disney Channel SD
+http://45.166.93.156:9999/play/a0f3/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Disney-Channel-Logo.png" group-title="Infantiles",Disney Channel HD (Opc.5)
+http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Disney-Channel-Logo.png" group-title="Infantiles",Disney Channel HD (Opc.6)
+http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Disney-Channel-Logo.png" group-title="Infantiles",Disney Channel SD (opc.7)
+http://181.143.237.211:85/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="https://carjocosa.space/studio/logo.png" group-title="Documentales y Cultura",Estudio + TV HD
+https://vd01.streaminghd.net.ar:3113/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Infantiles",Disney Jr . Latin America South [opc.2]
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Infantiles",Disney.JR HD  problemas de buffer se queda mucho
+http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8AKW7Uu.png\\""" group-title="Entretenimiento Premium" " group-title="Entretenimiento Premium",tlnovelas SD [Opc.4]
+http://181.143.237.211:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,animal planet
+https://full-online.xyz/proxy/ssl/?url=http://181.119.215.61:8000/play/a0gq/index.m3u8
+#EXTINF:-1,asult swin
+https://full-online.xyz/proxy/ssl/?url=http://181.119.215.61:8000/play/a05v/index.m3u8
+#EXTINF:-1,asult swim OPC 2
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/01/Adult-Swim-Logo.jpg",adult swim HD
+http://181.119.215.61:8000/play/a05v/index.m3u8
+#EXTINF:-1,Max anime
+https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
+#EXTINF:-1,tutv el salvador
+https://stream.giostreaming.app/canal11/canal11.m3u8
+#EXTINF:-1,EnerGeek Retro (Chile):
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1,EnerGeek Fan:
+https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1,pandamax
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
+#EXTINF:-1,Extrema Kids TV
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+#EXTINF:-1,MTV LATINO SRT
+http://45.182.22.53:8000/play/a0dh/index.m3u8?fbclid=Iwb21leAUpZV5jbGNrBSllUmV4dG4DYWVtAjExAHBkb2YFc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEe6T7KyltuhxZUKGf2hFi8JWpnhnH0S2NIFUXX4PA0TJvdNKiyJ6xMB_cKg58_aem_3yQIfSJ_A-clU4K8PJSj7w
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsi-NGZhblCE0Ll0cwiUyR6XY5SadlILuEEOtxG3EVdg&s=10" group-title="-",MTV
+http://191.97.55.72:8000/play/a0027/index.m3u8?fbclid=Iwb21leAUjB1pjbGNrBSMHTmV4dG4DYWVtAjExAHBkb2YFc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEevq11NHFG8cYgMb3kQDPg0lyKXBvYEfo0FpTZ1bFGrHSyx5Vg6Vwo3A4_W7E_aem_H3jQTGjdo4T7MS10ehEGfg
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/412626363011457024/s87vGCpO_400x400.jpeg",Claro Sports 1 SD
+http://45.182.22.53:8000/play/a0c2/index.m3u8?fbclid=Iwb21leAUpZV5jbGNrBSllUmV4dG4DYWVtAjExAHBkb2YFc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEe6T7KyltuhxZUKGf2hFi8JWpnhnH0S2NIFUXX4PA0TJvdNKiyJ6xMB_cKg58_aem_3yQIfSJ_A-clU4K8PJSj7w
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/412626363011457024/s87vGCpO_400x400.jpeg",Claro Sports 2 SD
+http://45.182.22.53:8000/play/a09x/index.m3u8?fbclid=Iwb21leAUpZV5jbGNrBSllUmV4dG4DYWVtAjExAHBkb2YFc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEe6T7KyltuhxZUKGf2hFi8JWpnhnH0S2NIFUXX4PA0TJvdNKiyJ6xMB_cKg58_aem_3yQIfSJ_A-clU4K8PJSj7w
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ack3kcrk3cz6/6UiRtTSHJVoMgRVFLdlND7/f043a423429dfae262daabbf115fa3be/41_ClaroCinema.png",Claro Cinema
+http://45.182.22.53:8000/play/a0b1/index.m3u8?fbclid=Iwb21leAUpZV5jbGNrBSllUmV4dG4DYWVtAjExAHBkb2YFc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEe6T7KyltuhxZUKGf2hFi8JWpnhnH0S2NIFUXX4PA0TJvdNKiyJ6xMB_cKg58_aem_3yQIfSJ_A-clU4K8PJSj7w
+zI4AAEe6T7KyltuhxZUKGf2hFi8JWpnhnH0S2NIFUXX4PA0TJvdNKiyJ6xMB_cKg58_aem_3yQIfSJ_A-clU4K8PJSj7w
