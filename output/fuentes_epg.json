@@ -1,18 +1,1 @@
-[
-  {
-    "url": "https://worker-9dd4.onrender.com/guide.xml",
-    "formato": "XML",
-    "estado": "XMLTV válido",
-    "canales_encontrados": 0,
-    "programas_nuevos": 0,
-    "error": ""
-  },
-  {
-    "url": "https://worker-9dd4.onrender.com/guide.xml.gz",
-    "formato": "GZIP",
-    "estado": "XMLTV válido",
-    "canales_encontrados": 0,
-    "programas_nuevos": 0,
-    "error": ""
-  }
-]
+[]
