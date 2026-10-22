@@ -96,7 +96,7 @@
     "feed_id": "",
     "coincidencia": "sí",
     "guias_catalogo": 80,
-    "programas_encontrados": 0
+    "programas_encontrados": 127
   },
   {
     "canal_lista": "BETHEL TV",
@@ -767,7 +767,7 @@
     "feed_id": "",
     "coincidencia": "sí",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 55
   },
   {
     "canal_lista": "Home & Health HD",
@@ -888,7 +888,7 @@
     "feed_id": "",
     "coincidencia": "sí",
     "guias_catalogo": 41,
-    "programas_encontrados": 0
+    "programas_encontrados": 49
   },
   {
     "canal_lista": "MEGA HD",
@@ -1361,7 +1361,7 @@
     "feed_id": "",
     "coincidencia": "sí",
     "guias_catalogo": 5,
-    "programas_encontrados": 0
+    "programas_encontrados": 52
   },
   {
     "canal_lista": "Tlnovelas",
@@ -1416,7 +1416,7 @@
     "feed_id": "",
     "coincidencia": "sí",
     "guias_catalogo": 0,
-    "programas_encontrados": 0
+    "programas_encontrados": 45
   },
   {
     "canal_lista": "VISION MUSICA",
