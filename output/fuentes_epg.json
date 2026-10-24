@@ -1,18 +1,1 @@
-[
-  {
-    "url": "https://epg.kanya.io/us/guide.xml",
-    "formato": "XML",
-    "estado": "XMLTV válido",
-    "canales_encontrados": 5,
-    "programas_nuevos": 319,
-    "error": ""
-  },
-  {
-    "url": "https://epg.kanya.io/us/guide.xml.gz",
-    "formato": "GZIP",
-    "estado": "XMLTV válido",
-    "canales_encontrados": 0,
-    "programas_nuevos": 0,
-    "error": ""
-  }
-]
+[]
