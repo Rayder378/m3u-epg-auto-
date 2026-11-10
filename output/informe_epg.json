@@ -914,12 +914,12 @@
   },
   {
     "canal_lista": "MI MUSICA PERU",
-    "tvg_id": "",
-    "tvg_name": "",
-    "catalog_id": "",
-    "pais_catalogo": "",
+    "tvg_id": "MiMusicaPeru.pe",
+    "tvg_name": "Mi Musica Peru",
+    "catalog_id": "MiMusicaPeru.pe",
+    "pais_catalogo": "PE",
     "feed_id": "",
-    "coincidencia": "sin ID",
+    "coincidencia": "sí",
     "guias_catalogo": 0,
     "programas_encontrados": 0
   },

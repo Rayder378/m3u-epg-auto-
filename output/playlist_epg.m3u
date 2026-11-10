@@ -165,7 +165,7 @@ http://38.210.3.64:8090/play/a0op/index.m3u8
 http://38.210.3.64:8090/play/a0lh/index.m3u8
 #EXTINF:-1 tvg-id="MiMusicaHits.us" tvg-name="Mi Musica Hits" tvg-logo="https://i.imgur.com/z9MlLFL.png",MI MUSICA HITS
 http://38.210.3.64:8090/play/a0ge/index.m3u8
-#EXTINF:-1,MI MUSICA PERU
+#EXTINF:-1 tvg-id="MiMusicaPeru.pe" tvg-name="Mi Musica Peru" tvg-logo="https://i.imgur.com/wAGju8T.png",MI MUSICA PERU
 http://38.210.3.64:8090/play/a0gg/index.m3u8
 #EXTINF:-1,MTV HD
 http://38.210.3.64:8090/play/a0ew/index.m3u8
